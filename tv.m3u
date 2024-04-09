@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 #EXTINF:-1  group-title="ДНР" catchup="" catchup-source="" catchup-days="" :http-user-agent="",Оплот ТВ HD
 http://92.242.110.52:9835/udp/238.1.12.11:1234
 #EXTINF:-1  group-title="ДНР" catchup="" catchup-source="" catchup-days="" :http-user-agent="",Новороссия ТВ HD
@@ -19,7 +20,7 @@ https://player.smotrim.ru/iframe/stream/live_id/63338
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1  group-title="Россия" catchup="" catchup-source="" catchup-days="" :http-user-agent="",Первый канал
 http://tv.ttk.mx:9000
-#EXTINF:-1  group-title="Россия" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-days="3" :http-user-agent="(   .   )",Первый канал
+#EXTINF:-1  group-title="Россия" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-days="3" :http-user-agent="(   .   ),Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1  group-title="Россия" catchup="" catchup-source="" catchup-days="" :http-user-agent="",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8

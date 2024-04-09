@@ -106,7 +106,7 @@ https://player.smotrim.ru/iframe/stream/live_id/63253
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://player.smotrim.ru/iframe/stream/live_id/63250
 #EXTINF:-1 group-title="Россия",ПРНК
-https://serv25.vintera.tv/1pnk/rezonans/chunks.m3u8
+http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 
 
 

@@ -65,7 +65,7 @@ http://s18209.cdn.ngenix.net/hls/CH_C01_SUPER/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",МИР
 http://s18209.cdn.ngenix.net/hls/CH_C02_MIR/variant.m3u8
 #EXTINF:-1 group-title="Россия",Мир 24
-https://strm.yandex.ru/kal/mir24/mir240_169_480p.json/index-v1-a1.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ4

@@ -16,8 +16,6 @@ http://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 http://91.237.3.3:4022/udp/224.2.2.4:10000
 #EXTINF:-1 group-title="ДНР",Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/63338
-
-
 #EXTINF:-1 group-title="Россия",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Россия",Россия 1
@@ -107,9 +105,6 @@ https://player.smotrim.ru/iframe/stream/live_id/63253
 https://player.smotrim.ru/iframe/stream/live_id/63250
 #EXTINF:-1 group-title="Россия",ПРНК
 http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8

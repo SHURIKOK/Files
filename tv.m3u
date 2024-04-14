@@ -420,6 +420,7 @@ https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 group-title="Детские",Детский Мир
 http://tv.ttk.mx:9063
 #EXTINF:-1 group-title="Детские",Baby Time
@@ -559,7 +560,7 @@ http://95.183.43.237:8080/291/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Победа
 https://bkm.beetv.kz/btv/live/hls/000004534.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",День Победы
-https://mhd.iptv2022.com/p/bWhv5ajKQvJIkLTZqiDNPw,1713121266/streaming/den-pobedi/324/1/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Дом кино
 http://193.201.98.10:5000/c30
 #EXTINF:-1 group-title="Фильмы и сериалы",Дом кино
@@ -668,17 +669,17 @@ https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Индия
 http://91.205.199.7:8000/play/a0sg
 #EXTINF:-1 group-title="Фильмы и сериалы",Блокбастер
-https://mhd116.iptv2022.com/p/F-FQu8P_4SYmXnt-CDlSQA,1713128435/streaming/blokbaster/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/blokbaster-hd.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Про любовь
-https://mhd116.iptv2022.com/p/7NBSGh9sB6ZvkkH37KmnhA,1713128435/streaming/prolubov/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/pro-lyubov.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
-https://mhd116.iptv2022.com/p/qeZ0ii9gIEYX814pFNNdzQ,1713128435/streaming/nashemuzskoe/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/nashe-muzhskoe-hd.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Хит HD
-https://mhd116.iptv2022.com/p/NF9zpHhxC70ZhbBdmTUugQ,1713128435/streaming/hit/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/khit-hd.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
-https://mhd116.iptv2022.com/p/x7mRCAWdKaeBX38VwUKwGg,1713128435/streaming/nashpokaz/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/nash-kinopokaz-hd.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Камеди
-https://mhd116.iptv2022.com/p/6iNRYgVgbqsn-yCTi429hg,1713128436/streaming/kamedi/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/kamedi.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинопоказ
@@ -724,7 +725,7 @@ http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 #EXTINF:-1 group-title="Фильмы и сериалы",Bolt
 http://88.85.172.243:7011/play/a01l
 #EXTINF:-1 group-title="Фильмы и сериалы",Bolt HD
-rtmp://93.189.60.202//991
+https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",FlixSnip
 https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",SHOT TV
@@ -1025,7 +1026,7 @@ http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet
 http://176.113.48.221:8986/98
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet
-http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/720p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 group-title="Познавательные",Смотрим Тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",365 дней
@@ -1140,7 +1141,7 @@ https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTINF:-1 group-title="Познавательные",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство Идей
-https://mhd116.iptv2022.com/p/z2cj09ElB3cdJktiqLemqw,1713128437/streaming/minidei/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/ministerstvo-idey.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
@@ -1188,7 +1189,7 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Конный мир
 http://91.207.59.177/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Оружие
-https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя планета
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя планета
@@ -1244,9 +1245,9 @@ http://88.85.172.243:7006/play/a011
 #EXTINF:-1 group-title="Познавательные",Перпетуум Мобиле
 https://mhd116.iptv2022.com/p/nsLAjEKXKmDWwzWLIHuhIQ,1713128420/streaming/pmobile/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живи!
-https://mhd116.iptv2022.com/p/BENeco4Xq-bO0ocO1SLKMg,1713128420/streaming/jivi/324/1/index.m3u8
+http://176.113.48.221:8986/55
 #EXTINF:-1 group-title="Познавательные",Живи Активно
-https://mhd116.iptv2022.com/p/09WsvbkNX40tySe4h6g7gQ,1713128433/streaming/zhivi_aktivno/324/1/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровое ТВ
 https://mhd116.iptv2022.com/p/7NJpqfYUYqa16d6Rl0FDHQ,1713128413/streaming/zdorovoe/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Психология 21
@@ -1275,13 +1276,13 @@ http://s91412.cdn.ngenix.net/mdrm/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2 HD
 https://bit.ly/3priPf9
 #EXTINF:-1 group-title="Развлекательные",Gags Network
-https://mhd116.iptv2022.com/p/sR5gEMLbHhG9QtVFyO2WMQ,1713128436/streaming/gagsnetwork/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/gags-network.m3u8
 #EXTINF:-1 group-title="Развлекательные",Joy Cook
 https://mhd116.iptv2022.com/p/6JsUYz_93LP44HfvhPZL0w,1713128421/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда
 https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда Премиум
-https://mhd116.iptv2022.com/p/v0hDS4aLxeKRfjVDrOrdXA,1713128424/streaming/edahd/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/eda-hd.m3u8
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
 https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч ТВ
@@ -1319,7 +1320,7 @@ https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33
 #EXTINF:-1 group-title="Спортивные",Футбольный HD
 https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
-https://mhd116.iptv2022.com/p/gYnSS-Zqpuv3ZJnNhCwLcg,1713042031/streaming/nashfootbalhd/324/1/index.m3u8
+https://jekalich.github.io/smtk/channels/match-premier.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL Prime
 http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",Хоккейный HD
@@ -1334,10 +1335,16 @@ http://193.201.98.10:5000/c113
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Спортивные",Старт Триумф
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 group-title="Спортивные",Мир баскетбола
+https://jekalich.github.io/smtk/channels/mir-basketbola.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 1
 https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 1
+http://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 2
 https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2
+http://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD

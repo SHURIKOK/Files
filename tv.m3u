@@ -231,10 +231,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2038",ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр +4
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр +7
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ
@@ -243,10 +243,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ +4
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ +7
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Спас
@@ -282,13 +282,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +2
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +4
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +7
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
@@ -435,7 +435,7 @@ http://tv.ttk.mx:9194
 #EXTINF:-1 group-title="Детские",Капитан Фантастика HD
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские",ТипТоп
-https://mhd116.iptv2022.com/p/teJ-EmHEFanIKFviBN79SA,1715547609/streaming/tiptop/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/L36GhbNC4RL5FEmmC72A8Q,1715806809/streaming/tiptop/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ
@@ -538,11 +538,11 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСезон
-https://mhd116.iptv2022.com/p/i-UOl2GdN8beNhIKq39lyQ,1715720426/streaming/kinosezon/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/6K3XvY9inXvtF-USWRLz3g,1715806807/streaming/kinosezon/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Любимое кино
 http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
-https://mhd116.iptv2022.com/p/YHius0ncuq6MLmnkBtrv0A,1715720436/streaming/sovietmovs/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/dE8osGA-vJ75lDfpGwef5Q,1715806808/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Феникс+ Кино
 https://bkm.beetv.kz/btv/live/hls/000000125.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Смотрим Мелодрамы
@@ -668,17 +668,17 @@ https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Индия
 http://83.234.207.29:8003/play/a014/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Блокбастер
-https://mhd116.iptv2022.com/p/s5yvK_gKkcv1S20RtdBYaQ,1715720441/streaming/blokbaster/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/r3FuW_EfLt-saQd--CxpZA,1715806807/streaming/blokbaster/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Про любовь
-https://mhd116.iptv2022.com/p/RFTILC_oIMS31XN4KG1fxQ,1715720441/streaming/prolubov/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/reIXc_hvorXJOW0Z-p8Z6g,1715806807/streaming/prolubov/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
-https://mhd116.iptv2022.com/p/6zsAWEB1xZih0FCpkLL0rw,1715720441/streaming/nashemuzskoe/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/tR25qrT8EVZvicL6qn2rDQ,1715806807/streaming/nashemuzskoe/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Хит HD
-https://mhd116.iptv2022.com/p/LcgOld_SYbkcUCmKqD-aZQ,1715720442/streaming/hit/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/HT3L8j_XL4afBcbwWVbINQ,1715806807/streaming/hit/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
-https://mhd116.iptv2022.com/p/ZtADAiVE3HLAPa9Uko7AXg,1715720442/streaming/nashpokaz/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/7TGgLzDjLBTmtg2zWWwz_Q,1715806807/streaming/nashpokaz/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Камеди
-https://mhd116.iptv2022.com/p/V19aZo6OF-f2ahMxD5xYTw,1715720442/streaming/kamedi/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/-pc1ESzVAKRIf4buJEFjDA,1715806807/streaming/kamedi/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинопоказ
@@ -1088,7 +1088,7 @@ https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 https://bkm.beetv.kz/btv/live/hls/000000146.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная планета
-https://mhd116.iptv2022.com/p/9B943zAhdZcXk2CZyhjE-w,1715720426/streaming/np/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/iLD1nyXgwnBKFEQBTAGLMQ,1715806811/streaming/np/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 http://213.172.73.170:8081/nimble_live/1066__Jivaya_Planeta/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Тайны Галактики
@@ -1140,7 +1140,7 @@ https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTINF:-1 group-title="Познавательные",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство Идей
-https://mhd116.iptv2022.com/p/XsrEG2_BaJL9NsM3Vst7FQ,1715720443/streaming/minidei/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/1a2NwTGuTkhDzha2wbsWWA,1715806812/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
@@ -1209,7 +1209,7 @@ https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные",#КтоКуда
-https://mhd116.iptv2022.com/p/hMbJsaJh3y1bRWOvoSkltA,1715720436/streaming/hobbies/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/m61PqffMiUJxthBq0mNqCA,1715806812/streaming/hobbies/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто куда
 http://146.158.0.56:80/MirUvlecheniy/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Театр
@@ -1234,15 +1234,15 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные",Пес и Ко
-https://mhd116.iptv2022.com/p/KU1O-bxRmFyS10jiUF9afg,1715720433/streaming/pesiko/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ljrSNv8Q79gy8dj_ZIaQRg,1715806812/streaming/pesiko/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 http://193.201.98.10:5000/c178
 #EXTINF:-1 group-title="Познавательные",ЕГЭ
-https://mhd116.iptv2022.com/p/Cr_9-Ft6vz86Kd4DhNq2Og,1715720419/streaming/ege/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/vv62BYf0uTrhOxpycmamPw,1715806812/streaming/ege/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
 http://88.85.172.243:7006/play/a011
 #EXTINF:-1 group-title="Познавательные",Перпетуум Мобиле
-https://mhd116.iptv2022.com/p/0UoFdfTOOgZu6Fajy8tXkw,1715720426/streaming/pmobile/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/yl-cT7V3xDR6UYLgt4rp3w,1715806811/streaming/pmobile/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живи!
 http://176.113.48.221:8986/55
 #EXTINF:-1 group-title="Познавательные",Живи Активно
@@ -1277,7 +1277,7 @@ https://bit.ly/3priPf9
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://46.17.46.31:2021/channel/n512b153/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Развлекательные",Joy Cook
-https://mhd116.iptv2022.com/p/ujk_I1AvNIxlBNsjpoxMyA,1715720426/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/4XKdyrumbJnHamysQ5Zopw,1715806810/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда
 https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда Премиум
@@ -1319,7 +1319,7 @@ https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33
 #EXTINF:-1 group-title="Спортивные",Футбольный HD
 https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
-https://mhd116.iptv2022.com/p/zBEy5Z1YLbSzEzczYJtJaw,1715720440/streaming/nashfootbalhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Bgjf2tTIY7dwHE9PQGEXTw,1715806814/streaming/nashfootbalhd/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL Prime
 http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",Хоккейный HD

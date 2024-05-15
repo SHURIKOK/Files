@@ -1,0 +1,358 @@
+{
+  "version": "4.3.3.0",
+  "configs": [
+    {
+      "server": "",
+      "server_port": 8388,
+      "password": "",
+      "method": "chacha20-ietf-poly1305",
+      "timeout": 5
+    },
+    {
+      "server": "ak1603.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
+      "server_port": 2376,
+      "password": "faBAoD54k87UJG7",
+      "method": "aes-256-gcm",
+      "remarks": "@OutlineVpnOfficial (poland)",
+      "timeout": 5
+    },
+    {
+      "server": "www.outline.network.ak1932.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
+      "server_port": 3389,
+      "password": "Y6R9pAtvxxzmGC",
+      "method": "aes-256-gcm",
+      "remarks": "t.me/OutlineVpnOfficial | (1932) DE",
+      "timeout": 5
+    },
+    {
+      "server": "45.144.31.179",
+      "server_port": 2036,
+      "password": "9bUeq1OgdYMDs3p2doillE",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "🇷🇺 Россия\nключ от 16.10.2023",
+      "timeout": 5
+    },
+    {
+      "server": "51.77.53.200",
+      "server_port": 2375,
+      "password": "faBAoD54k87UJG7",
+      "method": "aes-256-gcm",
+      "remarks": "🇵🇱PL",
+      "timeout": 5
+    },
+    {
+      "server": "37.140.241.40",
+      "server_port": 55223,
+      "password": "1NKp5UR0YRE28mdf",
+      "method": "aes-256-gcm",
+      "remarks": "????@outlineOpenKey",
+      "timeout": 5
+    },
+    {
+      "server": "156.146.62.160",
+      "server_port": 443,
+      "password": "shadowsocks",
+      "method": "aes-128-cfb",
+      "remarks": "🇨🇭 Швейцария (https://t.me/freeneo_net)",
+      "group": "https://dl.dropbox.com/scl/fi/ii4vjlad9pb7j1i0vtcef/Shadowsocks.json?rlkey=0gysfj0xahn7wbhvax5zt5gum",
+      "timeout": 5
+    },
+    {
+      "server": "213.183.63.69",
+      "server_port": 9000,
+      "password": "a3GFYt36Sm82Vys9",
+      "method": "aes-256-cfb",
+      "remarks": "🇧🇬 Болгария (https://t.me/freeneo_net)",
+      "group": "https://dl.dropbox.com/scl/fi/ii4vjlad9pb7j1i0vtcef/Shadowsocks.json?rlkey=0gysfj0xahn7wbhvax5zt5gum",
+      "timeout": 5
+    },
+    {
+      "server": "172.232.49.192",
+      "server_port": 2443,
+      "password": "42nJxr7iUdyjQ2PZHeSk8zpwWxEqKJAqpRqlqdRQKpg=",
+      "method": "aes-256-gcm",
+      "remarks": "🇫🇷 Франция (https://t.me/freeneo_net)",
+      "group": "https://dl.dropbox.com/scl/fi/ii4vjlad9pb7j1i0vtcef/Shadowsocks.json?rlkey=0gysfj0xahn7wbhvax5zt5gum",
+      "timeout": 5
+    },
+    {
+      "server": "80.71.157.52",
+      "server_port": 7710,
+      "password": "A2RmMQmEDdFNJnq6jSxD2O",
+      "method": "CHACHA20-IETF-POLY1305",
+      "remarks": "🇩🇪 Германия (https://t.me/freeneo_net)",
+      "group": "https://dl.dropbox.com/scl/fi/ii4vjlad9pb7j1i0vtcef/Shadowsocks.json?rlkey=0gysfj0xahn7wbhvax5zt5gum",
+      "timeout": 5
+    },
+    {
+      "server": "77.72.5.150",
+      "server_port": 989,
+      "password": "f8f7aCzcPKbsF8p3",
+      "method": "aes-256-cfb",
+      "remarks": "🇬🇧 Великобритания (https://t.me/freeneo_net)",
+      "group": "https://dl.dropbox.com/scl/fi/ii4vjlad9pb7j1i0vtcef/Shadowsocks.json?rlkey=0gysfj0xahn7wbhvax5zt5gum",
+      "timeout": 5
+    },
+    {
+      "server": "109.201.152.181",
+      "server_port": 443,
+      "password": "shadowsocks",
+      "method": "aes-128-cfb",
+      "remarks": "🇳🇱 Нидерланды (https://t.me/freeneo_net)",
+      "group": "https://dl.dropbox.com/scl/fi/ii4vjlad9pb7j1i0vtcef/Shadowsocks.json?rlkey=0gysfj0xahn7wbhvax5zt5gum",
+      "timeout": 5
+    },
+    {
+      "server": "156.146.62.160",
+      "server_port": 443,
+      "password": "shadowsocks",
+      "method": "aes-128-cfb",
+      "remarks": "🇨🇭 Швейцария (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "194.26.229.18",
+      "server_port": 50744,
+      "password": "sIZ80DZsAC9ZSshS69gYql",
+      "method": "CHACHA20-IETF-POLY1305",
+      "remarks": "🇷🇺 Россия (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "103.172.116.79",
+      "server_port": 9097,
+      "password": "Sn5B7jTqr76aCJT8",
+      "method": "aes-256-cfb",
+      "remarks": "🇸🇬 Сингапур 1 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "103.172.116.103",
+      "server_port": 9097,
+      "password": "Sn5B7jTqr76aCJT8",
+      "method": "aes-256-cfb",
+      "remarks": "🇸🇬 Сингапур 2 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "213.183.63.69",
+      "server_port": 9005,
+      "password": "ZET59LF6DvCC8KVt",
+      "method": "aes-256-cfb",
+      "remarks": "🇧🇬 Болгария 1 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "213.183.63.69",
+      "server_port": 9019,
+      "password": "GA9KzeEgvfxNrgmM",
+      "method": "aes-256-cfb",
+      "remarks": "🇧🇬 Болгария 2 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "213.183.63.69",
+      "server_port": 9011,
+      "password": "M3t2ZEQcMGRWBjRa",
+      "method": "aes-256-cfb",
+      "remarks": "🇧🇬 Болгария 3 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "213.183.63.69",
+      "server_port": 9025,
+      "password": "XPtzA9sCug3SPR4c",
+      "method": "aes-256-cfb",
+      "remarks": "🇧🇬 Болгария 4 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "213.183.63.69",
+      "server_port": 9027,
+      "password": "EXN3S3eQpjE7EJu8",
+      "method": "aes-256-cfb",
+      "remarks": "🇧🇬 Болгария 5 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "213.183.63.69",
+      "server_port": 9027,
+      "password": "GeregetR8cvQHzYr",
+      "method": "aes-256-cfb",
+      "remarks": "🇧🇬 Болгария 6 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "5.188.181.201",
+      "server_port": 9037,
+      "password": "TN2YqghxeFDKZfLU",
+      "method": "aes-256-cfb",
+      "remarks": "🇪🇸 Испания 1 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "5.188.181.201",
+      "server_port": 9054,
+      "password": "VcFuyXvND2yQWSFY",
+      "method": "aes-256-cfb",
+      "remarks": "🇪🇸 Испания 2 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "5.188.181.201",
+      "server_port": 9030,
+      "password": "GeregetR8cvQHzYr",
+      "method": "aes-256-cfb",
+      "remarks": "🇪🇸 Испания 3 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "5.188.181.201",
+      "server_port": 9042,
+      "password": "S7KwUu7yBy58S3Ga",
+      "method": "aes-256-cfb",
+      "remarks": "🇪🇸 Испания 4 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "5.188.181.201",
+      "server_port": 9031,
+      "password": "BwcAUZk8hUFAkDGN",
+      "method": "aes-256-cfb",
+      "remarks": "🇪🇸 Испания 5 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "45.89.52.66",
+      "server_port": 9098,
+      "password": "aLpQtfEZe445QyHk",
+      "method": "aes-256-cfb",
+      "remarks": "🇹🇷 Турция 1 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "45.89.52.66",
+      "server_port": 9031,
+      "password": "BwcAUZk8hUFAkDGN",
+      "method": "aes-256-cfb",
+      "remarks": "🇹🇷 Турция 2 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "45.89.52.66",
+      "server_port": 9042,
+      "password": "S7KwUu7yBy58S3Ga",
+      "method": "aes-256-cfb",
+      "remarks": "🇹🇷 Турция 3 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "45.89.52.66",
+      "server_port": 9040,
+      "password": "p9z5BVADH2YFs3MN",
+      "method": "aes-256-cfb",
+      "remarks": "🇹🇷 Турция 4 (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "198.244.190.189",
+      "server_port": 8443,
+      "password": "8ed4b761-2585-4f75-a688-16b1f3951f1c",
+      "method": "aes-256-gcm",
+      "remarks": "🇬🇧 Великобритания (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    },
+    {
+      "server": "109.201.152.181",
+      "server_port": 443,
+      "password": "shadowsocks",
+      "method": "aes-128-cfb",
+      "remarks": "🇳🇱 Нидерланды (https://mssg.me/neo_tv)",
+      "group": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json",
+      "timeout": 5
+    }
+  ],
+  "onlineConfigSource": [
+    "https://dl.dropbox.com/scl/fi/ii4vjlad9pb7j1i0vtcef/Shadowsocks.json?rlkey=0gysfj0xahn7wbhvax5zt5gum",
+    "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/VPN.json"
+  ],
+  "strategy": null,
+  "index": 17,
+  "global": true,
+  "enabled": false,
+  "shareOverLan": false,
+  "firstRun": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": "",
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "regeneratePacOnUpdate": true,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "skippedUpdateVersion": "",
+  "isVerboseLogging": false,
+  "isIPv6Enabled": false,
+  "generateLegacyUrl": false,
+  "geositeUrl": "",
+  "geositeSha256sumUrl": "",
+  "geositeDirectGroups": [
+    "private",
+    "cn",
+    "geolocation-!cn@cn"
+  ],
+  "geositeProxiedGroups": [
+    "geolocation-!cn"
+  ],
+  "geositePreferDirect": false,
+  "userAgent": "ShadowsocksWindows/$version",
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": "",
+    "RegHotkeysAtStartup": false
+  },
+  "WebProxy": null
+}

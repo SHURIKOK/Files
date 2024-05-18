@@ -1867,7 +1867,12 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/pl
 http://stream-msk-06.ott.tricolor.tv/dtv/id764_MSKSG-PVR-1--Radio_TV/01/plst.m3u8
 #EXTINF:-1 group-title="Радио",Град Петров
 http://stream-msk-10.ott.tricolor.tv/dtv/id851_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8
-#EXTINF:-1 group-title="Радио",Новое Радио
+#EXTINF:-1,Dance Wave! Flac
+#EXTGRP:Радио
+https://dancewave.online/dance.flac.ogg
+#EXTINF:-1,Dance Wave Retro! Flac
+#EXTGRP:Радио
+https://retro.dancewave.online/retrodance.flac.ogg#EXTINF:-1 group-title="Радио",Новое Радио
 http://stream-msk-02.ott.tricolor.tv/dtv/id853_MSKSG-PVR-1--Novoye_Radio/01/plst.m3u8
 #EXTINF:-1 group-title="Радио",Камчатка Лайф Dance
 http://radio.kamchatkalive.ru:8103/dance

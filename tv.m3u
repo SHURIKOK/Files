@@ -1,12 +1,12 @@
 #EXTM3U cache=1000 url-tvg="https://iptvx.one/EPG_LITE.gz" m3uautoload=1
 #EXTINF:-1 group-title="ДНР",Оплот ТВ HD
-http://92.242.110.52:9835/udp/238.1.12.11:1234
+http://31.131.136.4:8001/play/e00g
 #EXTINF:-1 group-title="ДНР",Новороссия ТВ HD
-http://92.242.110.52:9835/udp/238.1.12.13:1234
+http://31.131.136.4:8001/play/e00h
 #EXTINF:-1 group-title="ДНР",Первый республиканский HD
-http://92.242.110.52:9835/udp/238.1.12.9:1234
+http://31.131.136.4:8001/play/e00f
 #EXTINF:-1 group-title="ДНР",Оплот ТВ 2
-http://92.242.110.52:9835/udp/238.1.12.12:1234
+http://31.131.136.4:8001/play/e00i
 #EXTINF:-1 group-title="ДНР",Юнион
 http://31.131.136.4:8001/play/e00j
 #EXTINF:-1 group-title="ДНР",Луганск 24
@@ -450,7 +450,7 @@ http://tv.ttk.mx:9194
 #EXTINF:-1 group-title="Детские",Капитан Фантастика HD
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские",ТипТоп
-https://mhd.iptv2022.com/p/jxGdMpaSV6CuvkE1GwJIdg,1721171740/streaming/tiptop/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/CPadUTVD_UF1AkqYySFOKw,1721259060/streaming/tiptop/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ
@@ -553,13 +553,13 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСезон
-https://mhd.iptv2022.com/p/dmnioPJvHgb7sPOPzfVX0Q,1721171761/streaming/kinosezon/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/BOXCrhnZFv-FNTBQaaG6ZA,1721259140/streaming/kinosezon/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Любимое кино
-https://mhd.iptv2022.com/p/qgizD67UKmjy_PBGMgcVNA,1721171775/streaming/lubimoe_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/qTWWXiGUCtz7l9t1VDhrcQ,1721259156/streaming/lubimoe_kino/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
-https://mhd.iptv2022.com/p/IY7dyYEWvs67VO3hP3YYDA,1721171802/streaming/sovietmovs/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ePMnRShueaYdY4b4HsArFw,1721259747/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Советская киноклассика
-https://mhd.iptv2022.com/p/tMwnnS85PkrIuWiArvq2Aw,1721171812/streaming/sovet_classic/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/4PtTlZT4B0uFED5GVwmQBw,1721259757/streaming/sovet_classic/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Феникс+ Кино
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Смотрим Мелодрамы
@@ -634,9 +634,9 @@ http://188.113.190.15/139/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Start World
 http://188.113.190.15/111/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Cinema
-https://mhd.iptv2022.com/p/VmNdVuS_41ResisP8evUXA,1721171828/streaming/star_cinema/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/pWbvd2BkzTHHUUN5zbLIng,1721259779/streaming/star_cinema/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Family
-https://mhd.iptv2022.com/p/nmvqhAOWstS8oV0NeKyfzw,1721171837/streaming/star_family/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ZQysV37U7hR8_QnS6V05cw,1721259790/streaming/star_family/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1
 http://188.113.190.15/79/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1 HD
@@ -685,19 +685,19 @@ https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Индия
 http://188.113.190.15/51/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Блокбастер
-https://mhd.iptv2022.com/p/e9gPjQ-g2G6_hA6cVaQ7xw,1721171862/streaming/blokbaster/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/CI_mSndEiRFKBp-ZAvl9zw,1721259807/streaming/blokbaster/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Про любовь
-https://mhd.iptv2022.com/p/H3JlvX7Nxm5w4o7_uggQ5w,1721171783/streaming/prolubov/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/RKHpPxMvfyZ7w20rysHpKw,1721259707/streaming/prolubov/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
-https://mhd.iptv2022.com/p/TL-yYd-RP-WT91N0tnZtvg,1721171875/streaming/nashemuzskoe/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/KVPjrmYR-K2USd6wKxMo2Q,1721259910/streaming/nashemuzskoe/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Хит HD
-https://mhd.iptv2022.com/p/1HocBh9E3HLiyfo6kddFHg,1721171888/streaming/hit/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/EnzQaS7Px69FahsZKOufSQ,1721259928/streaming/hit/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
-https://mhd.iptv2022.com/p/1BOxrHs06pk1ZLbm-5shqw,1721171903/streaming/nashpokaz/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/gNnVCIgMnImTLWecyDCujg,1721259944/streaming/nashpokaz/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинопоказ
-https://mhd.iptv2022.com/p/D847e-GjAmdUYxwNSqlzRw,1721171913/streaming/kinopokaz/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/O-znupI69pBKRo6z662hJg,1721259952/streaming/kinopokaz/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Камеди
-https://mhd.iptv2022.com/p/vC1Zp5RaEo0kAShetmW__g,1721171925/streaming/kamedi/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/uiBml0oXh43Q5xspRsgOyQ,1721259965/streaming/kamedi/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСат
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кино ТВ
@@ -711,11 +711,11 @@ http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинеко
 http://188.113.190.15/57/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинеко
-https://mhd.iptv2022.com/p/JfMYmryf_6aIC8iwsIgjRw,1721171941/streaming/kineko/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/KFyWHxCuVtAzGI5DyiEKfw,1721259981/streaming/kineko/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
 http://188.113.190.15/14/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
-https://mhd.iptv2022.com/p/PddF_8ZimOcRyMd3STFxyw,1721171954/streaming/sapfir/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/fKJ9r1NskdOwuF0328MfIA,1721259993/streaming/sapfir/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
 https://livetv.mylifeisgood.net.ru/channels/foxlife.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Cinema
@@ -1105,7 +1105,7 @@ https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 http://109.239.208.82:80/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная планета
-https://mhd.iptv2022.com/p/9GPLmPkV_qBEX71xxUabRw,1721171982/streaming/np/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/0T1rDh_0ux1eHlT9xnF3Zw,1721260028/streaming/np/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 http://213.172.73.170:8081/nimble_live/1066__Jivaya_Planeta/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Тайны Галактики
@@ -1157,7 +1157,7 @@ http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство Идей
-https://mhd.iptv2022.com/p/RmVkR_1M7EGE-yU00n9vYA,1721172001/streaming/minidei/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/y6ZtpMw94c0wgM5XNEOW7g,1721260043/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
@@ -1197,7 +1197,7 @@ http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дайвинг.TV
 http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
-https://mhd.iptv2022.com/p/aBv86fCSZMmYOSq2lUkGvw,1721172016/streaming/zoopark/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/345KH6PtU8QHgzDs5Cblhg,1721260115/streaming/zoopark/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Canal+ Motor
@@ -1226,7 +1226,7 @@ https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные",#КтоКуда
-https://mhd.iptv2022.com/p/nypzAudyHBNSSvtfh_81QQ,1721172031/streaming/hobbies/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/jBVfTDCpGY9G-Uq2EGKetg,1721260135/streaming/hobbies/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто куда
 http://146.158.0.56:80/MirUvlecheniy/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Театр
@@ -1251,15 +1251,15 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные",Пес и Ко
-https://mhd.iptv2022.com/p/g4tI6N5AGdqGivlxXwPz4w,1721172047/streaming/pesiko/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/qZfE-6DXooEnuaIOCeU7Zg,1721260152/streaming/pesiko/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 group-title="Познавательные",ЕГЭ
-https://mhd.iptv2022.com/p/-_sHurEF02sOa_e13MqnLQ,1721172058/streaming/ege/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/-_sHurEF02sOa_e13MqnLQ,1721172058/streaming/ege/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
 http://88.85.172.243:7006/play/a011
 #EXTINF:-1 group-title="Познавательные",Перпетуум Мобиле
-https://mhd.iptv2022.com/p/gC7yvR86T-5DUA82b3-2Mw,1721172072/streaming/pmobile/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/aNrw3eCtXz2dop8jEYwEKw,1721260166/streaming/pmobile/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живи!
 http://176.113.48.221:8986/55
 #EXTINF:-1 group-title="Познавательные",Живи Активно
@@ -1294,9 +1294,9 @@ https://bit.ly/3priPf9
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://46.17.46.31:2021/channel/n512b153/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Развлекательные",Joy Cook
-https://mhd.iptv2022.com/p/meGfpaR1Fi7M6N_Mq_QCGQ,1721172085/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Z0FgRa2QCOMuNJZAMEwpuQ,1721260180/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда
-https://mhd.iptv2022.com/p/0r08Pgr6enKEWvnPz3H1hA,1721172097/streaming/eda/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/-uwpq9IW9jghdMLZp509ZA,1721260192/streaming/eda/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда Премиум
 http://46.17.46.31:2021/channel/n723486ec/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
@@ -1304,73 +1304,73 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч ТВ
 http://188.113.190.15/6/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч ТВ
-https://mhd.iptv2022.com/p/r1E_ltrvWfUW4w24Hmtzlg,1721172121/streaming/matchott/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Vnaj2jXr2HRFz84DT64jRw,1721260221/streaming/matchott/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
-https://mhd.iptv2022.com/p/hAlATrIJjr1XR0h64AP9Yg,1721172131/streaming/nashsport/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/kH2vjsWyvVKZxX1daU5-_w,1721260233/streaming/nashsport/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
 http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
-https://mhd.iptv2022.com/p/dm2itlpD2X1nslsuhtm7gQ,1721172140/streaming/boectv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/3GnG3UpUsWukC_csA9k65g,1721260248/streaming/boectv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL
 http://188.113.190.15/80/video.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL
-https://mhd.iptv2022.com/p/ZzZezsYcYVSavvVTEz6Nrg,1721172149/streaming/khltv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/_JBwqrImMewqppcN6jimkQ,1721260258/streaming/khltv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 http://188.113.190.15/97/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
-https://mhd.iptv2022.com/p/cfHPK8FG42OFOcZMxoST2Q,1721172159/streaming/match_arena/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/EfQAWPF8wQRO_3Vr_0TK0g,1721260268/streaming/match_arena/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Игра
 http://188.113.190.15/142/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Игра
-https://mhd.iptv2022.com/p/g7ErU8afmFRU0c5VE0-Gmg,1721172167/streaming/match_igra/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/flE1Lbv90NEqE8FGCeoKDw,1721260276/streaming/match_igra/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер
 http://188.113.190.15/103/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер
-https://mhd.iptv2022.com/p/dhwbCbaC99DiE0vrjnMFwg,1721172175/streaming/nashfootbal/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/EeuM2LfyRQ66MQGXFZqQ0g,1721260285/streaming/nashfootbal/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://sc.id-tv.kz/BoksTV_36_37.m3u8
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
-https://mhd.iptv2022.com/p/AKe4y2T-WYPutPmR6utz0w,1721172185/streaming/bokstv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/4WdhrcpRQyHGQODYJtNl2Q,1721260295/streaming/bokstv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 http://188.113.190.15/175/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-https://mhd.iptv2022.com/p/UHw9zJpkoJgzn6RiUnm2zg,1721172194/streaming/footbal1hd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/cS3mWmNG7HkOcLUws-Ufzw,1721260305/streaming/footbal1hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
 http://188.113.190.15/176/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-https://mhd.iptv2022.com/p/Mva5xZL6pwR1dWiFZ7EuEQ,1721172203/streaming/footbal2hd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/wj5mnJ8tYIbFtRgaHC9vcA,1721260313/streaming/footbal2hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 http://188.113.190.15/177/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-https://mhd.iptv2022.com/p/BZvfeJVNL2ySzj3aAXjoLA,1721172211/streaming/footbal3hd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/7sAQbMStmKff2fJCLPq7Hg,1721260323/streaming/footbal3hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
 http://188.113.190.15/76/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
-https://mhd.iptv2022.com/p/bAS5hzIBC1-330RlKu8law,1721172222/streaming/konniy/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/bAS5hzIBC1-330RlKu8law,1721172222/streaming/konniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Точка отрыва
 http://188.113.190.15/183/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбол
 http://188.113.190.15/105/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбол
-https://mhd.iptv2022.com/p/wCBqG9_3xoxHWUlSSDdNvg,1721172233/streaming/footbal/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/9ZxuM-4he6xy_yW61B7B9A,1721260383/streaming/footbal/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",M-1 Global
 http://sc.id-tv.kz/M-1_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",M-1 Global
-https://mhd.iptv2022.com/p/uv-a35_2pKl4EynSF5psLA,1721172245/streaming/m1global/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/A85kTAmE4poSC-SNIVtbqw,1721260396/streaming/m1global/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",FightBox
-https://mhd.iptv2022.com/p/wOE_eWTSKbRnzVbFfTKgHw,1721172255/streaming/fightbox/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ydkaYcL20mF65yACNVm67g,1721260415/streaming/fightbox/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Спортивный HD
 https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33_90563280/480q/1b6d7c2dd2f44c77f26d7ffa2897399f/4867405759.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбольный HD
 https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
-https://mhd.iptv2022.com/p/8n0AJh7l9dldyg0c2aQ6aw,1721172267/streaming/nashfootbalhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/6QIoc6skF50F9SVEBC-Lfg,1721260440/streaming/nashfootbalhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL Prime
 http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL Prime
-https://mhd.iptv2022.com/p/9cHcJLyOgmMYUnR51QYP4g,1721172277/streaming/khlhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/xOCV41mOZxE0ibp0GiSP1Q,1721260450/streaming/khlhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Хоккейный HD
 https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33_92079550/480q/1b7b4c6773c34a4abd51718269a8a089/4867406233.m3u8
 #EXTINF:-1 group-title="Спортивные",viju+ Sport

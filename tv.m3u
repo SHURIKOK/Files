@@ -597,37 +597,37 @@ http://188.113.190.15/188/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Cinema Classik
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Kino 24
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+http://146.158.0.56:80/Pro100TV/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000
-http://188.113.190.15/31/video.m3u8
+http://91.205.199.3/tv1000/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000
 http://sc.id-tv.kz/TV1000_34_35.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Action
-http://188.113.190.15/30/video.m3u8
+http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Action
 http://sc.id-tv.kz/TV1000Action_34_35.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Русское кино
-http://188.113.190.15/35/video.m3u8
+http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Русское кино
 http://sc.id-tv.kz/TV1000RuKino_34_35.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
-http://188.113.190.15/203/video.m3u8
+http://91.205.199.3/vipcomedi/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
-http://5.153.180.133:8001/play/a01l
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
-http://188.113.190.15/202/video.m3u8
+http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
-http://5.153.180.133:8001/play/a01m
+http://95.156.76.230:33001/udp/230.4.34.108:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
-http://188.113.190.15/201/video.m3u8
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
-http://5.153.180.133:8001/play/a01n
+http://95.156.76.230:33001/udp/230.4.34.107:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
-http://5.153.180.133:8001/play/a09q
+http://91.205.199.3:80/vipserialhd/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",.Sci-Fi
 https://mhd.iptv2022.com/p/MGCLjJPfxiF7aKEGCAvSjw,1724452169/streaming/sci-fi/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",.Red
@@ -643,20 +643,20 @@ https://mhd.iptv2022.com/p/mMKquJj3A1DhT3lnUs_cAQ,1724452221/streaming/star_cine
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Family
 https://mhd.iptv2022.com/p/A2qEGJJdYwquzej0AVwERg,1724452229/streaming/star_family/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1
-http://188.113.190.15/79/video.m3u8
+http://31.148.48.15:80/A1/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1 HD
 http://tv.ttk.mx:9155
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://188.113.190.15/134/video.m3u8
+http://31.148.48.15:80/A2/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 2 HD
 http://tv.ttk.mx:9156
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia Hit HD
-https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
+http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia Hit HD
-http://212.22.76.51:83/Amedia_Hit/tracks-v1a1/mono.m3u8
+http://hls.seversk.ru:8080/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia Premium HD
-http://188.113.190.15/140/video.m3u8
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia Premium
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://ott-cdn.ucom.am/s64/04.m3u8
@@ -714,11 +714,11 @@ http://88.85.172.243:7006/play/a015
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинеко
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинеко
-http://188.113.190.15/57/video.m3u8
+http://95.156.76.230:33001/udp/230.4.34.82:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинеко
 https://mhd.iptv2022.com/p/VFDhJfUBO8KYLLsHPTMxBg,1724452466/streaming/kineko/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
-http://188.113.190.15/14/video.m3u8
+http://95.156.76.230:33001/udp/230.4.34.71:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
 https://mhd.iptv2022.com/p/vCNjmKXfhI7_RzaQQMKLQw,1724452478/streaming/sapfir/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
@@ -744,11 +744,11 @@ http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Фильмы и сериалы",ТВ XXI
 http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 #EXTINF:-1 group-title="Фильмы и сериалы",Bolt
-http://188.113.190.15/84/video.m3u8
+http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Bolt HD
-http://88.135.128.20:7272/6B1DxxB8sXUqpZM
+http://188.190.222.48:8765/Bolt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",FlixSnip
-https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
+http://hls.seversk.ru:8080/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",SHOT TV
 https://mhd.iptv2022.com/p/R2PLe7CGzS-M_AXpdohOtQ,1724452512/streaming/shottv/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Иллюзион+
@@ -756,15 +756,15 @@ http://tv.ttk.mx:9028
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Иллюзион
 http://tv.ttk.mx:9027
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский бестселлер
-http://5.153.180.133:8000/play/a04w
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский бестселлер
 http://tv.ttk.mx:9043
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Роман
-http://5.153.180.133:8000/play/a04y
+http://95.156.76.230:33001/udp/230.4.34.69:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Роман
 http://tv.ttk.mx:9042
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
-http://5.153.180.133:8000/play/a04x
+http://95.156.76.230:33001/udp/230.4.34.71:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
 http://tv.ttk.mx:9051
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
@@ -782,7 +782,7 @@ http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",НСТ
 https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",НСТ
-https://bkm.beetv.kz/btv/live/hls/000000078.m3u8
+http://91.142.158.107:8092/play/29/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",НСТ
 http://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Trash TV
@@ -1033,15 +1033,15 @@ http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
 http://135.181.115.81:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные",Viju Explore
-http://188.113.190.15/32/video.m3u8
+http://91.205.199.3:80/viasatexplorer/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju Explore
 http://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju History
-http://188.113.190.15/33/video.m3u8
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные",Viju History
 http://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju Nature
-http://188.113.190.15/28/video.m3u8
+http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju Nature
 http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet

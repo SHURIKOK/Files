@@ -1,4 +1,4 @@
-#EXTM3U cache=1000 url-tvg="https://iptvx.one/EPG_LITE.gz" m3uautoload=1
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE.gz" m3uautoload=1
 #EXTINF:-1 group-title="ДНР",Оплот ТВ HD
 http://iptv.mega.net.ru:8888/Oplot_HD/mono.m3u8
 #EXTINF:-1 group-title="ДНР",Новороссия ТВ HD
@@ -447,7 +447,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/va
 http://tv.ttk.mx:9063
 #EXTINF:-1 group-title="Детские",Baby Time
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/ZqzZBDakzu0QYWkWjYbeIg,1726783194/streaming/baby_time/324/1/index.m3u8
+https://mhd.iptv2022.com/p/hrjIS2JbA0XcKr2iiD91LQ,1726870744/streaming/baby_time/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -460,10 +460,10 @@ http://tv.ttk.mx:9194
 https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",ТипТоп
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/N6sDrZ61viOoLniYCvWzYQ,1726783217/streaming/tiptop/324/1/index.m3u8
+https://mhd.iptv2022.com/p/Wv1Gy4IefZ3ZGJY_uZ0XNQ,1726870767/streaming/tiptop/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/LU2kxdEie_IqkeumyT4cVA,1726783235/streaming/levatv/324/1/index.m3u8
+https://mhd.iptv2022.com/p/evxvvvYvYeg1rxwWpUKSMw,1726870787/streaming/levatv/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ HD
@@ -501,12 +501,12 @@ http://tv.ttk.mx:9026
 http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Детские",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/3vgRPW6EewuiJgWoe_IkiA,1726783267/streaming/skazka/324/1/index.m3u8
+https://mhd.iptv2022.com/p/8piRT2Pt9Fv2GNKHAc-vzg,1726870803/streaming/skazka/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",В гостях у сказки
 https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/-ExuoQY1CSiK18Cs_aliBA,1726783282/streaming/stskids/324/1/index.m3u8
+https://mhd.iptv2022.com/p/7mHbFQ24RK1mcQMrGq9gzQ,1726870819/streaming/stskids/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 http://iptv.mega.net.ru:8888/CTC_Kids/mono.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon HD
@@ -567,15 +567,15 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСезон
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/I_PBjndscuNkyWUOrfN2eA,1726783302/streaming/kinosezon/324/1/index.m3u8
+https://mhd.iptv2022.com/p/_VzjkJ1Gt4iAT_hvD91C1g,1726870839/streaming/kinosezon/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Любимое кино
 http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/v_Fmy4ES6EFl6XXz_54OeA,1726783317/streaming/sovietmovs/324/1/index.m3u8
+https://mhd.iptv2022.com/p/C79o70hm_Axw2QNHQhkG1g,1726870855/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Советская киноклассика
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/NNEjsANbX2PYk_9Kk2zySQ,1726783328/streaming/sovet_classic/324/1/index.m3u8
+https://mhd.iptv2022.com/p/EgjoTmMVbc8HZjsG0ui-DA,1726870865/streaming/sovet_classic/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Феникс+ Кино
 http://hls.seversk.ru:8080/play/a010/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Смотрим Мелодрамы
@@ -605,9 +605,9 @@ http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Мир Сериала
 rtmp://185.26.157.3/live//mir_seriala
 #EXTINF:-1 group-title="Фильмы и сериалы",Kino 24
-http://api.peers.tv/timeshift/kino24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/kino24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Про100 ТВ
-http://hls.peers.tv/streaming/pro100/126/copy_4_3/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://hls.peers.tv/streaming/pro100/126/copy_4_3/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",MM Скорость HD
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000
@@ -623,19 +623,19 @@ http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Русское кино
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
 http://95.156.76.230:33001/udp/230.4.34.108:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
 http://95.156.76.230:33001/udp/230.4.34.107:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 group-title="Фильмы и сериалы",.Sci-Fi
@@ -650,10 +650,10 @@ https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u
 https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/Og7M0fp2adVuYSBGTJ0cxg,1726783475/streaming/star_cinema/324/1/index.m3u8
+https://mhd.iptv2022.com/p/iWVvDWbcio-ezpbZL8zc0w,1726871249/streaming/star_cinema/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/wZkxpXkfxHCID4G2hRJ36w,1726783485/streaming/star_family/324/1/index.m3u8
+https://mhd.iptv2022.com/p/5qZKJckQmdM_u92nDP5CHA,1726871259/streaming/star_family/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1
 http://31.148.48.15:80/A1/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1 HD
@@ -765,15 +765,15 @@ http://tv.ttk.mx:9028
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Иллюзион
 http://tv.ttk.mx:9027
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский бестселлер
-http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский бестселлер
 http://tv.ttk.mx:9043
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Роман
-http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Роман
 http://tv.ttk.mx:9042
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
-http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3ODMzNTksImlhdCI6MTcyNjY5Njk1OSwiY2lkIjo2LCJ1aWQiOjgyOTQ2Mzg5NywicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.WIPZdq4lberTFbtWCkoMuJ2q00snOhn6SsTtPkVEJ38&offset=3
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4NzEwOTAsImlhdCI6MTcyNjc4NDY5MCwiY2lkIjo2LCJ1aWQiOjgzMDA5NTQ0OSwicmVnIjpmYWxzZSwiaXAiOjM1NjExMDQzMDgsImFkdWx0IjpmYWxzZX0.lcefFJONtpFRFppIUZUiYwNzk814I1uibfl9pUULrz0&offset=3
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
 http://tv.ttk.mx:9051
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
@@ -1120,7 +1120,7 @@ https://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/m4wgfodvEng8wQtSUndWeQ,1726783575/streaming/np/324/1/index.m3u8
+https://mhd.iptv2022.com/p/0D3HUApDKgOZEgXSAX0MbA,1726871439/streaming/np/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Тайны Галактики
@@ -1177,7 +1177,7 @@ http://188.113.190.15/161/video.m3u8
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство Идей
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/vHiBnc3DalDNMO_ALg6uyQ,1726783591/streaming/minidei/324/1/index.m3u8
+https://mhd.iptv2022.com/p/WnzcGewQzU-DmDntQbQOHA,1726871457/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
@@ -1280,7 +1280,7 @@ http://5.153.180.133:8004/play/a0a3
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/h6xiTEP63vDOcAsfMpZsIA,1726783609/streaming/pmobile/324/1/index.m3u8
+https://mhd.iptv2022.com/p/Sd6rxP_dM2tRkqjLu6pRYw,1726871479/streaming/pmobile/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живи!
 http://5.153.180.133:8005/play/o0093
 #EXTINF:-1 group-title="Познавательные",Живи Активно
@@ -1295,17 +1295,17 @@ http://tv.ttk.mx:9146
 http://tv.ttk.mx:9191
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/rqEE18OBbU_vNerEB-Gjkg,1726783629/streaming/travelhd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/RHaXIqQa8ROxZaRNz-XEnw,1726871515/streaming/travelhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travelxp HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/S2DU7TB4lxAilz9-qC48oQ,1726783638/streaming/travelxp/324/1/index.m3u8
+https://mhd.iptv2022.com/p/Y_Mt2JkGmtODnfJerNZaxA,1726871526/streaming/travelxp/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://195.158.222.7:8104//index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/0zKa_Be3kEZIobNbPltS3A,1726783710/streaming/anekdot/324/1/index.m3u8
+https://mhd.iptv2022.com/p/XYsz2E3XRMK4HvbYHm2fqg,1726871579/streaming/anekdot/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://5.153.180.133:8005/play/o0065
 #EXTINF:-1 group-title="Развлекательные",Сарафан
@@ -1320,107 +1320,107 @@ https://bit.ly/3priPf9
 http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Joy Cook
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/WIk2Ixs_S24iu8zmF9PvBA,1726783678/streaming/joycook/324/1/index.m3u8
+https://mhd.iptv2022.com/p/_TRv3EHqMUcQgKZaqipSsw,1726871543/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/lbxvVLXT-INlP0U0gxCSdQ,1726783726/streaming/eda/324/1/index.m3u8
+https://mhd.iptv2022.com/p/DO573yFON-5DYtwJwBP0NA,1726871593/streaming/eda/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда Премиум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/1HAM09rbqvxQhTFMTFKOcw,1726783691/streaming/edahd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/Wk3iR1vCoeq1i6d_X8PfAg,1726871556/streaming/edahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
 https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч ТВ
 http://188.113.190.15/6/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/KGfupBOp9J0pHFS6vzOkGQ,1726783752/streaming/matchott/324/1/index.m3u8
+https://mhd.iptv2022.com/p/9WFPhcR30HUqu_YeE8lTLg,1726871621/streaming/matchott/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/PS_aOW8T2wovUqd19-Mo_w,1726783763/streaming/nashsport/324/1/index.m3u8
+https://mhd.iptv2022.com/p/FwCJhSNRBhG2SNaRGJOXWA,1726871632/streaming/nashsport/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
 http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/dpsG5l9exsS-HCjZd2fcnw,1726783773/streaming/boectv/324/1/index.m3u8
+https://mhd.iptv2022.com/p/QTFxn-JLHb3P3aKckHTW9A,1726871641/streaming/boectv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL
 http://188.113.190.15/80/video.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/9j3ODZqDRl909sEJjxHk1Q,1726783783/streaming/khltv/324/1/index.m3u8
+https://mhd.iptv2022.com/p/E_vK-KtDSIzM919j_fRl0w,1726871652/streaming/khltv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 http://188.113.190.15/97/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/12Q-wPRMidCgS3I3fmSWOA,1726783795/streaming/match_arena/324/1/index.m3u8
+https://mhd.iptv2022.com/p/ZtKHttA9xgz4a9jRR_qKkg,1726871666/streaming/match_arena/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Игра
 http://188.113.190.15/142/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Игра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/uzPJtEGOdM68jMM8Cow-Ww,1726783804/streaming/match_igra/324/1/index.m3u8
+https://mhd.iptv2022.com/p/vC8I-3-3B_s7_VmYGsXRYw,1726871675/streaming/match_igra/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер
 http://188.113.190.15/103/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/l99CNXCATxOGH6GpwPsmtQ,1726783813/streaming/nashfootbal/324/1/index.m3u8
+https://mhd.iptv2022.com/p/06x5OlYxcrtqDs9TaE-8EQ,1726871686/streaming/nashfootbal/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://sc.id-tv.kz/BoksTV_36_37.m3u8
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/PwUgpsTwzvPzoZsT5hKUdw,1726783825/streaming/bokstv/324/1/index.m3u8
+https://mhd.iptv2022.com/p/Z_bnWD9BWoimofw1q72HJQ,1726871697/streaming/bokstv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 http://188.113.190.15/175/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/V3HuGViK7aymqHQnmo-hWQ,1726783837/streaming/footbal1hd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/Xc5HJgcUfuCQIkxyILz4yQ,1726871709/streaming/footbal1hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
 http://188.113.190.15/176/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/fp2Ok2R0bh-d7fbuz_78nw,1726783846/streaming/footbal2hd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/NxFR7uQiFsL8HSsV6MO1Uw,1726871719/streaming/footbal2hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 http://188.113.190.15/177/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/Y2mKe4_9cizwhfsvCcRLaA,1726783857/streaming/footbal3hd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/C82A1Hf3mUu0Jeh5C_Creg,1726871728/streaming/footbal3hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
 http://188.113.190.15/76/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/gFVeEPN7IGVsODFVfbUY7Q,1726783868/streaming/konniy/324/1/index.m3u8
+https://mhd.iptv2022.com/p/L3vLxhwB063y3RHVgTmwUw,1726871742/streaming/konniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Точка отрыва
 http://188.113.190.15/183/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбол
 http://188.113.190.15/105/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/USJskd7LltaUt4Lh_FPABA,1726783879/streaming/footbal/324/1/index.m3u8
+https://mhd.iptv2022.com/p/-7YF5uSw37Ax5MTckHlv8w,1726871752/streaming/footbal/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",M-1 Global
 http://sc.id-tv.kz/M-1_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",M-1 Global
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/bWWLWNNb93p8sp9izo9k0Q,1726783892/streaming/m1global/324/1/index.m3u8
+https://mhd.iptv2022.com/p/G3jvOxFePlutKKqXYnvNOQ,1726871763/streaming/m1global/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",FightBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/aewGlj9WXR1-1uy0tw7JtA,1726783903/streaming/fightbox/324/1/index.m3u8
+https://mhd.iptv2022.com/p/QbrteRiIGcRvDsSax4pVHg,1726871777/streaming/fightbox/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Спортивный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/m5OTAymwvcwn095vPZJDIA,1726783915/streaming/sportivniyhd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/2I_ud0LW_eJrmrKnDOAoGw,1726871788/streaming/sportivniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбольный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/FTiPWRXGLjWtxhb1F7v68g,1726783927/streaming/footbolniyhd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/P-GZ7-UUMSKEl7d1GTkqUA,1726871798/streaming/footbolniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/hMwV1xjsZFDren3qr_BTgg,1726783940/streaming/nashfootbalhd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/sg8pJJf2jTcYg06l6DdTIw,1726871812/streaming/nashfootbalhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL Prime
 http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/z8q8mC_inqU6GYC5xZKLag,1726783950/streaming/khlhd/324/1/index.m3u8
+https://mhd.iptv2022.com/p/rp0o-nbQEFICs3ocnD4uPg,1726871827/streaming/khlhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Хоккейный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/x4sBGt1I-2rPfq7EbkioDA,1726783962/streaming/hokkeyniy/324/1/index.m3u8
+https://mhd.iptv2022.com/p/BvNznvA-pijcbxEB1YWCrg,1726871839/streaming/hokkeyniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",viju+ Sport
 http://sc.id-tv.kz/ViasatSport_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные",viju+ Sport
@@ -1429,10 +1429,10 @@ http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8?token=hs06e
 http://5.153.180.133:8000/play/a01k
 #EXTINF:-1 group-title="Спортивные",СТАРТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/-eKOyrpByKkm5U2epkoKPg,1726783974/streaming/start/324/1/index.m3u8
+https://mhd.iptv2022.com/p/6OdBSf_EqeuOKUXtOiulUA,1726871850/streaming/start/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Старт Триумф
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/qAzj63P8Ey18g0dOZ5OkjA,1726783987/streaming/start-triumf/324/1/index.m3u8
+https://mhd.iptv2022.com/p/8euqrm3LcInWiiFnzKcG-A,1726871862/streaming/start-triumf/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 1
 http://81.7.108.21:9000/play/Eurosport1-DVBC290-sti4400018450230
 #EXTINF:-1 group-title="Спортивные",Eurosport 1

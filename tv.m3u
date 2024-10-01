@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE.gz" m3uautoload=1
 #EXTINF:-1 group-title="ДНР",Оплот ТВ HD
-http://iptv.mega.net.ru:8888/Oplot_HD/mono.m3u8
+http://31.131.136.4:8001/play/e00g
 #EXTINF:-1 group-title="ДНР",Новороссия ТВ HD
-http://iptv.mega.net.ru:8888/novorossiya/mono.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 group-title="ДНР",Первый республиканский HD
-http://iptv.mega.net.ru:8888/1_Respublikanskii/mono.m3u8
+http://31.131.136.4:8001/play/e00f
 #EXTINF:-1 group-title="ДНР",Оплот ТВ 2
-http://iptv.mega.net.ru:8888/Oplot_2/mono.m3u8
+http://31.131.136.4:8001/play/e00i
 #EXTINF:-1 group-title="ДНР",Юнион
-http://iptv.mega.net.ru:8888/Union/mono.m3u8
+http://91.207.115.228:12000/play/a00o
 #EXTINF:-1 group-title="ДНР",Луганск 24
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://tv.gtrklnr.ru/hls/Lugansk24.m3u8

@@ -578,7 +578,7 @@ https://mhd.iptv2022.com/p/txERTGM5vmnUdd1btaZ9Fg,1728259165/streaming/sovietmov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd.iptv2022.com/p/CXhnPHxPIvSGl6fua7DI3w,1728259174/streaming/sovet_classic/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Феникс+ Кино
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=(  .  )
 https://mhd.iptv2022.com/p/sr6cNEkccXFmSja7EAxmqA,1728259203/streaming/fenixkino/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Смотрим Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v3a1/mono.m3u8

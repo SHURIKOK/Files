@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE.gz" m3uautoload=1
 #EXTINF:-1 group-title="ДНР",Оплот ТВ HD
-http://31.131.136.4:8001/play/e00g
+http://130.193.73.10:8937/play/a003
 #EXTINF:-1 group-title="ДНР",Новороссия ТВ HD
-https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+http://130.193.73.10:8937/play/a002
 #EXTINF:-1 group-title="ДНР",Первый республиканский HD
-http://31.131.136.4:8001/play/e00f
+http://130.193.73.10:8937/play/a001
 #EXTINF:-1 group-title="ДНР",Оплот ТВ 2
-http://31.131.136.4:8001/play/e00i
+http://130.193.73.10:8937/play/a004
 #EXTINF:-1 group-title="ДНР",Юнион
-http://91.207.115.228:12000/play/a00o
+http://130.193.73.10:8937/play/a005
 #EXTINF:-1 group-title="ДНР",Луганск 24
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://tv.gtrklnr.ru/hls/Lugansk24.m3u8

@@ -579,8 +579,8 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000669.m3u8
 #EXTINF:-1 group-title="Новости",Евроновости
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="Фильмы и сериалы",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы",Кино Мульт
+http://109.200.130.123:7537/play/a024
 #EXTINF:-1 group-title="Фильмы и сериалы",Детское кино International
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://v2.catcast.tv/content/38720/index.m3u8
@@ -1103,17 +1103,17 @@ http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
 http://135.181.115.81:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные",Viju Explore
-http://91.205.199.3:80/viasatexplorer/index.m3u8
+http://flu.ttk.mx:90/Explorer/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные",Viju Explore
-http://91.194.191.241:8081/chid106/mono.m3u8
+https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju History
-http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные",Viju History
-http://91.194.191.241:8081/chid105/mono.m3u8
+https://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju Nature
-http://91.205.199.3:80/viasatnature/index.m3u8
+http://flu.ttk.mx:90/Nature/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные",Viju Nature
-http://91.194.191.241:8081/chid428/mono.m3u8
+https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet
 http://95.52.166.162:82/play/a077
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet

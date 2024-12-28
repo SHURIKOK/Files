@@ -459,3 +459,86 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+
+
+#EXTINF:-1 group-title="Детские",Детский Мир
+http://tv.ttk.mx:9063
+#EXTINF:-1 group-title="Детские",Baby Time
+#EXTVLCOPT:http-user-agent=(  .  )
+https://mhd158.iptv2022.com/p/-874mCmqncbtlCK0oFIyHQ,1735429376/streaming/baby_time/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Детские",СОЛНЦЕ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Детские",Супергерои
+http://tv.ttk.mx:9194
+#EXTINF:-1 group-title="Детские",Капитан Фантастика HD
+https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",ТипТоп
+#EXTVLCOPT:http-user-agent=(  .  )
+https://mhd158.iptv2022.com/p/w4c50OcryHHwvNqxKKO1-w,1735429392/streaming/tiptop/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские",Лёва
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzU0Mjk0MDgsImlhdCI6MTczNTM0MzAwOCwiY2lkIjo2LCJ1aWQiOjg3NTUzMTI0OCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.yhf--Lw3ONnFcjTk_6ufpiKirxZpT-y3I9iEuapTmpA&offset=10
+#EXTINF:-1 group-title="Детские",Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик ТВ HD
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Детские",Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",О!
+http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
+#EXTINF:-1 group-title="Детские",Рыжий
+https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://5.153.180.133:8000/play/a00c
+#EXTINF:-1 group-title="Детские",Gulli Girl
+https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",TiJi
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+#EXTVLCOPT:http-user-agent=(  .  )
+https://mhd158.iptv2022.com/p/65WqazVklRPXz1nFr5T0Wg,1735429422/streaming/multimania/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Уникум
+http://tv.ttk.mx:9026
+#EXTINF:-1 group-title="Детские",СОЛНЦЕ
+http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+#EXTVLCOPT:http-user-agent=(  .  )
+https://mhd158.iptv2022.com/p/XhrB6_FQ5RQY24g6_GjAWQ,1735429433/streaming/skazka/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+#EXTVLCOPT:http-user-agent=(  .  )
+https://mhd158.iptv2022.com/p/-UV6UIe-6ZZlTybiNFXSgA,1735429447/streaming/stskids/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://iptv.mega.net.ru:8888/CTC_Kids/mono.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Детские",Nick Jr
+http://87.99.87.203:2007/channel/n533bb577/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
+#EXTINF:-1 group-title="Детские",Nicktoons
+http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="Детские",JimJam
+http://95.217.196.109:8081/russia/jimjam/chunks.m3u8
+#EXTINF:-1 group-title="Детские",Boomerang
+http://176.222.190.75/btv/SWM/Boomerang/Boomerang.m3u8
+#EXTINF:-1 group-title="Детские",Cartoonito
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network

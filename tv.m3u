@@ -22,16 +22,16 @@ http://91.207.114.220:9001/play/a05n/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Россия",Первый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Россия",Россия 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Россия",Россия 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Россия",Звезда
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Россия",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",Звезда Плюс
@@ -40,77 +40,77 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",ОТР
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:-1 group-title="Россия",ТВЦ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Россия",НТВ-Мир
 http://sc.id-tv.kz/NTV_34_35.m3u8
 #EXTINF:-1 group-title="Россия",Пятый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:-1 group-title="Россия",Карусель
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Россия",Рен ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Россия",Че
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Россия",Спас
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C03_SPAS/variant.m3u8
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_ZK/variant.m3u8
 #EXTINF:-1 group-title="Россия",СТС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1 group-title="Россия",СТС Love
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C03_STSLOVE/variant.m3u8
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Россия",Домашний
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:-1 group-title="Россия",ТВ3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:-1 group-title="Россия",Пятница
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Россия",Суббота
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C01_SUPER/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Россия",МИР
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C02_MIR/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
 #EXTINF:-1 group-title="Россия",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C01_TNT4/variant.m3u8?version=2
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Россия",МУЗ ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C06_MUZTV/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Россия",Матч! ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 #EXTINF:-1 group-title="Россия",Ю
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 #EXTINF:-1 group-title="Россия",Солнце
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C01_DISNEYCHANNEL/variant.m3u8
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Россия",2x2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://s18209.cdn.ngenix.net/hls/CH_C04_2X2/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
 #EXTINF:-1 group-title="Россия",360° Подмосковье
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 group-title="Россия" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Москва. Доверие

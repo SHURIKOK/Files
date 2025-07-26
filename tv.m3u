@@ -49,7 +49,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1 group-title="Россия",СТС Love
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Россия",Домашний
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8

@@ -430,14 +430,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские",Детский Мир
 http://tv.ttk.mx:9063
 #EXTINF:-1 group-title="Детские",Детское кино
-http://hls.peers.tv/streaming/childrens_cinema/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/childrens_cinema/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",МультСезон
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Советские мультфильмы
-http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Baby Time
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/6nyvTUGzqMAbZczmxS9ouA,1754058318/streaming/baby_time/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Rkn6tv2krTSz3DPvVAtgRw,1754086482/streaming/baby_time/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -447,67 +447,66 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Детские",Супергерои
 http://tv.ttk.mx:9194
 #EXTINF:-1 group-title="Детские",СуперГерои
-http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Капитан Фантастика HD
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",ТипТоп
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/ckMqHtG-7fcCBiMwhvcCkQ,1754058335/streaming/tiptop/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/BsiOsMXLOpDy9gUWfm2K1A,1754086509/streaming/tiptop/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Мама
-http://api.peers.tv/timeshift/motherchi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/motherchi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Сказки зайки
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Смайлик ТВ
-http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
-http://api.peers.tv/timeshift/mult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/mult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Детские",Мульт и музыка
-http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Мамонтенок
-http://hls.peers.tv/streaming/mmntk/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/mmntk/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",О!
-http://hls.peers.tv/streaming/o/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/o/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",О!
 http://tv.ttk.mx:9092
 #EXTINF:-1 group-title="Детские",DuckTV
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Рыжий
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/0oKXRBkzFjUQmDkgugf5iA,1754058348/streaming/ginger-surd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/TdPxGHK8LVPDk8UXrBREwA,1754086527/streaming/ginger-surd/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Рыжий
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://hls.peers.tv/streaming/red/16/tvrec/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/red/16/tvrec/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Ani
-http://api.peers.tv/timeshift/ani/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/ani/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Gulli Girl
-http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",TiJi
-http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",Мультиландия
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/QCLBfLyaheWA3C9Z35FVsw,1754058360/streaming/multimania/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/yoAxONqe5rzWtcbz5YnaQA,1754086563/streaming/multimania/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
 http://tv.ttk.mx:9026
 #EXTINF:-1 group-title="Детские",Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",В гостях у сказки
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/6iW0eJKCUbTwD1Z5xrOszw,1754058369/streaming/skazka/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/RuKKPo2zavtyOXhmu3cYpQ,1754086580/streaming/skazka/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/XGx14IGi_WKwJpZHTAUVVQ,1754058378/streaming/stskids/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/8UXCF0papIw_dZAFKov4pw,1754086594/streaming/stskids/324/1/index.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Новости",Россия 1 (Донецк)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24 (Ростов)
@@ -520,13 +519,13 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360° Новости
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/WX6YgZZa3Fm8MsBwACvYDQ,1754058411/streaming/360news/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/QRIM4T_PwRd-NK-WAqK2gA,1754086613/streaming/360news/324/1/index.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев.Live
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/Ala_PG3o6Kfc8r91Ker7ug,1754058421/streaming/solovyevlive/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/PuGGROt8JJk0MxRgE2misg,1754086625/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:-1 group-title="Новости",Москва 24
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/K9q7_cgYQnmdtR8Vu8-dRw,1754058430/streaming/moscow24/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/yRAwwam7eMcArVyB77CJIQ,1754086639/streaming/moscow24/324/1/index.m3u8
 #EXTINF:-1 group-title="Новости",Санкт-Петербург
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
@@ -535,16 +534,16 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="Новости",CGTN-Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="Новости",ЛДПР ТВ
-http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Новости",РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Russia Today
-https://hls.peers.tv/streaming/russiatoday/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+https://hls.peers.tv/streaming/russiatoday/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Новости",RTД Русский
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/e4BhQEzkUZT4GEE2vWq5CA,1754058441/streaming/rtdhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/DTQpzWRSGASbe0RJbePCuQ,1754086662/streaming/rtdhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Новости",Первый канал Евразия
@@ -555,102 +554,102 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСезон
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/0OZ-bzIDJbI48vDCD-gLNg,1754058453/streaming/kinosezon/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/NtxZCaMHD6IY-UImPw6dkw,1754086684/streaming/kinosezon/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Любимое кино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/hX1K3eMUKWRZVp16iS35IA,1754058462/streaming/lubimoe_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/6kme8tPKhxec0513-h6tLA,1754086696/streaming/lubimoe_kino/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/sSdNwbFuUoF08GRIlbOoKw,1754058471/streaming/sovietmovs/324/1/index.m3u8
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Советская киноклассика
+https://mhd116.iptv2022.com/p/EacNU9_ePaOjZqC26SXNjA,1754086709/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Советская киноклассика
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/1VXf7DQAx0VLahOThg_Jaw,1754058478/streaming/sovet_classic/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/mnDGLt9t-u6nhnjiAukUVQ,1754086718/streaming/sovet_classic/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Госфильмофонд. Машина времени
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/WjyLVOqw5dt6w-eVPahFBQ,1754058490/streaming/car_is_vermen/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/QtyLe8trJMEW10-6zH6eQw,1754086733/streaming/car_is_vermen/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше старое кино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/uXC9TmfsNPYv2tvo3NNj_A,1754058498/streaming/public_dom/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/XR2mFmoZmuOMvas4KlrTrg,1754086742/streaming/public_dom/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Классика Кино
-http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29737/logo_256.png",Кино и Жизнь
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/oK338zGE5KmCda0H49H0xQ,1754058505/streaming/kino_live/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/HNzM1uzoXgUL-EI3K4LO6A,1754086756/streaming/kino_live/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Феникс+ Кино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/7-dEYAAg78UgZOO_g1Ks6A,1754058514/streaming/fenixkino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ln9BNqts8Ff-s63uviPSGQ,1754086770/streaming/fenixkino/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Смотрим Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Победа
-http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Победа
 http://95.183.43.237:8080/291/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",День Победы
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/GEs62E5PKhSfHSiEGzzCyA,1754058525/streaming/den-pobedi/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/dUktp5jbqIYQSQ527y7xxg,1754086786/streaming/den-pobedi/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Патриот
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Дом кино
-http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Дом кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Дом кино
 http://95.183.43.237:8080/63/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Дом кино Премиум HD
-http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Мир Сериала
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/zmDnMPcRqlH-5qMqe97qRQ,1754058534/streaming/mir_seriala/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/qiwMcHckKYtSzeeFvTgnHg,1754086804/streaming/mir_seriala/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Kino 24
-http://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Про100ТВ
-http://hls.peers.tv/streaming/pro100/126/copy_4_3/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/pro100/126/copy_4_3/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000
 http://tv.ttk.mx:9181
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Action
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Action
 http://tv.ttk.mx:9182
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Русское кино
-http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju TV1000 Русское кино
 http://tv.ttk.mx:9183
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
 http://95.156.76.230:33001/udp/230.4.34.108:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
 http://95.156.76.230:33001/udp/230.4.34.107:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 group-title="Фильмы и сериалы",.Sci-Fi
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/aVKbTGibomaaGzgkNTZ98A,1754058635/streaming/sci-fi/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/PTV4VZnqNPo76-yFS4Si6A,1754086821/streaming/sci-fi/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",.Red
-http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",.Black
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/XirWSMkpVb5kM42rfQwC6g,1754058643/streaming/black/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/KrFiJ1y8yBp2Q_ce2_Xqig,1754086832/streaming/black/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Start Air
 http://158.160.149.81:8080/7876/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Start World
 http://158.160.149.81:8080/7879/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Cinema
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/w9r5iA8gCwwBrhW--gAjgw,1754058652/streaming/star_cinema/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/KYRvGmjQLYN7g0a4_7KGMA,1754086842/streaming/star_cinema/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Family
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/aJRBfGjB134dYa4DiEmlGw,1754058659/streaming/star_family/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/NscCcVhkbRRrlMAUpkmZtA,1754086851/streaming/star_family/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1
 http://31.148.48.15:80/A1/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1 HD
@@ -669,72 +668,72 @@ http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинохит
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/KubrE-88SBYaSjfFPDOZOg,1754058670/streaming/film-hit/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/QMue1eYTFvNF9FbDiXPcHQ,1754086867/streaming/film-hit/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Киномикс
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/QDvaJiyVb4TrGAKeKj94Tg,1754058677/streaming/kinomix/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/0NZnd4Bhpei36ILdifNqnQ,1754086875/streaming/kinomix/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинопремьера
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/yVX0CxdJc8RwB1LGdl7NMQ,1754058685/streaming/film-premiere/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Tb209Jxa5TpUYKp5y59SkQ,1754086886/streaming/film-premiere/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Киносвидание
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/dFi-mGdg7W9z2bn7Qh4Ssw,1754058693/streaming/film-watching/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ovyPysdbQspcbivGUMxJQg,1754086896/streaming/film-watching/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Киносемья
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/OTitcbagVAMFjWC-U8gCbg,1754058701/streaming/film-families/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/AaeVCc6jmliNqScqKKp8vg,1754086905/streaming/film-families/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Киносерия
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/L1BgGSz5LDxzzh2LrBKHdQ,1754058708/streaming/kinoseria/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/QkHgW-HeoM6Nhje6w-k95w,1754086915/streaming/kinoseria/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Мужское кино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/PtwSOaavJnakqSvO3qO1SQ,1754058715/streaming/male-movie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/KAJPBNzi02JX-PaKKk6N3w,1754086926/streaming/male-movie/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Родное кино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/2-7ieL7v1ZvulqrVYdAIMg,1754058722/streaming/rodnoe/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/-6qqeu0CKhWQXMuKdxDO6Q,1754086938/streaming/rodnoe/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Киноужас HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/ZrD-DgvkcbDRbhJhZu1KQw,1754058730/streaming/kinoujas/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ik4gjx_5HLq6l5HTirhoZQ,1754086947/streaming/kinoujas/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинокомедия
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/wyNPFJKUd55vqvwUfBbrYw,1754058737/streaming/kinocomedia/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/O7tvp1SrAPW18jiJrn5fgg,1754086966/streaming/kinocomedia/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше новое кино HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/rZ5jq2xVA9pcc9dq7RGs3A,1754058744/streaming/nashe_n_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/pQ_QeEz0h3SfjQ7SGUKoBg,1754086975/streaming/nashe_n_kino/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Индийское Кино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/0xjLiK5WoYCugJoSqc2F3g,1754058752/streaming/india/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/YNbuNyUPDBnho0AD_oeBdg,1754086990/streaming/india/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Индия
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/yrIbnpBIp6N6guSo7AyFjg,1754058761/streaming/zeetv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/45szKYQaFXeZX8kN3D1ZqA,1754087006/streaming/zeetv/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Блокбастер
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/lpnnzRqBKk1yU_jIoi4iuw,1754058770/streaming/blokbaster/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/2OhYXRaFe302nhBNpobcmA,1754087015/streaming/blokbaster/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Лавстори
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/QIvF9Nk4GNaX4Eug4cd-Cg,1754058776/streaming/lovestory/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/bm6ApJqMxPAqe2C2gE5MrA,1754087026/streaming/lovestory/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Про любовь
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/EnHT0O7Cy_cypnFS1a9W0Q,1754058783/streaming/prolubov/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/9LgOC1s4hgUA4lb0xsESsw,1754087035/streaming/prolubov/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/cEpq13AnaPkPOlQfOi1f9A,1754058791/streaming/nashemuzskoe/324/1/index.m3u8
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Хит HD
+https://mhd116.iptv2022.com/p/G-sns6WkzO_m3lUsnt-mOw,1754087045/streaming/nashemuzskoe/324/1/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Хит HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/jSgxOxPuAD9pnrdaD5xBtg,1754058803/streaming/hit/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/iRIwAjOhrexO3xgp_N_bcA,1754087055/streaming/hit/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/D2zycjp0Mxodzp9f45Ityw,1754058810/streaming/nashpokaz/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/0skM4l6BhvewG_xsfOUcfA,1754087064/streaming/nashpokaz/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Камеди
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/UaWaAUmuTA3C17w9F4I3gA,1754058817/streaming/kamedi/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/u7PTkRbe9W8ZOYMIGB3EyA,1754087074/streaming/kamedi/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Комедия
-http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинопоказ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/OizqsJvmy-1SVzHqUPTiRw,1754058825/streaming/kinopokaz/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/A-cBj9oV5oIiE2WSVUY7wQ,1754087084/streaming/kinopokaz/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСат
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/rpFpwMsp-SS1xkG0JIzUkw,1754058833/streaming/kinosat/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/k2JVNTzYh_wsNKBbIIZgQQ,1754087098/streaming/kinosat/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Кино ТВ
 http://tv.ttk.mx:9046
 #EXTINF:-1 group-title="Фильмы и сериалы",Кино ТВ
@@ -747,19 +746,19 @@ http://31.148.48.15/Kineko/index.m3u8
 http://95.156.76.230:33001/udp/230.4.34.82:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинеко
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/NPdaYSZdcmgbUfbEE1O95A,1754058840/streaming/kineko/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/4iA8TawAJZHkF79atb-GnA,1754087110/streaming/kineko/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
 http://95.156.76.230:33001/udp/230.4.34.71:1234
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/pO3mdxyx7_ifMwakbqHmwg,1754058847/streaming/sapfir/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/kzM8mCQugGn-Ol-vPwkA4A,1754087120/streaming/sapfir/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Timeless Dizi Channel
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/hNJqzBv-4HKr076qGwzXNA,1754058854/streaming/dizitv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/vUq9inZPQ55OUiU2QXPfvQ,1754087130/streaming/dizitv/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Cinema
-http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Cinema
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Cinema
 #EXTINF:-1 group-title="Фильмы и сериалы",Cinema
@@ -770,34 +769,34 @@ http://185.26.157.3:8080/live/fox/mono.m3u8
 http://185.26.157.3:8080/live/fox_life/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Еврокино
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/c0xnNeTV1DMCNUQThrphsQ,1754058867/streaming/eurokino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Ua-aM2pXZ2IWrK3E51oLmA,1754087143/streaming/eurokino/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",ТВ XXI
-http://api.peers.tv/timeshift/tv21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/tv21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",ТВ XXI
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/0nk6wkI6TrbTep-SrVpzCA,1754058877/streaming/tv_xxi/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/F57E1_2dtaZdbU3WhItEYA,1754087154/streaming/tv_xxi/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Bolt HD Россия
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/WyQM5co6uR36Ds8QAOnhlw,1754058886/streaming/bolt/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ahOvYopuBOZBPzmqB-RMTA,1754087164/streaming/bolt/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",FlixSnip
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:-1 group-title="Фильмы и сериалы",SHOT TV
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/nCpnDCXbOLfpSboVWIOwDQ,1754058896/streaming/shottv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/B6TE1k_wMth5cE2j6aUy3A,1754087179/streaming/shottv/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Иллюзион+
 http://tv.ttk.mx:9028
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Иллюзион
 http://tv.ttk.mx:9027
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский бестселлер
-http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский бестселлер
 http://tv.ttk.mx:9043
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Роман
-http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Роман
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
-http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Русский Детектив
 http://tv.ttk.mx:9051
 #EXTINF:-1 group-title="Фильмы и сериалы",TV Rus
@@ -811,13 +810,13 @@ http://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",НТВ-Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",НСТ
-http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Trash TV
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/X5CBiAoz18VQYXpsunmcxA,1754058907/streaming/trash/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/yCrtfqKSP3S7_kY_Uh5vlA,1754087196/streaming/trash/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Horror TV
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/95QkYDjtPEBlb5vvLtJTgA,1754058935/streaming/horror_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Z6C1Eil77687FDSLjaXrpQ,1754087212/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Hollywood
 https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Hollywood HD
@@ -830,7 +829,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Дорама HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/iTQl408We0BnJQ_BNAJudg,1754058949/streaming/dorama/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/K3zulm-pmS3pRuMktdft1g,1754087235/streaming/dorama/324/1/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",СТРК Сочи
@@ -840,23 +839,22 @@ http://sochinskayatrk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="Фильмы и сериалы",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",Filmbox Arthouse
-http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Фильмы и сериалы",FAN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Ретро",Мосфильм. Золотая коллекция
 http://158.160.149.81:8080/6839/index.m3u8
 #EXTINF:-1 group-title="Ретро",Мосфильм. Золотая коллекция
-http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Ретро",Ретро
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/5tI_QqRUtdKbiAamKDMP1w,1754058966/streaming/retro/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/UQcasGdHRsUaiwtnvv0ZQg,1754087265/streaming/retro/324/1/index.m3u8
 #EXTINF:-1 group-title="Ретро",Ретро
 http://tv.ttk.mx:9032
 #EXTINF:-1 group-title="Ретро",Время
-http://api.peers.tv/timeshift/time/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/time/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Ретро",Время
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
 #EXTINF:-1 group-title="Ретро",Ностальгия
@@ -1030,7 +1028,7 @@ http://5.153.180.133:8004/play/a08n
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://178.217.72.66:8080/ID_Xtra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",TERRA
-http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",TERRA
 http://178.57.121.38:8080/natgeo/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
@@ -1044,41 +1042,41 @@ http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
 https://flussonic.salomtv.uz/NatGeoWildHD/video.m3u8
 #EXTINF:-1 group-title="Познавательные",DOCUBOX HD
-http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Viju Explore
 http://tv.ttk.mx:9184
 #EXTINF:-1 group-title="Познавательные",Viju Explore
-http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Viju History
 http://tv.ttk.mx:9185
 #EXTINF:-1 group-title="Познавательные",Viju History
-http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Viju Nature
 http://tv.ttk.mx:9186
 #EXTINF:-1 group-title="Познавательные",Viju Nature
-http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet
 http://95.52.166.162:82/play/a077
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet
 https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 group-title="Познавательные",365 дней
-http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",365 дней ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/BrGZf3nO_dEluQUrVW4PRA,1754058984/streaming/365day/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/jDqO2YNLDgYEyyTDfJgs8Q,1754087308/streaming/365day/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Техно 24
-http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Техно 24
 http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Познавательные",Загородная Жизнь
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/nO819pLLdJSwRo-4TEydNw,1754058996/streaming/zagorod/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/LHxCblBND_YcSNOKHXTmzw,1754087324/streaming/zagorod/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Загородный
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/eIMri9zU7B9OM94Pw7dfsw,1754059038/streaming/country/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/aMEU-0ntaldbq0lXePflmw,1754087334/streaming/country/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Мужской
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/z3JZpfMXznuOZDH2PNA8OA,1754059050/streaming/male/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/W4W84UzJsLIkqTU4g0sJgw,1754087347/streaming/male/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History HD
@@ -1091,15 +1089,15 @@ http://109.200.130.123:7537/play/a025
 http://tv.ttk.mx:9048
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/mFnuvdCZ7CSPhxMSa35UFQ,1753999217/streaming/hdl/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/IgrWL4rcC9pxZPCvvqz2FA,1754087366/streaming/hdl/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Арсенал
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:-1 group-title="Познавательные",Арсенал
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/0qak_XB8jzXJ8W7m-51hHA,1754059653/streaming/multikhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/n8Fv2275OyppardPLN6qAA,1754087379/streaming/multikhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Зоо ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/AyVQWqNleVIjQvTioIHq6w,1754059667/streaming/zoo/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/beqCob-Kq4b0RZC6mKs7qw,1754087391/streaming/zoo/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Наука 2.0
 http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Наука 2.0
@@ -1111,7 +1109,7 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 http://ott-cdn.ucom.am/s99/04.m3u8
 #EXTINF:-1 group-title="Познавательные",Первый космический
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/v2OAofilO35Ndwb_kb5OmQ,1754059682/streaming/eurekahd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/RLMaxOs0U3Mf_zHrCDusdg,1754087404/streaming/eurekahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Fast&FunBox HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://ott-cdn.ucom.am/s79/04.m3u8
@@ -1119,72 +1117,70 @@ http://ott-cdn.ucom.am/s79/04.m3u8
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",В мире животных HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/-iVjE-R2c-n2pBAKdYSJRA,1754059692/streaming/animalshd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/4JBonS7ATKaRM01A_ULgdA,1754087419/streaming/animalshd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/YoqLV5tRzcjjiaZZSykE9w,1754059699/streaming/homejivotnie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/n--lB61kMrzG41q-pFafpA,1754087428/streaming/homejivotnie/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная планета
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/D4xGl1KchTn1NsHMHhRaYg,1754059710/streaming/np/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/vvsjdpgj4s-K-CqeN4fQSA,1754087440/streaming/np/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета
-http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Тайны Галактики
 http://tv.ttk.mx:9071
 #EXTINF:-1 group-title="Познавательные",Galaxy-TV
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/sFQaVuiQ826yIPx17tyMWw,1754059720/streaming/taina-galaxy/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/nQ6Fl80PovZXsQokp8KW-w,1754087455/streaming/taina-galaxy/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/WFAQy011prBuTCUI3qcr2w,1754059728/streaming/avtoplus/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/__S8pwf5VU_SfibD07Dqbw,1754087470/streaming/avtoplus/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто 24
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/29RQvC5JeXnnheLDGvJKLg,1754059738/streaming/avto24/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/FYclRJi3fpBiU2m9Q6IZig,1754087480/streaming/avto24/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Драйв
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/ZHT8ao8HMJn2bENaJsN84A,1754059748/streaming/drive/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/qXypWanVyyZO--CVZG3ytw,1754087492/streaming/drive/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка Отрыва
 http://109.200.130.123:7537/play/a032
 #EXTINF:-1 group-title="Познавательные",Вместе РФ HD
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Вместе РФ
-http://hls.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Наша Тема
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/sO3fWJntPDY50tVLxVnaNQ,1754059757/streaming/mytheme/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/tpPjZMHyV7NyBla7yaUygA,1754087527/streaming/mytheme/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Охота и рыбалка
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/SG5iq6EATMnv7zcsR55WpQ,1754059768/streaming/ohota_i_ribalka/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/CxIzp4o3SRUXp52EQ4H_ww,1754087544/streaming/ohota_i_ribalka/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/hPHQWTprmWaOROeG3VhBlw,1754059776/streaming/ohotnikhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/xEnlwmc3hi20eLPRIZo5hA,1754087554/streaming/ohotnikhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Рыболов
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/D1pNerz_VPJIMscT0-OPHw,1754059786/streaming/ohotnik/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/eF-ONfHWG9zzbP2YODT6CA,1754087564/streaming/ohotnik/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/YK1LlwFkjTbSVN_IamZ5lA,1754059794/streaming/oribalke/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/XZV0DelgyWuCGuwFddYfOA,1754087573/streaming/oribalke/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикий
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/_x6fjvhi0jMg3U8RplO_OQ,1754059807/streaming/dikiy/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/H2DElbOPgt7EsQGZJZpMVA,1754087586/streaming/dikiy/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикая охота HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/lYOQUxgh3uL2G_z3HiHKhg,1754059817/streaming/ohotahd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/xhMELFTdb1dXdGpvmvjt4g,1754087595/streaming/ohotahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/xVgJVi1VNW0LTLo3MrfVdQ,1754059824/streaming/ribalkahd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/1fNBp25k3c2TTq848kZYHA,1754087605/streaming/ribalkahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Открытый Мир
-http://hls.peers.tv/streaming/open_mir/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/open_mir/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Da Vinci
-http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Министерство идей
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/EzL5dszFos3IHNvbFcG_nw,1754059838/streaming/minidei/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/alvPOxAKH88uRFaGZ9iigA,1754087627/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
 http://tv.ttk.mx:9076
 #EXTINF:-1 group-title="Познавательные",Тонус ТВ
@@ -1196,29 +1192,27 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Познавательные",Univer TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Nano HD
-http://hls.peers.tv/streaming/nano_tv/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/nano_tv/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Luxury HD
-http://hls.peers.tv/streaming/luxury_world/126/hd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/luxury_world/126/hd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Ювелирочка
-http://hls.peers.tv/streaming/yuvelirochka/16/variable.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/yuvelirochka/16/variable.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
-http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Совершенно Секретно
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/8_KNfNwL4Pz_Uu1ZCszYmQ,1754059850/streaming/top-secret/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/MPfrhNF55itRmPTZolbS-g,1754087644/streaming/top-secret/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Тайна
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/lG2vvLRtN5uKw34SspaPtA,1754059862/streaming/taina/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/jeceNyhaf8fVTluLKQuIrA,1754087658/streaming/taina/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Ocean TV
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/Azvu3pgsOc3ecAECNBBvlw,1754059874/streaming/oceantv/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Ocean TV
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=OCEAN_TV
+https://mhd116.iptv2022.com/p/fsbT_r32TWhhKAFF39ss9Q,1754087675/streaming/oceantv/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/JRIKmobbvisrOKLCnCxX0w,1754059893/streaming/zoopark/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ytxlZENAkp-KxE1bH0ROOA,1754087713/streaming/zoopark/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Canal+ Motor
@@ -1227,7 +1221,7 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/108/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Оружие
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/5bUCBxuATQdb9_RacQFUNw,1754059910/streaming/orujie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/eFLjTOJhkHKC_uaSf17hGw,1754087730/streaming/orujie/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя планета
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательные",Моя планета
@@ -1240,32 +1234,32 @@ http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 http://tv.ttk.mx:9035
 #EXTINF:-1 group-title="Познавательные",Наша Сибирь
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Univer TV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/K6WTCN9Ddrm0WyChmZ5Blg,1754059920/streaming/whoiswho/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/lvbhVm1KSuF7lQwHP5U_EA,1754087934/streaming/whoiswho/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",#КтоКуда
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/wbKvBIRfnhaP98ZA1qTraA,1754059928/streaming/hobbies/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/BUhPrqsck7cl2B7WtRTjMA,1754087944/streaming/hobbies/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Театр
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/4P3w2GDdgwFDazIbXvSfZw,1754059938/streaming/theater/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/LN6V2spibl0_vXF-Kxm1Pg,1754087959/streaming/theater/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",АРТ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/Qkc7SkCc05E-qZFM2f9LrQ,1754059947/streaming/art_tv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/I5Ahqqe3PqVjEDAbW7O5QQ,1754087971/streaming/art_tv/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Успех
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/mEOw630qdch8brf8TmLC6Q,1754059957/streaming/uspeh/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ZCofF3-9OHdq-lifcT38UQ,1754087985/streaming/uspeh/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Бобер
 http://tv.ttk.mx:9077
 #EXTINF:-1 group-title="Познавательные",Бобер
 http://109.200.130.123:7537/play/a03c
 #EXTINF:-1 group-title="Познавательные",Усадьба
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/xD5_3jxAqH9LVNP1Nf0lIg,1754059969/streaming/usadba/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/d3jMCJPmgTl7-1dX7b2JsQ,1754088000/streaming/usadba/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG TV
 http://31.148.48.15:80/RTG/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",RTG TV
@@ -1273,40 +1267,40 @@ http://31.148.48.15:80/RTG/index.m3u8?token=test
 http://ott-cdn.ucom.am/s80/index.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/QhE2KdRffQjDCI0Sv4j-og,1754059980/streaming/rtghd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/rLY_rM5tJk0uzrAEfVw7Ug,1754088109/streaming/rtghd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/u-C0JlR9t46PV9aoHqBlzA,1754059991/streaming/kuhnya/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/-IkYZPOT9kyfO__bemv3Jw,1754088134/streaming/kuhnya/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Пес и Ко
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/vhoVemFfjOEjJThZf2-vmQ,1754060001/streaming/pesiko/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/cGLkf9IwCYu9cAN6azDfDQ,1754088147/streaming/pesiko/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/D6SkWe35ZwrtdUNVJiJ6-A,1754060011/streaming/voprosi-otveti/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Oa4c_R4EB6ftbdA-C_tR5w,1754088161/streaming/voprosi-otveti/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",ЕГЭ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/1Y06djFWcqYMmKlqIv91xg,1754060021/streaming/ege/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/2Y43YSggszID5QtmmdhDFg,1754088174/streaming/ege/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/nTVPG2MtpSMo5AKBUK3yrg,1754060033/streaming/tourist_eyes/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/VQw1u53pDCZVcZSkB0Z_Vw,1754088188/streaming/tourist_eyes/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/JcEj9ZABsl793wtae0RGCQ,1754060041/streaming/pmobile/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/oJDkXOfqS_FsOOpQd7j2Sw,1754088202/streaming/pmobile/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живи!
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/_SjZSW6uoxFE2jNrbQPhNw,1754060051/streaming/jivi/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/9dSpqWz64Zg49I3FVCoFWg,1754088215/streaming/jivi/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живи Активно
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/qomtTcTyzh9MLlk-1PJWfQ,1754060059/streaming/zhivi_aktivno/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/IRbBS65v2WppWqbFOBW4xQ,1754088228/streaming/zhivi_aktivno/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровое ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/5pEJSWz_btLVg8cAYayebA,1754060070/streaming/zdorovoe/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/aroiMI3B1YJejnDELiqdFQ,1754088242/streaming/zdorovoe/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Тонус
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/c7T5KTFxVVsTG6vv_orxZw,1754060076/streaming/tonus/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/vKUq2OwM5y8Q_YYCWL_IOQ,1754088251/streaming/tonus/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровье
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/QaF8wyPLpzpsjrT05LpX7w,1754060086/streaming/zdrav/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/HANjgsabJ8HMS1Rx44zqRA,1754088264/streaming/zdrav/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Психология 21
 http://tv.ttk.mx:9033
 #EXTINF:-1 group-title="Познавательные",Большая Азия
@@ -1315,24 +1309,24 @@ http://tv.ttk.mx:9146
 http://tv.ttk.mx:9191
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
 #EXTVLCOPT:http-user-agent=(  .  )
-http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Познавательные",Travelxp HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/6VMAdJxV0JYCovQmybESzg,1754060097/streaming/travelxp/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/2o64hRREgIborwZirFIrGg,1754088284/streaming/travelxp/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://178.124.152.238:8088/perec
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://195.158.222.7:8104//index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/bKEZD1WoodHtkcIlct70_g,1754060110/streaming/anekdot/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/MKYn78147H3riZsvWdoH1g,1754088301/streaming/anekdot/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/RmsQjij7k4yUlRYgTMeAGA,1754060119/streaming/kvn/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/CRBhLYxocGeZnAajjeGzDg,1754088315/streaming/kvn/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
 #EXTINF:-1 group-title="Развлекательные",Сарафан
-http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Развлекательные",2x2 HD
 #EXTVLCOPT:http-user-agent=(  .  )
 http://s91412.cdn.ngenix.net/mdrm/CH_2X2/variant.m3u8
@@ -1342,103 +1336,103 @@ https://fl1001.bozztv.com/ushba45/index.m3u8
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/17JsggQwbz_jVE2kT95dDQ,1754060131/streaming/gagsnetwork/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/z2qA43RJ-ZR6PpAoW-26nw,1754088334/streaming/gagsnetwork/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Joy Cook
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/z4SheZeLce-LYBWpoD-vYA,1754060140/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/rOTkVqFQvglG-slagwg_EA,1754088346/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/rmpw7_knryBAFv32upSLvw,1754060159/streaming/eda/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/5rWbfVXkpcJr-ZoK2FAnKg,1754088376/streaming/eda/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Еда Премиум
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/P59p41vVktZf94ePDHNsaQ,1754060150/streaming/edahd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/A8UGxZj9uTV_JpWd4F-mlw,1754088360/streaming/edahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
-http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Спортивные",Матч! ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/uv4hb5N1M_ncZU1pzQfrdQ,1754060181/streaming/matchott/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/iI5xUnYthhGe-smNp7mZfQ,1754088410/streaming/matchott/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/vJWbtfwzqPs5G_C-JExzBg,1754060189/streaming/nashsport/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/wHpNRdE3NhJzAAuBJNScZA,1754088420/streaming/nashsport/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/33wG3NCdrp-ZD6vXtfQGYg,1754060196/streaming/boectv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Khvh3JUIju7qyeFxvvFuUQ,1754088430/streaming/boectv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/skAc7GpBgDnNqND7kqVh6Q,1754060204/streaming/khltv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/_FwDkSw2jWUo40RTbxG7tw,1754088441/streaming/khltv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/HIw5BfFw1Y1rhfVtloiPIg,1754060212/streaming/match_arena/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Mv22ENLYnWXPOnMFL0kriw,1754088452/streaming/match_arena/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Игра
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/cN5SS8ioPkpIR1cskOiIlw,1754060219/streaming/match_igra/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/OXK5kP3pTzSmVelc00B6mw,1754088463/streaming/match_igra/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/SJU1GanC3jyWhpiTEGxRjw,1754060228/streaming/match_premyer/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/qOh8i4vfW13bKZZtzkblBA,1754088474/streaming/match_premyer/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/c3cvCZ5WlIvUyBcfg1ixAA,1754060239/streaming/bokstv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/PtwE6mtNvcrmcVt6fKDFSg,1754088486/streaming/bokstv/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/3ItW_zxUxkauq9yZ_ZWjlg,1754060247/streaming/footbal1hd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/gfvHl2I_KYiXIehb-d4ekw,1754088497/streaming/footbal1hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/iWiUnkkbcD2UTvCt4zKKLA,1754060254/streaming/footbal2hd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/96Kq6LcWXBZQ_uczEBWH7g,1754088507/streaming/footbal2hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/Rj0d91594GDmvN7F_VDNuA,1754060261/streaming/footbal3hd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/IkkEUXX9YCJsmYYYkV93mg,1754088516/streaming/footbal3hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
 #EXTVLCOPT:http-user-agent=(  .  )
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/i4uuj35H1Bu4Z-RxNTDlQw,1754060269/streaming/konniy/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/jR3FiXdZF_7cBdMa0lm4xA,1754088529/streaming/konniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Точка отрыва
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/1cCzFph8iWU2kkL5kysu3g,1754060278/streaming/tochkaotriva/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/qobphaIgiSDeqRiW8AmGQg,1754088542/streaming/tochkaotriva/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбол
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/eYSUEQCilm8RF4UxPjRLww,1754060285/streaming/footbal/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/LC5vXuureu4O5yjtgVfYIg,1754088552/streaming/footbal/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",M-1 Global
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/KUlPjk8aJsCZcv641ot96Q,1754060295/streaming/m1global/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/eQ2OqDhjvUQ3Xfzln_bEAQ,1754088564/streaming/m1global/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",FightBox
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/uxV6-ce1y4_hXVGY5Wq3mg,1754060302/streaming/fightbox/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/pD-xtR4oYJjXp_xkySOloQ,1754088574/streaming/fightbox/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Спортивный HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/82OuogLOINWwfOhBcIxDhA,1754060310/streaming/sportivniyhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/kEJlZV_7uCbfI9UDDh6pMQ,1754088589/streaming/sportivniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Футбольный HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/udgGykmt4XuxkDiscJSpBg,1754060320/streaming/footbolniyhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/tKgD-z1NQ0qyQG9DIoC9OQ,1754088600/streaming/footbolniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/hjdaV8GmmlqlFF6FxuSb8Q,1754060330/streaming/match_premyerhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/XKnQ9_zz53A3qdyLu0JErA,1754088615/streaming/match_premyerhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL Prime
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/7Sj1NeWgKkqcT3cMF3eS5w,1754060338/streaming/khlhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/_1kJyIKqcGpORGydZTdTkg,1754088628/streaming/khlhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Хоккейный HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/gh_EefLmPRE3Pt6bsS0rvg,1754060349/streaming/hokkeyniy/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/pTIMrwlCVdJluk_WedVDUw,1754088641/streaming/hokkeyniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Волейбол
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/boFDA9PI9BhZ6DQzb0i0Bw,1754060356/streaming/volleyball/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/fHzJ6NM9EGlZk0-idd7D7A,1754088651/streaming/volleyball/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Мир Баскетбола
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Спортивные",viju+ Sport
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Спортивные",viju+ Sport
 http://tv.ttk.mx:9187
 #EXTINF:-1 group-title="Спортивные",viju+ Sport
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Спортивные",СТАРТ HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/WGcKhR9eI-AZecUAdArOoQ,1754060364/streaming/start/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/vp-HiFin5cVcIVoTBLqk8Q,1754088664/streaming/start/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Старт Триумф
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/HXrZQWnMqvsPZMSEIwXXBQ,1754060372/streaming/start-triumf/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/LHwPYYqgMxtc0R2AdklP8Q,1754088673/streaming/start-triumf/324/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные",Беларусь 5 HD
@@ -1457,36 +1451,36 @@ https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/xTy4SBKV22NaPQA8AI4ERA,1754060387/streaming/bridgetv/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/U2_9U9NoRtMtHIsZKnjvng,1754088704/streaming/bridgetv/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Hits
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/NjbI7bq4OPoBjhIHaqXEXg,1754060394/streaming/br_dance/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/EhfP14S4u3scXyecvN2Rww,1754088715/streaming/br_dance/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/AtGaVq8uNzFaExzNBB7LqQ,1754060403/streaming/br_delux/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/7KPveIgDTy0zuFmpL1jLCg,1754088724/streaming/br_delux/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Шлягер
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/yejyon_FgsmZA5i7JUjfvw,1754060412/streaming/br_shlyager/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/niP7NGdb228Pel8b013Iew,1754088734/streaming/br_shlyager/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Русский Хит
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/MXXog7dbAe2Tx6noXbDixA,1754060420/streaming/br_rushit/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Aa9vwbFADk0Bb2QTfxV7IQ,1754088745/streaming/br_rushit/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Rock
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/-z95HEk_eLsWe1347p2tfg,1754060427/streaming/br_rock/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/1rb-ztmrV9VeTl2GOyRs7Q,1754088755/streaming/br_rock/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Фрэш
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/-4r9GfqLxTlBOOiQbsSx1A,1754060435/streaming/br_fresh/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/h97YI_rtbapN5syq2rEU3A,1754088766/streaming/br_fresh/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/Y1VWP4ylB7eXnkrHpwduAQ,1754060441/streaming/br_classic/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/OoTGQoodmsmPWl1lDGEvzw,1754088777/streaming/br_classic/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Этно
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/UiCjleH5rPr83Wc2s3uZaA,1754060449/streaming/bridge_etno/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/gzm8ZeoBvjDKvbDP1jnXuA,1754088789/streaming/bridge_etno/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Europa Plus TV HD
 #EXTVLCOPT:http-user-agent=(  .  )
-https://mhd116.iptv2022.com/p/An6d3YjjtSlkpTEPXItMcA,1754060463/streaming/evropaplus/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/LULXUCxvd2jqcXYnmgI1vA,1754088804/streaming/evropaplus/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",1HD Music Television
-http://hls.peers.tv/streaming/firstmuz/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjA1NTUsImlhdCI6MTc1Mzk3NDE1NSwiY2lkIjo2LCJ1aWQiOjkzMzc0MzIxNCwicmVnIjpmYWxzZSwiaXAiOjI5NTkxMjg1OTAsImFkdWx0IjpmYWxzZX0.zwueoQuOgrL-dy9kle3lvPgqjVS_bj19cBp_9TVPIMM&offset=10
+http://hls.peers.tv/streaming/firstmuz/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwODc4MjEsImlhdCI6MTc1NDAwMTQyMSwiY2lkIjo2LCJ1aWQiOjkzMzgzNTkzNCwicmVnIjpmYWxzZSwiaXAiOjM1NjExMTAwNjUsImFkdWx0IjpmYWxzZX0.kSwxIcj6MmqwezGPDmQzTuPu6y20VaMCsdbcgSB4q8s&offset=10
 #EXTINF:-1 group-title="Музыкальные",RUSSIAN MUSICBOX
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_HD
 #EXTINF:-1 group-title="Музыкальные",Music Box Gold

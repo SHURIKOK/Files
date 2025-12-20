@@ -426,7 +426,8 @@ http://172.16.0.252/channel/n3a70db92/index.m3u8?q=1765986513467
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3a70db35/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-239" tvg-logo="http://172.16.0.252/logos/detskiy-mir.png",Детский Мир
-http://172.16.0.252/channel/n5dc5395c/index.m3u8?q=1765986513467
+#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+http://172.16.0.252/channel/n76d414c1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2415" tvg-logo="http://172.16.0.252/logos/detskoe-kino.png",Детское кино
 http://172.16.0.252/channel/n45df9347/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2414" tvg-logo="http://172.16.0.252/logos/multsezon.png",МультСезон
@@ -442,8 +443,6 @@ http://172.16.0.252/channel/6bbf7c5a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-506" tvg-logo="http://172.16.0.252/logos/solnce.png",СОЛНЦЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/787bfcaa/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-241" tvg-logo="http://172.16.0.252/logos/malysh.png",Супергерои
-http://172.16.0.252/channel/n48ffcef5/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-241" tvg-logo="http://172.16.0.252/logos/malysh.png",СуперГерои
 http://172.16.0.252/channel/59303d26/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51109" tvg-logo="http://172.16.0.252/logos/kapitan-fantastika-hd.png",Капитан Фантастика HD
@@ -471,8 +470,6 @@ http://172.16.0.252/channel/7a66899d/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n917bcb6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-186" tvg-logo="http://172.16.0.252/logos/o-ru.png",О!
 http://172.16.0.252/channel/n44c22112/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-186" tvg-logo="http://172.16.0.252/logos/o-ru.png",О!
-http://172.16.0.252/channel/n30041be2/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51416" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kids_channel_shesh.png",Kids TV HD
 http://172.16.0.252/channel/n61399f0c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2333" tvg-logo="http://172.16.0.252/logos/duck-tv.png",DuckTV
@@ -494,8 +491,6 @@ http://172.16.0.252/channel/n5d1cff36/index.m3u8?q=1765986513467
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2b10a431/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-238" tvg-logo="http://172.16.0.252/logos/unikum.png",Уникум
-http://172.16.0.252/channel/2d7ccd30/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-238" tvg-logo="http://172.16.0.252/logos/unikum.png",Уникум
 http://172.16.0.252/channel/2db51eeb/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-8521" tvg-logo="http://172.16.0.252/logos/v-gostyah-u-skazki.png",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
@@ -515,10 +510,8 @@ http://172.16.0.252/channel/n64797018/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/nc513c4a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-20151" tvg-logo="http://172.16.0.252/logos/izvestia.png",Известия
 http://172.16.0.252/channel/47775b6b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-20151" tvg-logo="http://172.16.0.252/logos/izvestia.png",Известия
-http://172.16.0.252/channel/47775b6b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-51166" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/num/360-novost-ru.png",360° Новости
-http://172.16.0.252/channel/39c2618f/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-51166" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/num/360-novost-ru.png",360°
+http://172.16.0.252/channel/n4339789b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-51166" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/num/360-novost-ru.png",360° Новости
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/477399ad/index.m3u8?q=1765986513467
@@ -548,12 +541,6 @@ http://172.16.0.252/channel/30eb9c87/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n626cdb16/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-380" tvg-logo="http://172.16.0.252/logos/rbk.png",РБК
 http://172.16.0.252/channel/n26e451f2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Новости" tvg-id="hlsproxy-252" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/pp/perviy_kanal_eurasia.png",Первый канал Евразия
-http://172.16.0.252/channel/n316a63fb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-279" tvg-logo="http://172.16.0.252/logos/kino-tv.png",Кино 1 International
-http://172.16.0.252/channel/n6ca4e83c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-2415" tvg-logo="http://172.16.0.252/logos/detskoe-kino.png",Детское кино International
-http://172.16.0.252/channel/n67b6d1b6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1764" tvg-logo="http://172.16.0.252/logos/kinosezon.png",КиноСезон
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/6c944403/index.m3u8?q=1765986513467
@@ -563,20 +550,14 @@ http://172.16.0.252/channel/nc63f13a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-55083" tvg-logo="http://172.16.0.252/logos/sovetskoe-kino.png",Советское Кино
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/306532ad/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3" tvg-id="hlsproxy-54784" tvg-logo="https://dl.dropboxusercontent.com/s/of2upvv1iuo02t4/sovcl.png",Советская киноклассика
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3" tvg-id="hlsproxy-54784" tvg-logo="https://dl.dropboxusercontent.com/s/of2upvv1iuo02t4/sovcl.png",Советская киноклассика
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n3d01a63c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Novella TV
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/nfe43a2f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы",Наше старое кино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n69fe1bc9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-53851" tvg-logo="http://172.16.0.252/logos/klassika-kino.png",Классика Кино
 http://172.16.0.252/channel/3683e3ea/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29737/logo_256.png" tvg-id="hlsproxy-279",Кино и Жизнь
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/2f2d17db/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-464" tvg-logo="http://172.16.0.252/logos/feniks-plus-kino.png",Феникс+ Кино
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/c6591a7/index.m3u8?q=1765986513467
@@ -584,8 +565,6 @@ http://172.16.0.252/channel/c6591a7/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n690432a9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-55224" tvg-logo="http://172.16.0.252/logos/pobeda.png",Победа
 http://172.16.0.252/channel/26ec90b5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-55224" tvg-logo="http://172.16.0.252/logos/pobeda.png",Победа
-http://172.16.0.252/channel/26b43efa/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-100021" tvg-logo="http://172.16.0.252/logos/den-pobedy.png",День Победы
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n6557916/index.m3u8?q=1765986513467
@@ -595,12 +574,14 @@ http://172.16.0.252/channel/69c4ee03/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n7f5ef8fd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-244" tvg-logo="http://172.16.0.252/logos/dom-kino.png",Дом кино
 http://172.16.0.252/channel/n6624c39f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-244" tvg-logo="http://172.16.0.252/logos/dom-kino.png",Дом кино
-http://172.16.0.252/channel/n67f5ca0a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-51107" tvg-logo="http://172.16.0.252/logos/dom-kino-premium-hd.png",Дом кино Премиум HD
 http://172.16.0.252/channel/6392ce90/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-308" tvg-logo="http://172.16.0.252/logos/mir-seriala.png",Мир Сериала
 http://172.16.0.252/channel/55e66bc/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Фильмы и сериалы",VHS-сериал HD
+http://172.16.0.252/channel/43e19ed8/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Фильмы и сериалы",VHS-ка
+http://172.16.0.252/channel/n67dacc9d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-53022" tvg-logo="http://172.16.0.252/logos/kino24.png",Kino 24
 http://172.16.0.252/channel/6187a5f8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-8196" tvg-logo="http://172.16.0.252/logos/pro100.png",Про100ТВ
@@ -647,22 +628,16 @@ http://172.16.0.252/channel/ndf5900/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n45344c38/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-663" tvg-logo="http://172.16.0.252/logos/star-cinema-hd.png",Star Cinema
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n1ba600e1/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/5f6c09b4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-53912" tvg-logo="http://172.16.0.252/logos/star-family.png",Star Family
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n16f8986e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-25" tvg-logo="http://172.16.0.252/logos/a1-tv.png",Amedia 1
 http://172.16.0.252/channel/n5fbff322/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-25" tvg-logo="http://172.16.0.252/logos/a1-tv.png",Amedia 1 HD
-http://172.16.0.252/channel/n4135b4f3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-26" tvg-logo="http://172.16.0.252/logos/a2-tv.png",Amedia 2
 http://172.16.0.252/channel/n5fbff321/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-26" tvg-logo="http://172.16.0.252/logos/a2-tv.png",Amedia 2 HD
-http://172.16.0.252/channel/n41354094/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-578" tvg-logo="http://172.16.0.252/logos/amedia-hit-hd.png",Amedia Hit
 http://172.16.0.252/channel/n568f02d4/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-578" tvg-logo="http://172.16.0.252/logos/amedia-hit-hd.png",Amedia Hit HD
-http://172.16.0.252/channel/n6e011123/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-31" tvg-logo="http://172.16.0.252/logos/amedia-premium-hd.png",Amedia Premium HD
 http://172.16.0.252/channel/n3836be88/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-31" tvg-logo="http://172.16.0.252/logos/amedia-premium.png",Amedia Premium
@@ -718,7 +693,7 @@ http://172.16.0.252/channel/c9f6c00/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-2504" tvg-logo="http://172.16.0.252/logos/nashe-muzhskoe.png",Наше мужское
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n33a77f41/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3" tvg-id="hlsproxy-2506" tvg-logo="http://172.16.0.252/logos/hit.png",Хит HD
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3" tvg-id="hlsproxy-2506" tvg-logo="http://172.16.0.252/logos/hit.png",Хит HD
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/339fd62d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-2503" tvg-logo="http://172.16.0.252/logos/nash-kinopokaz.png",Наш кинопоказ
@@ -744,14 +719,8 @@ http://172.16.0.252/channel/271abde7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1007012" tvg-logo="http://172.16.0.252/logos/kineko.png",Кинеко
 http://172.16.0.252/channel/n59936afc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1007012" tvg-logo="http://172.16.0.252/logos/kineko.png",Кинеко
-http://172.16.0.252/channel/73bebefb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1007012" tvg-logo="http://172.16.0.252/logos/kineko.png",Кинеко
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/20e8129a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1007010" tvg-logo="http://172.16.0.252/logos/sapphire.png",Сапфир
-http://172.16.0.252/channel/7f41101d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1007010" tvg-logo="http://172.16.0.252/logos/sapphire.png",Сапфир
-http://172.16.0.252/channel/475e100/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1007010" tvg-logo="http://172.16.0.252/logos/sapphire.png",Сапфир
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2c6a63bc/index.m3u8?q=1765986513467
@@ -762,12 +731,6 @@ http://172.16.0.252/channel/5ca2add1/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/5933efa7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-361" tvg-logo="http://172.16.0.252/logos/cinema.png",Cinema
 http://172.16.0.252/channel/n55f4e205/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-361" tvg-logo="http://172.16.0.252/logos/cinema.png",Cinema
-http://172.16.0.252/channel/n55f4e205/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-81" tvg-logo="http://172.16.0.252/logos/fox-hd.png",Fox HD
-http://172.16.0.252/channel/n7965732/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-83" tvg-logo="http://172.16.0.252/logos/foxlife-hd.png",FOX Life HD
-http://172.16.0.252/channel/na4e5812/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-253" tvg-logo="http://172.16.0.252/logos/evrokino.png",Еврокино
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/48005eba/index.m3u8?q=1765986513467
@@ -785,21 +748,17 @@ http://172.16.0.252/channel/a1f0b24/index.m3u8?q=1765986513467
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/3927dc08/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-263" tvg-logo="http://172.16.0.252/logos/illuzion-plus.png",Иллюзион+
-http://172.16.0.252/channel/n301706/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/n664106a1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-397" tvg-logo="http://172.16.0.252/logos/russkiy-illuzion.png",Русский Иллюзион
-http://172.16.0.252/channel/79adf719/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/n4c7c64ec/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-399" tvg-logo="http://172.16.0.252/logos/russkiy-bestseller.png",Русский бестселлер
 http://172.16.0.252/channel/47fc3002/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-399" tvg-logo="http://172.16.0.252/logos/russkiy-bestseller.png",Русский бестселлер
-http://172.16.0.252/channel/2cff9ec7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-401" tvg-logo="http://172.16.0.252/logos/russkiy-roman.png",Русский Роман
 http://172.16.0.252/channel/nab3c6b3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-401" tvg-logo="http://172.16.0.252/logos/russkiy-roman.png",Русский Роман
 http://172.16.0.252/channel/55a67856/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-400" tvg-logo="http://172.16.0.252/logos/russkiy-detektiv.png",Русский Детектив
 http://172.16.0.252/channel/n1ed3594c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-400" tvg-logo="http://172.16.0.252/logos/russkiy-detektiv.png",Русский Детектив
-http://172.16.0.252/channel/n58a8fd47/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-212" tvg-logo="http://172.16.0.252/logos/ntv-hit.png",НТВ-Хит
 http://172.16.0.252/channel/78dc99c6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-8194" tvg-logo="http://172.16.0.252/logos/ntv-serial.png",НТВ-Сериал
@@ -819,16 +778,12 @@ http://172.16.0.252/channel/760fab38/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Scream
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7701916f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-110" tvg-logo="http://172.16.0.252/logos/hollywood.png",Hollywood
-http://172.16.0.252/channel/n6ffc2305/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-111" tvg-logo="http://172.16.0.252/logos/hollywood-hd.png",Hollywood HD
-http://172.16.0.252/channel/n6b9d94d6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-51106" tvg-logo="http://172.16.0.252/logos/bollywood-hd.png",Bollywood HD
 http://172.16.0.252/channel/nb9c6086/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-54686" tvg-logo="https://dl.dropboxusercontent.com/s/qq07nai48ioorxn/tvoekz.png",Твое ТВ
 http://172.16.0.252/channel/n6ad0df3a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы",MediaService Lorenz TV
-http://172.16.0.252/channel/nb7eb276/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-54686" tvg-logo="https://dl.dropboxusercontent.com/s/qq07nai48ioorxn/tvoekz.png",Твое ТВ Юмор
+http://172.16.0.252/channel/40de2d2a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-53747" tvg-logo="http://172.16.0.252/logos/dorama.png",Дорама HD
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n15861412/index.m3u8?q=1765986513467
@@ -838,8 +793,6 @@ http://172.16.0.252/channel/667d6fd/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/75086c09/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-51037" tvg-logo="http://172.16.0.252/logos/strk.png",СТРК 43 Туапсе
 http://172.16.0.252/channel/2f29c9aa/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-279" tvg-logo="http://172.16.0.252/logos/kino-tv.png",Кино 1 International
-http://172.16.0.252/channel/n6ca4e83c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-1478" tvg-logo="http://172.16.0.252/logos/filmbox.png",FilmBox Russia
 http://172.16.0.252/channel/4425a7aa/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-5050" tvg-logo="http://172.16.0.252/logos/filmbox-arthouse.png",Filmbox Arthouse
@@ -853,52 +806,14 @@ http://172.16.0.252/channel/42e5a44b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-390" tvg-logo="http://172.16.0.252/logos/retro-tv.png",Ретро
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7d41fa2b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-390" tvg-logo="http://172.16.0.252/logos/retro-tv.png",Ретро
-http://172.16.0.252/channel/53de8550/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-227" tvg-logo="http://172.16.0.252/logos/1vremya.png",Время
 http://172.16.0.252/channel/nff8e9fc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-227" tvg-logo="http://172.16.0.252/logos/1vremya.png",Время
-http://172.16.0.252/channel/531e0b1f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-349" tvg-logo="http://172.16.0.252/logos/nostalgia.png",Ностальгия
 http://172.16.0.252/channel/5ac8ac35/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-349" tvg-logo="http://172.16.0.252/logos/nostalgia.png",Ностальгия
 http://172.16.0.252/channel/n150f6a06/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-51060" tvg-logo="http://172.16.0.252/logos/krasnaya-liniya.png",Красная линия
 http://172.16.0.252/channel/n5f6bfa41/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Ретро" tvg-id="hlsproxy-51060" tvg-logo="http://172.16.0.252/logos/krasnaya-liniya.png",Красная линия
-http://172.16.0.252/channel/7d85b041/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-2415" tvg-logo="http://172.16.0.252/logos/detskoe-kino.png",Детское кино International
-http://172.16.0.252/channel/n67b6d1b6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-279" tvg-logo="http://172.16.0.252/logos/kino-tv.png",Кино 1 International
-http://172.16.0.252/channel/n6ca4e83c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал",TBOE TV HD
-http://172.16.0.252/channel/59dd1a01/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-54686" tvg-logo="https://dl.dropboxusercontent.com/s/qq07nai48ioorxn/tvoekz.png",Твое ТВ Юмор
-http://172.16.0.252/channel/40de2d2a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-81" tvg-logo="http://172.16.0.252/logos/fox.png",Fox Kids
-http://172.16.0.252/channel/n2d817a5a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-295" tvg-logo="http://172.16.0.252/logos/muzyka-pervogo.png",Музыка 1 International
-http://172.16.0.252/channel/n51c3cfea/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-295" tvg-logo="http://172.16.0.252/logos/muzyka-pervogo.png",Музыка 2 International
-http://172.16.0.252/channel/8179a57/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-100598" tvg-logo="http://172.16.0.252/logos/muzyka-kino.png",Музыка Кино International
-http://172.16.0.252/channel/eaf18d6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-51036" tvg-logo="http://172.16.0.252/logos/retro-music.png",RETRO 80 HD
-http://172.16.0.252/channel/n422dc47f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал",NM Television
-http://172.16.0.252/channel/n3f0c706a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал",A21 Network - NM TV
-http://172.16.0.252/channel/269b5501/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал",TMF
-http://172.16.0.252/channel/2a942ea2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-54793" tvg-logo="http://172.16.0.252/logos/viva-ru.png",VIVA RUSSIA
-http://172.16.0.252/channel/n5f8b094e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал" tvg-id="hlsproxy-54793" tvg-logo="http://172.16.0.252/logos/viva-ru.png",VIVA RUSSIA
-http://172.16.0.252/channel/58da31f8/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал",A21 Network
-http://172.16.0.252/channel/682b6f51/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Кинозал",A21 Network
-http://172.16.0.252/channel/6e2024ad/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-1007013" tvg-logo="http://172.16.0.252/logos/terra-ru.png",TERRA
 http://172.16.0.252/channel/n46932966/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",МЫ
@@ -944,7 +859,7 @@ http://172.16.0.252/channel/784eda23/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-312" tvg-logo="http://172.16.0.252/logos/muzhskoy.png",Мужской
 http://172.16.0.252/channel/2b2e1fb/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-326" tvg-logo="http://172.16.0.252/logos/istoriya.png",История
-http://172.16.0.252/channel/439a6497/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/13d75cbc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-90" tvg-logo="http://172.16.0.252/logos/hdl.png",Точка РФ
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/14e00e03/index.m3u8?q=1765986513467
@@ -978,10 +893,8 @@ http://172.16.0.252/channel/n24a11c85/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-421" tvg-logo="http://172.16.0.252/logos/zhivaya-planeta.png",Живая Планета
 http://172.16.0.252/channel/n17f9794d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-87" tvg-logo="http://172.16.0.252/logos/galaxy.png",Тайны Галактики
-http://172.16.0.252/channel/16c4309a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-87" tvg-logo="http://172.16.0.252/logos/galaxy.png",Galaxy-TV
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n266acb21/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/210b8fb5/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-209" tvg-logo="http://172.16.0.252/logos/avto-plus.png",Авто Плюс
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2a9fe51/index.m3u8?q=1765986513467
@@ -1032,7 +945,8 @@ http://172.16.0.252/channel/3d528087/index.m3u8?q=1765986513467
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n672d3890/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-7176" tvg-logo="http://172.16.0.252/logos/kaleidoskop.png",Калейдоскоп ТВ
-http://172.16.0.252/channel/n57f27462/index.m3u8?q=1765986513467
+#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+http://172.16.0.252/channel/n5fdfa2dd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-21062" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/ww/world_channel_us.png",World HD
 http://172.16.0.252/channel/103af3d9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-611" tvg-logo="http://172.16.0.252/logos/univer-hd.png",Univer TV
@@ -1075,8 +989,6 @@ http://172.16.0.252/channel/282eeed2/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/681f2891/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-311" tvg-logo="http://172.16.0.252/logos/moya-planeta.png",Моя планета
 http://172.16.0.252/channel/n88810e9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-245" tvg-logo="http://172.16.0.252/logos/domashnie-zhivotnye.png",Домашние животные
-http://172.16.0.252/channel/52b4c168/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53" tvg-logo="http://172.16.0.252/logos/nasha-sibir.png",Наша Сибирь
 http://172.16.0.252/channel/69260e39/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-611" tvg-logo="http://172.16.0.252/logos/univer-hd.png",Univer TV
@@ -1099,10 +1011,7 @@ http://172.16.0.252/channel/5ddb3cf1/index.m3u8?q=1765986513467
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7d71a891/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-286" tvg-logo="http://172.16.0.252/logos/bober.png",Бобер
-http://172.16.0.252/channel/530efaf4/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-286" tvg-logo="http://172.16.0.252/logos/bober.png",Бобер
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n7b2e518e/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/n2926458d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-462" tvg-logo="http://172.16.0.252/logos/usadba.png",Усадьба
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n19296c37/index.m3u8?q=1765986513467
@@ -1146,28 +1055,23 @@ http://172.16.0.252/channel/7d622e1f/index.m3u8?q=1765986513467
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7e43697c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-376" tvg-logo="http://172.16.0.252/logos/psichologia.png",Психология 21
-http://172.16.0.252/channel/21580a0c/index.m3u8?q=1765986513467
+#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+http://172.16.0.252/channel/109273e7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53514" tvg-logo="http://172.16.0.252/logos/big-asia.png",Большая Азия
-http://172.16.0.252/channel/n585a2950/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/n79f77280/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-50276" tvg-logo="http://172.16.0.252/logos/otkrytyi-mir.png",Открытый мир
-http://172.16.0.252/channel/n674c22b2/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/7716941e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-184" tvg-logo="http://172.16.0.252/logos/travel-adventure-hd.png",Travel+Adventure HD
 http://172.16.0.252/channel/n1ebeedf9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-8603" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/tt/travel_xp_in_hd.png",Travelxp HD
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n46f79136/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-680" tvg-logo="http://172.16.0.252/logos/peretz.png",Перец
-http://172.16.0.252/channel/n2f7b4eb4/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-680" tvg-logo="http://172.16.0.252/logos/peretz.png",Перец
-http://172.16.0.252/channel/3686462c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-8186" tvg-logo="http://172.16.0.252/logos/anekdot-tv.png",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n7155e436/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-22082" tvg-logo="http://172.16.0.252/logos/kvn.png",КВН ТВ
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/1eb2b3ab/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-411" tvg-logo="http://172.16.0.252/logos/sarafan.png",Сарафан
-http://172.16.0.252/channel/5a8149b7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-411" tvg-logo="http://172.16.0.252/logos/sarafan.png",Сарафан
 http://172.16.0.252/channel/95f7ebc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-276" tvg-logo="http://172.16.0.252/logos/2x2.png",2x2 HD
@@ -1268,8 +1172,6 @@ http://172.16.0.252/channel/n4559fce7/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/2af35f4b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-199" tvg-logo="http://172.16.0.252/logos/viasat-sport.png",viju+ Sport
 http://172.16.0.252/channel/5086d426/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-199" tvg-logo="http://172.16.0.252/logos/viasat-sport.png",viju+ Sport
-http://172.16.0.252/channel/2f366883/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-53906" tvg-logo="http://172.16.0.252/logos/start-tv.png",СТАРТ HD
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n7b7f5f75/index.m3u8?q=1765986513467
@@ -1280,12 +1182,8 @@ http://172.16.0.252/channel/n6e0532c0/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/6b213609/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-221" tvg-logo="http://172.16.0.252/logos/belarus5.png",Беларусь 5 HD
 http://172.16.0.252/channel/6b213609/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-51971" tvg-logo="https://dl.dropboxusercontent.com/s/w0osuonbeeleazt/redbull.png",Red Bull TV HD
-http://172.16.0.252/channel/6520b221/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-55258" tvg-logo="http://172.16.0.252/logos/astrahan-sport.png",Астрахань.Ru Sport
 http://172.16.0.252/channel/n133f5be3/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-54797" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/tt/turkmenistan-sport-tm.png",Turkmenistan Sport
-http://172.16.0.252/channel/62e06e32/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-295" tvg-logo="http://172.16.0.252/logos/muzyka-pervogo.png",Музыка первого
 http://172.16.0.252/channel/4c5563ed/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-153" tvg-logo="http://172.16.0.252/logos/ru-tv.png",RU.TV

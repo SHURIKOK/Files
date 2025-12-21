@@ -99,14 +99,10 @@ http://172.16.0.252/channel/79b8adfd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Неизвестная Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://172.16.0.252/channel/n25a04a01/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Россия" tvg-id="hlsproxy-387" tvg-logo="http://172.16.0.252/logos/rtr-planeta.png",РТР-Планета Европа
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://172.16.0.252/channel/n27459aa9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия" tvg-id="hlsproxy-10071" tvg-logo="http://172.16.0.252/logos/prnk-ru.png",ПРНК
 http://172.16.0.252/channel/3e8d40e6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png" tvg-id="hlsproxy-362",Первый канал
-#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
-http://172.16.0.252/channel/64e387a4/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Россия" tvg-id="hlsproxy-446" tvg-logo="https://dl.dropboxusercontent.com/s/e44l4eue3ou8zfh/belros.jpg",БелРос
+http://172.16.0.252/channel/n60e43bbd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+1" tvg-id="hlsproxy-362" tvg-logo="http://172.16.0.252/logos/perviy.png",Первый канал (+1)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/3b17c111/index.m3u8?q=1765986513467
@@ -134,9 +130,6 @@ http://172.16.0.252/channel/n571699d0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png" tvg-shift="+9" tvg-id="hlsproxy-362",Первый канал (+9)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n14d1dbf2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-391" tvg-logo="http://172.16.0.252/logos/rossia1.png",Россия 1
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n3ecdc85e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+1" tvg-id="hlsproxy-391" tvg-logo="http://172.16.0.252/logos/rossia1.png",Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5d4bb32d/index.m3u8?q=1765986513467
@@ -164,12 +157,6 @@ http://172.16.0.252/channel/4c6e7a31/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+9" tvg-id="hlsproxy-391" tvg-logo="http://172.16.0.252/logos/rossia1.png",Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4c6e7a50/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-392" tvg-logo="http://172.16.0.252/logos/match-tv.png",Матч! ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/3d348764/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-319" tvg-logo="http://172.16.0.252/logos/ntv.png",НТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7d4f90ef/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-319" tvg-logo="http://172.16.0.252/logos/ntv.png",НТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/34151a29/index.m3u8?q=1765986513467
@@ -179,9 +166,6 @@ http://172.16.0.252/channel/34151a67/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-319" tvg-logo="http://172.16.0.252/logos/ntv.png",НТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/34151ac4/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-378" tvg-logo="http://172.16.0.252/logos/5-kanal.png",Пятый канал
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/6e1e4f6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-378" tvg-logo="http://172.16.0.252/logos/5-kanal.png",Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2bb5749c/index.m3u8?q=1765986513467
@@ -191,9 +175,6 @@ http://172.16.0.252/channel/n2bb5745e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-378" tvg-shift="+7" tvg-logo="http://172.16.0.252/logos/5-kanal.png",Пятый канал (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2bb57401/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-395" tvg-logo="http://172.16.0.252/logos/rossiak.png",Россия К
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n3ecdc475/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-395" tvg-logo="http://172.16.0.252/logos/rossiak.png",Россия К (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n34fdf611/index.m3u8?q=1765986513467
@@ -203,12 +184,6 @@ http://172.16.0.252/channel/n34fdf5d3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-395" tvg-logo="http://172.16.0.252/logos/rossiak.png",Россия К (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n34fdf576/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-393" tvg-logo="http://172.16.0.252/logos/rossia-24.png",Россия 24
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/6514bcf1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-277" tvg-logo="http://172.16.0.252/logos/karusel.png",Карусель
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/6bbf7c5a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-277" tvg-shift="+2" tvg-logo="http://172.16.0.252/logos/karusel.png",Карусель (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/47f7f280/index.m3u8?q=1765986513467
@@ -218,12 +193,6 @@ http://172.16.0.252/channel/47f7f2be/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-277" tvg-shift="+7" tvg-logo="http://172.16.0.252/logos/karusel.png",Карусель (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/47f7f31b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-325" tvg-logo="http://172.16.0.252/logos/otr-ru.png",ОТР
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7d4f8d20/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-434" tvg-logo="http://172.16.0.252/logos/tvc.png",ТВ Центр
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/6c326298/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-434" tvg-shift="+2" tvg-logo="http://172.16.0.252/logos/tvc.png",ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5ccebcfe/index.m3u8?q=1765986513467
@@ -233,9 +202,6 @@ http://172.16.0.252/channel/n5ccebcc0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-434" tvg-logo="http://172.16.0.252/logos/tvc.png",ТВ Центр (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5ccebc63/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-382" tvg-logo="http://172.16.0.252/logos/rentv.png",РЕН ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/763a4004/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-382" tvg-logo="http://172.16.0.252/logos/rentv.png",РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n632916ea/index.m3u8?q=1765986513467
@@ -245,12 +211,6 @@ http://172.16.0.252/channel/n516d12ac/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-382" tvg-logo="http://172.16.0.252/logos/rentv.png",Рен ТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n516d124f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-419" tvg-logo="http://172.16.0.252/logos/spas.png",Спас
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n2ca046b5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-407" tvg-logo="http://172.16.0.252/logos/sts.png",СТС
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7d4f81dc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-407" tvg-logo="http://172.16.0.252/logos/sts.png",СТС (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n12cd810a/index.m3u8?q=1765986513467
@@ -260,18 +220,12 @@ http://172.16.0.252/channel/n12cd80cc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-407" tvg-logo="http://172.16.0.252/logos/sts.png",СТС (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n12cd806f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-409" tvg-logo="http://172.16.0.252/logos/sts-love.png",СТС Love
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n12bc1bf2/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-409" tvg-logo="http://172.16.0.252/logos/sts-love.png",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/f443b4c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+4" tvg-id="hlsproxy-409" tvg-logo="http://172.16.0.252/logos/sts-love.png",СТС Love (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/f443b8a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-431" tvg-logo="http://172.16.0.252/logos/subbota.png",Суббота!
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/15669213/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-431" tvg-logo="http://172.16.0.252/logos/subbota.png",Суббота! (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5fd97799/index.m3u8?q=1765986513467
@@ -281,9 +235,6 @@ http://172.16.0.252/channel/n5fd9775b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-431" tvg-logo="http://172.16.0.252/logos/subbota.png",Суббота! (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5fd976fe/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-246" tvg-logo="http://172.16.0.252/logos/domashniy.png",Домашний
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n26cc2830/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-246" tvg-logo="http://172.16.0.252/logos/domashniy.png",Домашний (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/356050ca/index.m3u8?q=1765986513467
@@ -293,9 +244,6 @@ http://172.16.0.252/channel/35605108/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-246" tvg-logo="http://172.16.0.252/logos/domashniy.png",Домашний (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/35605165/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-432" tvg-logo="http://172.16.0.252/logos/tv3.png",ТВ3
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7d4f83f9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-432" tvg-logo="http://172.16.0.252/logos/tv3.png",ТВ3 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/5204b6f3/index.m3u8?q=1765986513467
@@ -305,9 +253,6 @@ http://172.16.0.252/channel/5204b731/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-432" tvg-logo="http://172.16.0.252/logos/tv3.png",ТВ3 (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/5204b78e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-377" tvg-logo="http://172.16.0.252/logos/pyatnica.png",Пятница
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7cf6f945/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-377" tvg-shift="+2" tvg-logo="http://172.16.0.252/logos/pyatnica.png",Пятница! (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n64007e6c/index.m3u8?q=1765986513467
@@ -320,9 +265,6 @@ http://172.16.0.252/channel/n64007e0f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-377" tvg-shift="+7" tvg-logo="http://172.16.0.252/logos/pyatnica.png",Пятница! (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n64007dd1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-259" tvg-logo="http://172.16.0.252/logos/zvezda.png",Звезда
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/68919195/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-259" tvg-logo="http://172.16.0.252/logos/zvezda.png",Звезда (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n472715db/index.m3u8?q=1765986513467
@@ -332,9 +274,6 @@ http://172.16.0.252/channel/n4727159d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-259" tvg-logo="http://172.16.0.252/logos/zvezda.png",Звезда (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n47271540/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-299" tvg-logo="http://172.16.0.252/logos/mir.png",Мир
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7d4f91d8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-299" tvg-logo="http://172.16.0.252/logos/mir.png",МИР (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2ce68a8e/index.m3u8?q=1765986513467
@@ -344,9 +283,6 @@ http://172.16.0.252/channel/n2ce68a50/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-299" tvg-logo="http://172.16.0.252/logos/mir.png",МИР (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2ce689f3/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-439" tvg-logo="http://172.16.0.252/logos/tnt-ru.png",ТНТ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7d4f7eb5/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-439" tvg-logo="http://172.16.0.252/logos/tnt-ru.png",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4e495c2f/index.m3u8?q=1765986513467
@@ -356,18 +292,12 @@ http://172.16.0.252/channel/4e495c6d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-439" tvg-logo="http://172.16.0.252/logos/tnt-ru.png",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4e495cca/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-336" tvg-logo="http://172.16.0.252/logos/tnt4.png",ТНТ4
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n2ca057b7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-336" tvg-logo="http://172.16.0.252/logos/tnt4.png",ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n636f1c0f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+4" tvg-id="hlsproxy-336" tvg-logo="http://172.16.0.252/logos/tnt4.png",ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n636f1bd1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-301" tvg-logo="http://172.16.0.252/logos/muz.png",Муз ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/71fae85c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-301" tvg-logo="http://172.16.0.252/logos/muz.png",Муз ТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/3d69b7be/index.m3u8?q=1765986513467
@@ -377,9 +307,6 @@ http://172.16.0.252/channel/3d69b7fc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-301" tvg-logo="http://172.16.0.252/logos/muz.png",Муз ТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/3d69b859/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-369" tvg-logo="http://172.16.0.252/logos/che.png",Че
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n3dd94596/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-369" tvg-logo="http://172.16.0.252/logos/che.png",Че! (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/1769f2d8/index.m3u8?q=1765986513467
@@ -389,9 +316,6 @@ http://172.16.0.252/channel/762d7641/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-369" tvg-logo="http://172.16.0.252/logos/che.png",Че! (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/762d769e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-474" tvg-logo="http://172.16.0.252/logos/u-tv.png",Ю
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/na40d0ce/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-474" tvg-logo="http://172.16.0.252/logos/u-tv.png",Ю (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/548e46a8/index.m3u8?q=1765986513467
@@ -401,9 +325,6 @@ http://172.16.0.252/channel/548e46e6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-474" tvg-logo="http://172.16.0.252/logos/u-tv.png",Ю (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/548e4743/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-276" tvg-logo="http://172.16.0.252/logos/2x2.png",2x2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/n7d5ebb90/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-276" tvg-logo="http://172.16.0.252/logos/2x2.png",2x2 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3b8237d6/index.m3u8?q=1765986513467
@@ -413,9 +334,6 @@ http://172.16.0.252/channel/n3b823798/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+7" tvg-id="hlsproxy-276" tvg-logo="http://172.16.0.252/logos/2x2.png",2x2 (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3b82373b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-id="hlsproxy-506" tvg-logo="http://172.16.0.252/logos/solnce.png",СОЛНЦЕ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://172.16.0.252/channel/787bfcaa/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift="+2" tvg-id="hlsproxy-506" tvg-logo="http://172.16.0.252/logos/solnce.png",СОЛНЦЕ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3a70dbd0/index.m3u8?q=1765986513467
@@ -615,19 +533,16 @@ http://172.16.0.252/channel/3caa151d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-55135" tvg-logo="http://172.16.0.252/logos/vip-serial.png",Viju+ Serial
 http://172.16.0.252/channel/1595a09f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-28" tvg-logo="http://172.16.0.252/logos/dot-sci-fi.png",.Sci-Fi
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/5042670f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-159" tvg-logo="http://172.16.0.252/logos/dot-red.png",.Red
 http://172.16.0.252/channel/n5d2e9867/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-163" tvg-logo="http://172.16.0.252/logos/dot-black.png",.Black
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/33379d07/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-100558" tvg-logo="http://172.16.0.252/logos/start-air.png",Start Air
 http://172.16.0.252/channel/ndf5900/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-100557" tvg-logo="http://172.16.0.252/logos/start-world.png",Start World
 http://172.16.0.252/channel/n45344c38/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-663" tvg-logo="http://172.16.0.252/logos/star-cinema-hd.png",Star Cinema
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/5f6c09b4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы" tvg-id="hlsproxy-53912" tvg-logo="http://172.16.0.252/logos/star-family.png",Star Family
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
@@ -819,7 +734,7 @@ http://172.16.0.252/channel/n46932966/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",МЫ
 http://172.16.0.252/channel/n44c21d46/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-9175" tvg-logo="https://dl.dropboxusercontent.com/s/ojy6jbwdi7w7h8m/odplus.png",Плюс минус 16
-http://172.16.0.252/channel/n2ea91444/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/67b9b084/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",The Explorers
 http://172.16.0.252/channel/3d42058f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-572" tvg-logo="http://172.16.0.252/logos/docubox-hd.png",DOCUBOX HD
@@ -916,7 +831,7 @@ http://172.16.0.252/channel/n31f42fc/index.m3u8?q=1765986513467
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n1dba6047/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53014" tvg-logo="http://172.16.0.252/logos/ohotnik-i-rybolov-hd.png",Охотник и рыболов Int HD
-http://172.16.0.252/channel/n3a4355c0/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/6ae17968/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-359" tvg-logo="http://172.16.0.252/logos/rybolov.png",Рыболов
 #EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/5946bd37/index.m3u8?q=1765986513467
@@ -1186,8 +1101,6 @@ http://172.16.0.252/channel/6b213609/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n133f5be3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-295" tvg-logo="http://172.16.0.252/logos/muzyka-pervogo.png",Музыка первого
 http://172.16.0.252/channel/4c5563ed/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-153" tvg-logo="http://172.16.0.252/logos/ru-tv.png",RU.TV
-http://172.16.0.252/channel/n6eae0c98/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-153" tvg-logo="http://172.16.0.252/logos/ru-tv.png",RU TV HD
 http://172.16.0.252/channel/n82ee3fe/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-44" tvg-logo="http://172.16.0.252/logos/bridge-tv.png",Bridge TV
@@ -1247,8 +1160,6 @@ http://172.16.0.252/channel/n7f50cd15/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n43c66e96/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-471" tvg-logo="http://172.16.0.252/logos/shanson-tv.png",Шансон ТВ
 http://172.16.0.252/channel/3fd89cdb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-471" tvg-logo="http://172.16.0.252/logos/shanson-tv.png",Шансон ТВ International
-http://172.16.0.252/channel/n27b6d6e9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные",NASHE TV / Radio (mp3)
 http://172.16.0.252/channel/n34726b82/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-20761" tvg-logo="http://172.16.0.252/logos/rock-tv-romania.png",Rock HD
@@ -1559,8 +1470,6 @@ http://172.16.0.252/channel/2a556f12/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/35a40fa1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image72612344614.webp",RADIO MILAZZO TV
 http://172.16.0.252/channel/n27d8c155/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-name="fashion-one-4k" tvg-id="hlsproxy-8274" tvg-logo="http://172.16.0.252/logos/fashion-one-4k.png",Fashion 4K
-http://172.16.0.252/channel/n6fc0eea9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="МОДА" tvg-name="fashion-tv" tvg-id="hlsproxy-78" tvg-logo="http://172.16.0.252/logos/fashion-tv-hd.png",Fashion TV HD
 http://172.16.0.252/channel/2e4a0187/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="МОДА" tvg-name="world-fashion-channel" tvg-id="hlsproxy-200" tvg-logo="http://172.16.0.252/logos/world-fashion.png",World Fashion
@@ -1579,118 +1488,6 @@ http://172.16.0.252/channel/33fbde82/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n4e2beb5f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg" tvg-id="no_epg",Fashion TV Africa
 http://172.16.0.252/channel/n6ba4777b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-7165" tvg-logo="https://dl.dropboxusercontent.com/s/cb622odnltpp1zu/nashdom.png",11 канал (Пенза)
-http://172.16.0.252/channel/22e67892/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-880" tvg-logo="https://dl.dropboxusercontent.com/s/hj26totwjhswhzu/kan12.jpg",12 Канал
-http://172.16.0.252/channel/n7bff6f54/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-6" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/num/12-kanal-ru.png",12 Канал HD
-http://172.16.0.252/channel/3dc420f0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-19" tvg-logo="http://172.16.0.252/logos/8-kanal.png",8 канал (Витебск) HD
-http://172.16.0.252/channel/n6bb23b09/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-54274" tvg-logo="https://dl.dropboxusercontent.com/s/zwcjarq9v51scye/86.png",86 Канал (Сургут)
-http://172.16.0.252/channel/n7e3bf8f7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные",C1 (Сургут)
-http://172.16.0.252/channel/70887dcb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-7177" tvg-logo="https://dl.dropboxusercontent.com/s/vu3a199fc7pijmj/atv-st.jpg",АТВ (Ставрополь)
-http://172.16.0.252/channel/n5e8d1714/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-53856" tvg-logo="https://dl.dropboxusercontent.com/s/gaft4727skja7cq/goryar.png",Городской ТК (Ярославль)
-http://172.16.0.252/channel/5a01a9f6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-333" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kuban_24_ru.png",Кубань 24
-http://172.16.0.252/channel/5a8ec721/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-254" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/ee/enisey_tv_ru.png",Енисей HD
-http://172.16.0.252/channel/ndb2e3b0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-54764" tvg-logo="https://dl.dropboxusercontent.com/s/icbbtrepljskpda/k16.png",К16 (Саров)
-http://172.16.0.252/channel/63311783/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-7149" tvg-logo="https://dl.dropboxusercontent.com/s/y5csqfui41y7dik/kr-online.png",Краснодар ТВ
-http://172.16.0.252/channel/n7b83f494/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-12021" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mtv-ru.png",МТВ (Волгоград)
-http://172.16.0.252/channel/n67b3643f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-54544" tvg-logo="https://dl.dropboxusercontent.com/s/4nnn87pioflmebh/nashe-v.jpg",Наше ТВ (Витебск)
-http://172.16.0.252/channel/35f408cb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-515" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nika_tv_ru.png",Ника TV
-http://172.16.0.252/channel/n5827e79/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-8112" tvg-logo="http://172.16.0.252/logos/novy-mir.png",Новый мир
-http://172.16.0.252/channel/2299d34c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-53989" tvg-logo="https://dl.dropboxusercontent.com/s/iog67ssvy6z8yne/pskov.jpg",Первый Псковский
-http://172.16.0.252/channel/n1ff31392/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-3092" tvg-logo="https://dl.dropboxusercontent.com/s/4nyxwhdbg1ml3by/rostov.jpg",Ростов-папа HD
-http://172.16.0.252/channel/a42d296/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-522" tvg-logo="https://dl.dropboxusercontent.com/s/3lhx7em5ue9ekp0/aist.png",ТВ Аист (Орехово-Зуево)
-http://172.16.0.252/channel/n687059e6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-54521" tvg-logo="https://dl.dropboxusercontent.com/s/jdpdtu5hteds0aw/uchaly.png",Учалы ТВ
-http://172.16.0.252/channel/739504db/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-530" tvg-logo="https://dl.dropboxusercontent.com/s/0fdnvyfhfazcg2b/habar24.jpg",Хабар 24
-http://172.16.0.252/channel/n5a78dd2c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-638" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/ss/schelkovo_tv41_ru.png",Щелковское ТВ
-http://172.16.0.252/channel/n76ec3f69/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-54196" tvg-logo="https://dl.dropboxusercontent.com/s/rley49bbi8wfv3z/express.jpg",Экспресс(Пенза)
-http://172.16.0.252/channel/n69a57c57/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные",Эфир ТВ HD (Казань)
-http://172.16.0.252/channel/n5ec88d6b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-1023" tvg-logo="https://dl.dropboxusercontent.com/s/2f77f4r1eiqbm7v/Obkom-TV.jpg",Обком ТВ (Омск)
-http://172.16.0.252/channel/n51201e78/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-545" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astrakhan_24_ru.png",Астрахань 24
-http://172.16.0.252/channel/1e6a42fa/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-598" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/ll/lipetskoye_vremya_ru.png",Липецкое время
-http://172.16.0.252/channel/n45f1380/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-8288" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/ll/lyubimyy_gorod_kg.png",Любимый HD kir/rus
-http://172.16.0.252/channel/n52de6e1b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-310" tvg-logo="http://172.16.0.252/logos/moskva24.png",Москва 24
-http://172.16.0.252/channel/n7610a0f0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-53477" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bashkortostan-24-ru.png",Башкортостан 24
-http://172.16.0.252/channel/405ce12a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-630" tvg-logo="https://dl.dropboxusercontent.com/s/7senw00tn83hr9r/1tula.png",Первый тульский
-http://172.16.0.252/channel/n3023b3ea/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-2462" tvg-logo="https://dl.dropboxusercontent.com/s/qt8q1a2sbts8efg/vechmosk.png",Вечерняя Москва HD
-http://172.16.0.252/channel/n4e6a9516/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-100176" tvg-logo="https://dl.dropboxusercontent.com/s/22t1dnis18dn164/chaykovsk.png",Чайковский ТВ
-http://172.16.0.252/channel/a09b780/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-11" tvg-logo="http://172.16.0.252/logos/kaz-31.png",31 канал
-http://172.16.0.252/channel/n69c90234/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-564" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/num/7-kanal-kz.png",Седьмой канал
-http://172.16.0.252/channel/ncf1791f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-476" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astana_tv_kz.png",Astana TV
-http://172.16.0.252/channel/n579ad54c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-538" tvg-logo="https://dl.dropboxusercontent.com/s/k31kl0t994w6wru/el-arna.jpg",Ел Арна
-http://172.16.0.252/channel/n6682c69f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-273" tvg-logo="https://dl.dropboxusercontent.com/s/fmigzd9ozrh257o/ktk.jpg",КТК
-http://172.16.0.252/channel/n215171aa/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-612" tvg-logo="https://dl.dropboxusercontent.com/s/e3icv0sdxnq7l6t/novoe-tv.jpg",Новое телевидение
-http://172.16.0.252/channel/643c9152/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-9230" tvg-logo="http://172.16.0.252/logos/stv-by.png",СТВ
-http://172.16.0.252/channel/n2151576b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-468" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/kk/khabar_kz.png",Хабар
-http://172.16.0.252/channel/n12197306/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-52399" tvg-logo="https://dl.dropboxusercontent.com/s/xjve2d09n0vss9v/halyq.png",Халык Арна
-http://172.16.0.252/channel/n906600/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-252" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/pp/perviy_kanal_eurasia.png",Первый канал "Евразия"
-http://172.16.0.252/channel/672d9b67/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-55483" tvg-logo="https://dl.dropboxusercontent.com/s/dzj9k97deqwyssz/mord24.png",Мордовия 24
-http://172.16.0.252/channel/n2cf9a9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-6070" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/mm/millet_ua.png",Миллет
-http://172.16.0.252/channel/n3af00bd7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-293" tvg-logo="http://172.16.0.252/logos/kurai.png",Курай ТВ
-http://172.16.0.252/channel/n306d8cb9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-8312" tvg-logo="https://dl.dropboxusercontent.com/s/z9nd4oxtsgvetz0/odinz.png",ОТВ (Одинцово)
-http://172.16.0.252/channel/n51fb2c3/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-610" tvg-logo="https://dl.dropboxusercontent.com/s/8v3n0e3k5j3ecq3/tumenvr.png",Тюменское время
-http://172.16.0.252/channel/n6ac1180a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-475" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/uu/ugra_tv.png",Югра
-http://172.16.0.252/channel/430518f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-15" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nsk_49_ru.png",НСК 49 (Новосибирск)
-http://172.16.0.252/channel/n568bfc0e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные",Телестанция Мир (Новосибирск)
-http://172.16.0.252/channel/5ffe22c1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-20140" tvg-logo="https://dl.dropboxusercontent.com/s/hc9bcfgbrp7ml8h/tver-region.png",Тверской Проспект
-http://172.16.0.252/channel/n61c7926c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-671" tvg-logo="https://dl.dropboxusercontent.com/s/pcqwx5kcwhkle15/nn24.png",Нижний Новгород 24
-http://172.16.0.252/channel/n3922d00f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-2657" tvg-logo="https://dl.dropboxusercontent.com/s/3bfwur4orw7kq7w/ramensk.png",Раменское HD
-http://172.16.0.252/channel/n2342bc0f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-2657" tvg-logo="https://dl.dropboxusercontent.com/s/3bfwur4orw7kq7w/ramensk.png",Раменское
-http://172.16.0.252/channel/425d354b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-310" tvg-logo="http://172.16.0.252/logos/moskva24.png",Москва 24
-http://172.16.0.252/channel/6823a760/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-55" tvg-logo="http://172.16.0.252/logos/krym.png",Крым 1
 http://172.16.0.252/channel/1e539c63/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-514" tvg-logo="http://172.16.0.252/logos/krym24.png",Крым 24
@@ -1705,8 +1502,6 @@ http://172.16.0.252/channel/n50f80f2d/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n52dd530/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Крым",Симферополь 24
 http://172.16.0.252/channel/2f7434ea/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-446" tvg-logo="https://dl.dropboxusercontent.com/s/e44l4eue3ou8zfh/belros.jpg",БелРос
-http://172.16.0.252/channel/n60e43bbd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-217" tvg-logo="http://172.16.0.252/logos/belarus1.png",Беларусь 1
 http://172.16.0.252/channel/235e91e6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-218" tvg-logo="http://172.16.0.252/logos/belarus2.png",Беларусь 2
@@ -1809,6 +1604,3 @@ http://172.16.0.252/channel/n6d90510c/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/n6cc93e2f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100100" tvg-logo="https://dl.dropboxusercontent.com/s/nam1umz9x4ty232/kamchatka.png",Камчатка Лайф Rock
 http://172.16.0.252/channel/n3d50abfc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Взрослые" tvg-id="hlsproxy-279" tvg-logo="http://172.16.0.252/logos/kino-tv.png",Кино 18+ International
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://172.16.0.252/channel/n2c546401/index.m3u8?q=1765986513467

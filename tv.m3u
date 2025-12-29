@@ -1,15 +1,11 @@
-#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG_LITE.gz" 
+#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG_LITE.gz"
 #EXTINF:-1 group-title="Россия",Первый канал
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/2cc0125f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Россия 1
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n48f175c2/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Россия 24
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n75745bea/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Звезда
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n37907b70/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Звезда HD
 http://172.16.0.252/channel/4943648/index.m3u8?q=1765986513467
@@ -18,86 +14,60 @@ http://172.16.0.252/channel/522377aa/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Звезда Плюс HD
 http://172.16.0.252/channel/n729d0ece/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",ОТР
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5767263b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",ТВЦ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n57671921/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",НТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n57672a0a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Пятый канал
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n55c46925/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Россия К
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5ea0a43a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Карусель
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4bec9c95/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Рен ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n1f58bb1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Че
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n6e2c9d1b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Спас
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2ca046b5/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",СТС
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n7d4f81dc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",СТС Love
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n12bc1bf2/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Домашний
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n469f07f5/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",ТВ3
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n57671d14/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Пятница
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n7cf6f945/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Суббота
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n28999832/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",МИР
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n57672ef3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Мир 24
 http://172.16.0.252/channel/n45a8494d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",ТНТ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n576717d0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",ТНТ4
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/6a841e04/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",МУЗ ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/70296c5c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Матч! ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/1d61a79f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Ю
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n1411f4a9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Солнце
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/40dfabf/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",2x2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n577654ab/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",360° Подмосковье
 http://172.16.0.252/channel/15096402/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Москва. Доверие
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/62e072d4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Неизвестная Россия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://172.16.0.252/channel/79b8adfd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Неизвестная Россия HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://172.16.0.252/channel/n25a04a01/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Оплот Горловка
 http://91.214.48.158:4022/udp/224.2.2.4:10000
@@ -108,247 +78,166 @@ http://172.16.0.252/channel/3e8d40e6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",БелРос
 http://172.16.0.252/channel/n60e43bbd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Первый канал (+1)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/3b17c111/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Первый канал (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/769dda33/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Первый канал (+3)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/50c0d2c4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n57169a4c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Первый канал (+5)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n57169a2d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+6)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n57169a0e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n14d1dc30/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+8)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n571699d0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+9)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n14d1dbf2/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+1)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5d4bb32d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/1edf0438/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/6226106/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/1edf0476/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+5)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n352eff50/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/1edf04b4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4c6e7a12/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+8)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4c6e7a31/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+9)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4c6e7a50/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",НТВ (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/34151a29/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",НТВ (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/34151a67/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",НТВ (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/34151ac4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Пятый канал (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2bb5749c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="5kanal-ru-pl4",Пятый канал (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2bb5745e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="5kanal-ru-pl7",Пятый канал (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2bb57401/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия К (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n34fdf611/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия К (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n34fdf5d3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Россия К (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n34fdf576/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="karusel-pl2",Карусель (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/47f7f280/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="karusel-pl4",Карусель (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/47f7f2be/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="karusel-pl7",Карусель (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/47f7f31b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="2038",ТВ Центр (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5ccebcfe/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТВ Центр (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5ccebcc0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТВ Центр (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5ccebc63/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",РЕН ТВ (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n632916ea/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n516d12ac/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n516d124f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СТС (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n12cd810a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СТС (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n12cd80cc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СТС (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n12cd806f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СТС Love (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/f443b4c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СТС Love (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/f443b8a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Суббота! (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5fd97799/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Суббота! (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5fd9775b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Суббота! (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n5fd976fe/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Домашний (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/356050ca/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Домашний (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/35605108/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Домашний (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/35605165/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТВ3 (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/5204b6f3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТВ3 (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/5204b731/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТВ3 (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/5204b78e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="piatnica-pl2",Пятница! (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n64007e6c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="piatnica-pl4",Пятница! (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n64007e2e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="piatnica-pl5",Пятница! (+5)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n64007e0f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные" tvg-name="piatnica-pl7",Пятница! (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n64007dd1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Звезда (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n472715db/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Звезда (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n4727159d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Звезда (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n47271540/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",МИР (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2ce68a8e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",МИР (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2ce68a50/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",МИР (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n2ce689f3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТНТ (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4e495c2f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТНТ (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4e495c6d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТНТ (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4e495cca/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n636f1c0f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",ТНТ4 (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n636f1bd1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Муз ТВ (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/3d69b7be/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Муз ТВ (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/3d69b7fc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Муз ТВ (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/3d69b859/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Че! (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/1769f2d8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Че! (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/762d7641/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Че! (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/762d769e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Ю (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/548e46a8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Ю (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/548e46e6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",Ю (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/548e4743/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",2x2 (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3b8237d6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",2x2 (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3b823798/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",2x2 (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3b82373b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СОЛНЦЕ (+2)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3a70dbd0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СОЛНЦЕ (+4)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3a70db92/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Федеральные",СОЛНЦЕ (+7)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n3a70db35/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Детский Мир
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n76d414c1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Детское кино
 http://172.16.0.252/channel/n45df9347/index.m3u8?q=1765986513467
@@ -357,20 +246,16 @@ http://172.16.0.252/channel/7b69ae03/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Советские мультфильмы
 http://172.16.0.252/channel/6b670920/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Baby Time
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/74d0677/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Карусель
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/4bec9c95/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",СОЛНЦЕ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/40dfabf/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://172.16.0.252/channel/59303d26/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Капитан Фантастика HD
 http://172.16.0.252/channel/n47ccd748/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",ТипТоп
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2e8f797a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Лёва
 http://172.16.0.252/channel/n5b564596/index.m3u8?q=1765986513467
@@ -397,7 +282,6 @@ http://172.16.0.252/channel/n61399f0c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",DuckTV
 http://172.16.0.252/channel/n7383493a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Рыжий
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7d4bcc4c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Рыжий
 http://172.16.0.252/channel/7d4bcc4c/index.m3u8?q=1765986513467
@@ -410,17 +294,14 @@ http://172.16.0.252/channel/15748637/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",TiJi
 http://172.16.0.252/channel/n5d1cff36/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Мультиландия
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2b10a431/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Уникум
 http://172.16.0.252/channel/2db51eeb/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",В гостях у сказки
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n268d3815/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",В гостях у сказки
 http://172.16.0.252/channel/n268d3815/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",СТС Kids HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2677220f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 http://172.16.0.252/channel/2677220f/index.m3u8?q=1765986513467
@@ -435,16 +316,12 @@ http://172.16.0.252/channel/47775b6b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",360°
 http://172.16.0.252/channel/15096402/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",360° Новости
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/477399ad/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Соловьев.Live
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n3e9b439d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Москва 24
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n2df8d857/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Санкт-Петербург
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://172.16.0.252/channel/n53b7ab12/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Новое Телевидение
 http://172.16.0.252/channel/na5c70fa/index.m3u8?q=1765986513467
@@ -459,36 +336,28 @@ http://172.16.0.252/channel/45ea277e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Russia Today
 http://172.16.0.252/channel/n626cdb16/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",RTД Русский
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n626cdb16/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",РБК
 http://172.16.0.252/channel/n26e451f2/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСезон
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/6c944403/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Любимое кино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/nc63f13a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/306532ad/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Советская киноклассика
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Советская киноклассика
 http://172.16.0.252/channel/n3d01a63c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Novella TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/nfe43a2f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Классика Кино
 http://172.16.0.252/channel/3683e3ea/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Феникс+ Кино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/c6591a7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Смотрим Честный детектив
 http://172.16.0.252/channel/n690432a9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Победа
 http://172.16.0.252/channel/26ec90b5/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",День Победы
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n6557916/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Патриот
 http://172.16.0.252/channel/69c4ee03/index.m3u8?q=1765986513467
@@ -549,7 +418,6 @@ http://172.16.0.252/channel/n45344c38/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Cinema
 http://172.16.0.252/channel/5f6c09b4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Star Family
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n16f8986e/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia 1
 http://172.16.0.252/channel/n5fbff322/index.m3u8?q=1765986513467
@@ -562,99 +430,72 @@ http://172.16.0.252/channel/1703c370/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Amedia Premium
 http://172.16.0.252/channel/1703c370/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинохит
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n3e17b30/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Киномикс
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n7851fede/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинопремьера
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n175054c0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Киносвидание
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n2784080a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Киносемья
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/6e5748ac/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Киносерия
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/6e575544/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Мужское кино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n3e713740/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Родное кино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/na2fb43f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Киноужас HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n5f94a8c7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинокомедия
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n2d528651/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше новое кино HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/3a064a85/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Индийское Кино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n776d8181/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Индия
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7cd4aba6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Блокбастер
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n47f7e6f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Лавстори
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/35c51d18/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Про любовь
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/c9f6c00/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n33a77f41/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Хит HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Хит HD
 http://172.16.0.252/channel/339fd62d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n1fc19d48/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Камеди
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2076e173/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Комедия
 http://172.16.0.252/channel/n513e9a88/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинопоказ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/6e3f2603/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",КиноСат
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n3e2034c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Кино ТВ
 http://172.16.0.252/channel/6e67d81c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Кинеко
 http://172.16.0.252/channel/20e8129a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Сапфир
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/2c6a63bc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Timeless Dizi Channel
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/5ca2add1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Cinema
 http://172.16.0.252/channel/5933efa7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Cinema
 http://172.16.0.252/channel/n55f4e205/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Еврокино
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/48005eba/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",ТВ XXI
 http://172.16.0.252/channel/27b6ddef/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Bolt HD Россия
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n4bfa6e52/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",FlixSnip
 http://172.16.0.252/channel/a1f0b24/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",SHOT TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/3927dc08/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Иллюзион+
 http://172.16.0.252/channel/n664106a1/index.m3u8?q=1765986513467
@@ -677,13 +518,10 @@ http://172.16.0.252/channel/n4c163021/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",НСТ
 http://172.16.0.252/channel/n137663d8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Trash TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/220695ea/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Horror TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/760fab38/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Scream
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7701916f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Bollywood HD
 http://172.16.0.252/channel/nb9c6086/index.m3u8?q=1765986513467
@@ -692,7 +530,6 @@ http://172.16.0.252/channel/n6ad0df3a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Твое ТВ Юмор
 http://172.16.0.252/channel/40de2d2a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Дорама HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/n15861412/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",НТМ HD
 http://172.16.0.252/channel/667d6fd/index.m3u8?q=1765986513467
@@ -709,7 +546,6 @@ http://172.16.0.252/channel/5c0f39df/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро",Мосфильм. Золотая коллекция
 http://172.16.0.252/channel/42e5a44b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро",Ретро
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
 http://172.16.0.252/channel/7d41fa2b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро",Время
 http://172.16.0.252/channel/nff8e9fc/index.m3u8?q=1765986513467
@@ -717,875 +553,759 @@ http://172.16.0.252/channel/nff8e9fc/index.m3u8?q=1765986513467
 http://172.16.0.252/channel/5ac8ac35/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро",Красная линия
 http://172.16.0.252/channel/n5f6bfa41/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Познавательные",TERRA
+http://172.16.0.252/channel/n46932966/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",МЫ
 http://172.16.0.252/channel/n44c21d46/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-9175" tvg-logo="https://dl.dropboxusercontent.com/s/ojy6jbwdi7w7h8m/odplus.png",Плюс минус 16
-http://172.16.0.252/channel/2da616f9/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Познавательные",Плюс минус 16
+http://172.16.0.252/channel/7ad74fec/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",The Explorers
 http://172.16.0.252/channel/3d42058f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-572" tvg-logo="http://172.16.0.252/logos/docubox-hd.png",DOCUBOX HD
+#EXTINF:-1 group-title="Познавательные",DOCUBOX HD
 http://172.16.0.252/channel/n6d3fd65c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-194" tvg-logo="http://172.16.0.252/logos/viasat-explore.png",Viju Explore
-http://172.16.0.252/channel/11b71951/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-194" tvg-logo="http://172.16.0.252/logos/viasat-explore.png",Viju Explore
+#EXTINF:-1 group-title="Познавательные",Viju Explore
 http://172.16.0.252/channel/n55009839/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-196" tvg-logo="http://172.16.0.252/logos/viasat-history.png",Viju History
-http://172.16.0.252/channel/n6900fcae/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-196" tvg-logo="http://172.16.0.252/logos/viasat-history.png",Viju History
+#EXTINF:-1 group-title="Познавательные",Viju History
 http://172.16.0.252/channel/304751c8/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-197" tvg-logo="http://172.16.0.252/logos/viasat-nature.png",Viju Nature
-http://172.16.0.252/channel/na1a71d7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-197" tvg-logo="http://172.16.0.252/logos/viasat-nature.png",Viju Nature
+#EXTINF:-1 group-title="Познавательные",Viju Nature
 http://172.16.0.252/channel/n6841670d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",Viju Planet HD
 http://172.16.0.252/channel/n15e8103e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-13" tvg-logo="http://172.16.0.252/logos/365-dnei.png",365 дней
+#EXTINF:-1 group-title="Познавательные",365 дней
 http://172.16.0.252/channel/70bc0b31/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-13" tvg-logo="http://172.16.0.252/logos/365-dnei.png",365 дней ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/175ff0f5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-10" tvg-logo="http://172.16.0.252/logos/techno-24.png",Техно 24
+#EXTINF:-1 group-title="Познавательные",Техно 24
 http://172.16.0.252/channel/n63e25cdb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-10" tvg-logo="http://172.16.0.252/logos/techno-24.png",Техно 24
-http://172.16.0.252/channel/n3705135b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-257" tvg-logo="http://172.16.0.252/logos/zagorodnaya-zhizn.png",Загородная Жизнь
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Загородная Жизнь
 http://172.16.0.252/channel/n689f0eb2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-258" tvg-logo="http://172.16.0.252/logos/zagorodnyi.png",Загородный
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Загородный
 http://172.16.0.252/channel/n32739be7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-312" tvg-logo="http://172.16.0.252/logos/muzhskoy.png",Мужской
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Мужской
 http://172.16.0.252/channel/784eda23/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-312" tvg-logo="http://172.16.0.252/logos/muzhskoy.png",Мужской
-http://172.16.0.252/channel/2b2e1fb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-326" tvg-logo="http://172.16.0.252/logos/istoriya.png",История
+#EXTINF:-1 group-title="Познавательные",История
 http://172.16.0.252/channel/13d75cbc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-90" tvg-logo="http://172.16.0.252/logos/hdl.png",Точка РФ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Точка РФ
 http://172.16.0.252/channel/14e00e03/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-1993" tvg-logo="http://172.16.0.252/logos/arsenal.png",Арсенал
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Арсенал
 http://172.16.0.252/channel/n704df1c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-261" tvg-logo="http://172.16.0.252/logos/zoo-tv.png",Зоо ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
 http://172.16.0.252/channel/1c0f3439/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-345" tvg-logo="http://172.16.0.252/logos/nauka-rus-2-0.png",Наука 2.0
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
 http://172.16.0.252/channel/n74d593dc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-8191" tvg-logo="http://172.16.0.252/logos/ntv-style.png",НТВ-стиль
+#EXTINF:-1 group-title="Познавательные",НТВ-стиль
 http://172.16.0.252/channel/n4a534001/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-455" tvg-logo="http://172.16.0.252/logos/prikluchenia-hd.png",Приключения
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Приключения
 http://172.16.0.252/channel/29648b70/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-69" tvg-logo="http://172.16.0.252/logos/1-kosmichesky.png",Первый космический
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Первый космический
 http://172.16.0.252/channel/676a8797/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-454" tvg-logo="http://172.16.0.252/logos/teleputeshestvia.png",Телепутешествия
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
 http://172.16.0.252/channel/n6ba76a53/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-33" tvg-logo="http://172.16.0.252/logos/v-mire-zhivotnych-hd.png",В мире животных HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",В мире животных HD
 http://172.16.0.252/channel/606e4858/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-245" tvg-logo="http://172.16.0.252/logos/domashnie-zhivotnye.png",Домашние животные
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Домашние животные
 http://172.16.0.252/channel/n175f3a3d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-52449" tvg-logo="http://172.16.0.252/logos/unknown-planet.png",Неизвестная планета
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Неизвестная планета
 http://172.16.0.252/channel/n24a11c85/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-421" tvg-logo="http://172.16.0.252/logos/zhivaya-planeta.png",Живая Планета
+#EXTINF:-1 group-title="Познавательные",Живая Планета
 http://172.16.0.252/channel/n17f9794d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-87" tvg-logo="http://172.16.0.252/logos/galaxy.png",Тайны Галактики
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Тайны Галактики
 http://172.16.0.252/channel/210b8fb5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-209" tvg-logo="http://172.16.0.252/logos/avto-plus.png",Авто Плюс
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
 http://172.16.0.252/channel/2a9fe51/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-93" tvg-logo="http://172.16.0.252/logos/avto24.png",Авто 24
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Авто 24
 http://172.16.0.252/channel/n1ee6799c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-248" tvg-logo="http://172.16.0.252/logos/draiv.png",Драйв
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Драйв
 http://172.16.0.252/channel/7c9d9bbd/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-288" tvg-logo="http://172.16.0.252/logos/vmeste-rf.png",Вместе РФ
+#EXTINF:-1 group-title="Познавательные",Вместе РФ
 http://172.16.0.252/channel/17184b0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-54166" tvg-logo="http://172.16.0.252/logos/nasha-tema.png",Наша Тема
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Наша Тема
 http://172.16.0.252/channel/n201be934/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-358" tvg-logo="http://172.16.0.252/logos/ohota-i-rybalka.png",Охота и рыбалка
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
 http://172.16.0.252/channel/n31f42fc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-511" tvg-logo="http://172.16.0.252/logos/ohotnik-i-rybolov-hd.png",Охотник и рыболов HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
 http://172.16.0.252/channel/n1dba6047/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53014" tvg-logo="http://172.16.0.252/logos/ohotnik-i-rybolov-hd.png",Охотник и рыболов Int HD
-http://172.16.0.252/channel/n3a4355c0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-359" tvg-logo="http://172.16.0.252/logos/rybolov.png",Рыболов
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов Int HD
+http://172.16.0.252/channel/n6fc6f503/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Познавательные",Рыболов
 http://172.16.0.252/channel/5946bd37/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-52975" tvg-logo="http://172.16.0.252/logos/dialogi-o-rybalke.png",Диалоги о рыбалке
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке
 http://172.16.0.252/channel/206a0dbe/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53816" tvg-logo="http://172.16.0.252/logos/dikiy.png",Дикий
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Дикий
 http://172.16.0.252/channel/7c9a1e37/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53817" tvg-logo="http://172.16.0.252/logos/dikaya-ohota-hd.png",Дикая охота HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Дикая охота HD
 http://172.16.0.252/channel/ab51da2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53818" tvg-logo="http://172.16.0.252/logos/dikaya-rybalka-hd.png",Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://172.16.0.252/channel/n1c35eda0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-50276" tvg-logo="http://172.16.0.252/logos/otkrytyi-mir.png",Открытый Мир
+#EXTINF:-1 group-title="Познавательные",Открытый Мир
 http://172.16.0.252/channel/77161bfe/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53502" tvg-logo="http://172.16.0.252/logos/ratnik.png",Ратник
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Ратник
 http://172.16.0.252/channel/2ab6cded/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-56" tvg-logo="http://172.16.0.252/logos/da-vinci.png",Da Vinci
+#EXTINF:-1 group-title="Познавательные",Da Vinci
 http://172.16.0.252/channel/16b6ff74/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-620" tvg-logo="http://172.16.0.252/logos/mosobr.png",Московский образовательный
+#EXTINF:-1 group-title="Познавательные",Московский образовательный
 http://172.16.0.252/channel/3d528087/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-8189" tvg-logo="http://172.16.0.252/logos/ministerstvo-idei.png",Министерство идей
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Министерство идей
 http://172.16.0.252/channel/n672d3890/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-7176" tvg-logo="http://172.16.0.252/logos/kaleidoskop.png",Калейдоскоп ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
 http://172.16.0.252/channel/n5fdfa2dd/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-21062" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/ww/world_channel_us.png",World HD
+#EXTINF:-1 group-title="Познавательные",World HD
 http://172.16.0.252/channel/103af3d9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-611" tvg-logo="http://172.16.0.252/logos/univer-hd.png",Univer TV
-http://172.16.0.252/channel/n7b91987/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-54514" tvg-logo="http://172.16.0.252/logos/nano-hd.png",Nano HD
+#EXTINF:-1 group-title="Познавательные",Nano HD
 http://172.16.0.252/channel/nd6c6a83/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-404" tvg-logo="http://172.16.0.252/logos/luxury-hd.png",Luxury HD
+#EXTINF:-1 group-title="Познавательные",Luxury HD
 http://172.16.0.252/channel/n4f187ebc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-207" tvg-logo="http://172.16.0.252/logos/yuvelirochka.png",Ювелирочка
+#EXTINF:-1 group-title="Познавательные",Ювелирочка
 http://172.16.0.252/channel/n31e00424/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-3098" tvg-logo="http://172.16.0.252/logos/tv-brics.png",TV BRICS
+#EXTINF:-1 group-title="Познавательные",TV BRICS
 http://172.16.0.252/channel/n5d33066b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-867" tvg-logo="http://172.16.0.252/logos/poehali.png",ПОЕХАЛИ!
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
 http://172.16.0.252/channel/508a78b9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-417" tvg-logo="http://172.16.0.252/logos/sovershenno-sekretno.png",Совершенно Секретно
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Совершенно Секретно
 http://172.16.0.252/channel/n66a50529/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53987" tvg-logo="http://172.16.0.252/logos/taina.png",Тайна
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Тайна
 http://172.16.0.252/channel/7d5bc11e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-6059" tvg-logo="http://172.16.0.252/logos/kluch.png",Ключ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Ключ
 http://172.16.0.252/channel/5ede763a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-138" tvg-logo="http://172.16.0.252/logos/ocean-tv.png",Ocean TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Ocean TV
 http://172.16.0.252/channel/6fbb264/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-262" tvg-logo="http://172.16.0.252/logos/zoopark.png",Zooпарк
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Zooпарк
 http://172.16.0.252/channel/ne64e71b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-54503" tvg-logo="http://172.16.0.252/logos/sochi-live-hd.png",Sochi Live
+#EXTINF:-1 group-title="Познавательные",Sochi Live
 http://172.16.0.252/channel/n43d506d4/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-5070" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_clair.png",Canal+ Motor
+#EXTINF:-1 group-title="Познавательные",Canal+ Motor
 http://172.16.0.252/channel/3257edd0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-587" tvg-logo="http://172.16.0.252/logos/konnyi-mir-hd.png",Конный мир
+#EXTINF:-1 group-title="Познавательные",Конный мир
 http://172.16.0.252/channel/1d224ab2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-357" tvg-logo="http://172.16.0.252/logos/oruzhie.png",Оружие
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Оружие
 http://172.16.0.252/channel/282eeed2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-311" tvg-logo="http://172.16.0.252/logos/moya-planeta.png",Моя планета
+#EXTINF:-1 group-title="Познавательные",Моя планета
 http://172.16.0.252/channel/681f2891/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-311" tvg-logo="http://172.16.0.252/logos/moya-planeta.png",Моя планета
-http://172.16.0.252/channel/n88810e9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53" tvg-logo="http://172.16.0.252/logos/nasha-sibir.png",Наша Сибирь
+#EXTINF:-1 group-title="Познавательные",Наша Сибирь
 http://172.16.0.252/channel/69260e39/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-611" tvg-logo="http://172.16.0.252/logos/univer-hd.png",Univer TV
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 group-title="Познавательные",Univer TV
 http://172.16.0.252/channel/n7b91987/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-292" tvg-logo="http://172.16.0.252/logos/kto-est-kto.png",Кто есть кто
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Кто есть кто
 http://172.16.0.252/channel/776c9b36/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-2250" tvg-logo="http://172.16.0.252/logos/kto-kuda.png",#КтоКуда
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",#КтоКуда
 http://172.16.0.252/channel/7f631658/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-449" tvg-logo="http://172.16.0.252/logos/teatr.png",Театр
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Театр
 http://172.16.0.252/channel/7d5de5db/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",Театральный
 http://172.16.0.252/channel/114e8be4/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-9172" tvg-logo="https://dl.dropboxusercontent.com/s/phjpu3l7kpwv7ll/art24.png",АРТ
+#EXTINF:-1 group-title="Познавательные",АРТ
 http://172.16.0.252/channel/5ddb3cf1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-463" tvg-logo="http://172.16.0.252/logos/uspeh.png",Успех
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Успех
 http://172.16.0.252/channel/7d71a891/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-286" tvg-logo="http://172.16.0.252/logos/bober.png",Бобер
+#EXTINF:-1 group-title="Познавательные",Бобер
 http://172.16.0.252/channel/n2926458d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-462" tvg-logo="http://172.16.0.252/logos/usadba.png",Усадьба
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Усадьба
 http://172.16.0.252/channel/n19296c37/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-157" tvg-logo="http://172.16.0.252/logos/rtg.png",RTG TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",RTG TV
 http://172.16.0.252/channel/7464c79d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-150" tvg-logo="http://172.16.0.252/logos/rtg-hd.png",RTG HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",RTG HD
 http://172.16.0.252/channel/7464c617/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-294" tvg-logo="http://172.16.0.252/logos/kuchnya-tv.png",Кухня ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://172.16.0.252/channel/n24db83be/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-51160" tvg-logo="http://172.16.0.252/logos/pes-i-ko.png",Пес и Ко
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Пес и Ко
 http://172.16.0.252/channel/n42e1665f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-230" tvg-logo="http://172.16.0.252/logos/voprosy-i-otvety.png",Вопросы и ответы
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 http://172.16.0.252/channel/4a2ef5dd/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-251" tvg-logo="http://172.16.0.252/logos/ege-tv.png",ЕГЭ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",ЕГЭ
 http://172.16.0.252/channel/4d61ebef/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-1131" tvg-logo="http://172.16.0.252/logos/glazami-turista.png",Глазами туриста
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Глазами туриста
 http://172.16.0.252/channel/28c67dd3/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-55420" tvg-logo="http://172.16.0.252/logos/perpetuum-mobile.png",Перпетуум Мобиле
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Перпетуум Мобиле
 http://172.16.0.252/channel/nd0c0e17/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-256" tvg-logo="http://172.16.0.252/logos/zhivi.png",Живи!
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Живи!
 http://172.16.0.252/channel/7cb62b19/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-256" tvg-logo="http://172.16.0.252/logos/zhivi.png",Живи Активно
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Живи Активно
 http://172.16.0.252/channel/n2a28c2a5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-260" tvg-logo="http://172.16.0.252/logos/zdorovoe-tv.png",Здоровое ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
 http://172.16.0.252/channel/660c0846/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-458" tvg-logo="http://172.16.0.252/logos/zdorovie.png",Тонус
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Тонус
 http://172.16.0.252/channel/7d622e1f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-458" tvg-logo="http://172.16.0.252/logos/zdorovie.png",Здоровье
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Здоровье
 http://172.16.0.252/channel/7e43697c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-376" tvg-logo="http://172.16.0.252/logos/psichologia.png",Психология 21
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Психология 21
 http://172.16.0.252/channel/109273e7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-53514" tvg-logo="http://172.16.0.252/logos/big-asia.png",Большая Азия
+#EXTINF:-1 group-title="Познавательные",Большая Азия
 http://172.16.0.252/channel/n79f77280/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-50276" tvg-logo="http://172.16.0.252/logos/otkrytyi-mir.png",Открытый мир
+#EXTINF:-1 group-title="Познавательные",Открытый мир
 http://172.16.0.252/channel/7716941e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-184" tvg-logo="http://172.16.0.252/logos/travel-adventure-hd.png",Travel+Adventure HD
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
 http://172.16.0.252/channel/n1ebeedf9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-8603" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/tt/travel_xp_in_hd.png",Travelxp HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
+#EXTINF:-1 group-title="Познавательные",Travelxp HD
 http://172.16.0.252/channel/n46f79136/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-8186" tvg-logo="http://172.16.0.252/logos/anekdot-tv.png",Анекдот ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n7155e436/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-22082" tvg-logo="http://172.16.0.252/logos/kvn.png",КВН ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/1eb2b3ab/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-411" tvg-logo="http://172.16.0.252/logos/sarafan.png",Сарафан
-http://172.16.0.252/channel/95f7ebc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-276" tvg-logo="http://172.16.0.252/logos/2x2.png",2x2 HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/43440a4d/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
+http://172.16.0.252/channel/n7155e436/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://172.16.0.252/channel/1eb2b3ab/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://172.16.0.252/channel/95f7ebc/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",2x2 HD
+http://172.16.0.252/channel/n577654ab/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Развлекательные",Мистер Бин
-http://172.16.0.252/channel/n33f2a4bf/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/n33f2a4bf/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Развлекательные",Шоу Бенни Хилла
-http://172.16.0.252/channel/7eb5dfbb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-100267" tvg-logo="http://172.16.0.252/logos/gagsnetwork.png",Gags Network
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n34fc1b4c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-20585" tvg-logo="https://dl.dropboxusercontent.com/s/yi32u8bnh8chihl/joycook.png",Joy Cook
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n6724d24c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-249" tvg-logo="http://172.16.0.252/logos/eda.png",Еда
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/4d61eff1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-250" tvg-logo="http://172.16.0.252/logos/eda-hd.png",Еда Премиум
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/4f41e1fa/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-294" tvg-logo="http://172.16.0.252/logos/kuchnya-tv.png",Кухня ТВ
-http://172.16.0.252/channel/41b3b1f8/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-392" tvg-logo="http://172.16.0.252/logos/match-tv.png",Матч! ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n48a793b8/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-335" tvg-logo="http://172.16.0.252/logos/match-strana.png",Матч! Страна
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/44276b5c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-222" tvg-logo="http://172.16.0.252/logos/match-boec.png",Матч! Боец
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/42e7ebd6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-274" tvg-logo="http://172.16.0.252/logos/khl-tv.png",KHL
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/4d53392f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-420" tvg-logo="http://172.16.0.252/logos/match-arena.png",Матч! Арена
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/1a086340/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-94" tvg-logo="http://172.16.0.252/logos/match-igra.png",Матч! Игра
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/42eaf263/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-332" tvg-logo="http://172.16.0.252/logos/match-planeta.png",Матч! Планета
-http://172.16.0.252/channel/n72237714/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-328" tvg-logo="http://172.16.0.252/logos/match-premier.png",Матч! Премьер
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n2d057889/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-287" tvg-logo="http://172.16.0.252/logos/boks-tv.png",Бокс ТВ
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/2a0b081c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-337" tvg-logo="http://172.16.0.252/logos/match-futbol-1-hd.png",Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n357dc18/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-339" tvg-logo="http://172.16.0.252/logos/match-futbol-2-hd.png",Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n35767b9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-512" tvg-logo="http://172.16.0.252/logos/match-futbol-3-hd.png",Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n356f35a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-587" tvg-logo="http://172.16.0.252/logos/konnyi-mir-hd.png",Конный Мир
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/4c828212/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-587" tvg-logo="http://172.16.0.252/logos/konnyi-mir-hd.png",Конный Мир
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n4f4fe94a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-53833" tvg-logo="http://172.16.0.252/logos/tochka-otryva.png",Точка отрыва
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n5ed55034/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-1333" tvg-logo="http://172.16.0.252/logos/telekanal-futbol.png",Футбол
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/3295c2ab/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-54317" tvg-logo="http://172.16.0.252/logos/m-1-global.png",M-1 Global
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/4152ad72/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-50026" tvg-logo="http://172.16.0.252/logos/fight-box-hd.png",FightBox
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n5eb9eae5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-676" tvg-logo="http://172.16.0.252/logos/sportivny.png",Спортивный HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/46d7d6cd/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-100272" tvg-logo="http://172.16.0.252/logos/futbolny.png",Футбольный HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/7a607932/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-328" tvg-logo="http://172.16.0.252/logos/match-premier-hd.png",Матч! Премьер HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n2fa54dbb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-275" tvg-logo="http://172.16.0.252/logos/khl-prime.png",KHL Prime
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n83ecfd2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-100271" tvg-logo="http://172.16.0.252/logos/hokkeynyi.png",Хоккейный HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/1a0a38ae/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/7eb5dfbb/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",Gags Network
+http://172.16.0.252/channel/n34fc1b4c/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",Joy Cook
+http://172.16.0.252/channel/n6724d24c/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",Еда
+http://172.16.0.252/channel/4d61eff1/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",Еда Премиум
+http://172.16.0.252/channel/4f41e1fa/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные",Кухня ТВ
+http://172.16.0.252/channel/n24db83be/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! ТВ HD
+http://172.16.0.252/channel/1ae14fd4/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+http://172.16.0.252/channel/44276b5c/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+http://172.16.0.252/channel/42e7ebd6/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",KHL
+http://172.16.0.252/channel/4d53392f/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://172.16.0.252/channel/1a086340/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Игра
+http://172.16.0.252/channel/42eaf263/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Планета
+http://172.16.0.252/channel/n72237714/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер
+http://172.16.0.252/channel/n2d057889/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
+http://172.16.0.252/channel/2a0b081c/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+http://172.16.0.252/channel/n357dc18/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+http://172.16.0.252/channel/n35767b9/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+http://172.16.0.252/channel/n356f35a/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Конный Мир
+http://172.16.0.252/channel/n4f4fe94a/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Конный Мир
+http://172.16.0.252/channel/n4f4fe94a/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Точка отрыва
+http://172.16.0.252/channel/n5ed55034/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Футбол
+http://172.16.0.252/channel/3295c2ab/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",M-1 Global
+http://172.16.0.252/channel/4152ad72/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",FightBox
+http://172.16.0.252/channel/n5eb9eae5/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Спортивный HD
+http://172.16.0.252/channel/46d7d6cd/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Футбольный HD
+http://172.16.0.252/channel/7a607932/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
+http://172.16.0.252/channel/n2d057889/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",KHL Prime
+http://172.16.0.252/channel/n83ecfd2/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Хоккейный HD
+http://172.16.0.252/channel/1a0a38ae/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Спортивные",Волейбол
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n50d72ef/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-55180" tvg-logo="http://172.16.0.252/logos/mir-basketbola.png",Мир Баскетбола
-http://172.16.0.252/channel/n4559fce7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-199" tvg-logo="http://172.16.0.252/logos/viasat-sport.png",viju+ Sport
-http://172.16.0.252/channel/2af35f4b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-199" tvg-logo="http://172.16.0.252/logos/viasat-sport.png",viju+ Sport
-http://172.16.0.252/channel/5086d426/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-53906" tvg-logo="http://172.16.0.252/logos/start-tv.png",СТАРТ HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n7b7f5f75/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-53906" tvg-logo="http://172.16.0.252/logos/start-tv.png",Старт Триумф
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n6e0532c0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-221" tvg-logo="http://172.16.0.252/logos/belarus5.png",Беларусь 5 HD
-http://172.16.0.252/channel/6b213609/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-221" tvg-logo="http://172.16.0.252/logos/belarus5.png",Беларусь 5 HD
-http://172.16.0.252/channel/6b213609/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Спортивные" tvg-id="hlsproxy-55258" tvg-logo="http://172.16.0.252/logos/astrahan-sport.png",Астрахань.Ru Sport
-http://172.16.0.252/channel/n133f5be3/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-295" tvg-logo="http://172.16.0.252/logos/muzyka-pervogo.png",Музыка первого
-http://172.16.0.252/channel/4c5563ed/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-153" tvg-logo="http://172.16.0.252/logos/ru-tv.png",RU TV HD
-http://172.16.0.252/channel/n82ee3fe/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-44" tvg-logo="http://172.16.0.252/logos/bridge-tv.png",Bridge TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/3fa604f9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-57" tvg-logo="http://172.16.0.252/logos/bridge-tv-hits.png",Bridge TV Hits
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/16487227/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-306" tvg-logo="http://172.16.0.252/logos/bridge-tv-deluxe.png",Bridge TV Deluxe
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n611ac8a2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-104" tvg-logo="http://172.16.0.252/logos/bridge-tv-shlager.png",Bridge TV Шлягер
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/7a60fc09/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-154" tvg-logo="http://172.16.0.252/logos/bridge-tv-russkiy-hit.png",Bridge TV Русский Хит
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n25974480/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-44" tvg-logo="http://172.16.0.252/logos/bridge-tv.png",Bridge TV Rock
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/164d124c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-58" tvg-logo="http://172.16.0.252/logos/bridge-tv-fresh.png",Bridge TV Фрэш
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/181875fe/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-180" tvg-logo="http://172.16.0.252/logos/bridge-tv-classic.png",Bridge TV Classic
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/1431684b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-44" tvg-logo="http://172.16.0.252/logos/bridge-tv.png",Bridge TV Этно
-http://172.16.0.252/channel/n790d0416/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-71" tvg-logo="http://172.16.0.252/logos/europa-plus-tv.png",Europa Plus TV HD
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n60d37c4a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-119" tvg-logo="http://172.16.0.252/logos/russian-musicbox.png",RUSSIAN MUSICBOX
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n608f0b0d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-3073" tvg-logo="http://172.16.0.252/logos/clubbing-tv.png",Clubbing TV
-#EXTVLCOPT:http-user-agent=Chrome/112.0.0.0
-http://172.16.0.252/channel/n10812894/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-55164" tvg-logo="http://172.16.0.252/logos/aiva-tv.png",AIVA
-http://172.16.0.252/channel/n3949b480/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-7" tvg-logo="http://172.16.0.252/logos/1hd-ru.png",1HD Music Television
-http://172.16.0.252/channel/78d9ca6b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-119" tvg-logo="http://172.16.0.252/logos/music-box.png",Music Box Gold
-http://172.16.0.252/channel/d3477fd/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-54335" tvg-logo="https://dl.dropboxusercontent.com/s/x3b6hbb70m5z4zj/88.png",88 Stereo TV
-http://172.16.0.252/channel/n743c310d/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/n4dc5f832/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Спортивные",Мир Баскетбола
+http://172.16.0.252/channel/n4559fce7/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",viju+ Sport
+http://172.16.0.252/channel/2af35f4b/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",СТАРТ HD
+http://172.16.0.252/channel/n7b7f5f75/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Старт Триумф
+http://172.16.0.252/channel/n6e0532c0/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Спортивные",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Астрахань.Ru Sport
+http://172.16.0.252/channel/n133f5be3/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Музыка первого
+http://tv.ttk.mx:9078
+#EXTINF:-1 group-title="Музыкальные",RU TV HD
+http://172.16.0.252/channel/n82ee3fe/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV
+http://172.16.0.252/channel/3fa604f9/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Hits
+http://172.16.0.252/channel/16487227/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe
+http://172.16.0.252/channel/n611ac8a2/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Шлягер
+http://172.16.0.252/channel/7a60fc09/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Русский Хит
+http://172.16.0.252/channel/n25974480/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Rock
+http://172.16.0.252/channel/164d124c/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Фрэш
+http://172.16.0.252/channel/181875fe/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
+http://172.16.0.252/channel/1431684b/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Этно
+http://172.16.0.252/channel/n790d0416/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Europa Plus TV HD
+http://172.16.0.252/channel/n60d37c4a/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",RUSSIAN MUSICBOX
+http://172.16.0.252/channel/n608f0b0d/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Clubbing TV
+http://172.16.0.252/channel/n10812894/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",AIVA
+http://172.16.0.252/channel/n3949b480/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Music Box Gold
+http://172.16.0.252/channel/d3477fd/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",ТНТ Music
+http://172.16.0.252/channel/n4d41986a/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
+http://172.16.0.252/channel/3fd89cdb/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Радио Шансон ТВ HD
+http://172.16.0.252/channel/n43c66e96/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Музыкальные",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",88 Stereo TV
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",NUMBER ONE
-http://172.16.0.252/channel/64aa4e37/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-51036" tvg-logo="http://172.16.0.252/logos/retro-music.png",Retro Music
-http://172.16.0.252/channel/4c54f100/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-790" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_m3_ch.png",TVM3
-http://172.16.0.252/channel/47b9b25/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-6012" tvg-logo="http://172.16.0.252/logos/strana-fm.png",Радио Страна FM ТВ
-http://172.16.0.252/channel/n7f50cd15/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-51167" tvg-logo="http://172.16.0.252/logos/radio-shanson.png",Радио Шансон ТВ HD
-http://172.16.0.252/channel/n43c66e96/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-471" tvg-logo="http://172.16.0.252/logos/shanson-tv.png",Шансон ТВ
-http://172.16.0.252/channel/3fd89cdb/index.m3u8?q=1765986513467
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",NASHE TV / Radio (mp3)
-http://172.16.0.252/channel/n34726b82/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-20761" tvg-logo="http://172.16.0.252/logos/rock-tv-romania.png",Rock HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://172.16.0.252/channel/19c3b6a6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-51036" tvg-logo="http://172.16.0.252/logos/retro-music.png",Retro Music TV
-http://172.16.0.252/channel/n2f460e5e/index.m3u8?q=1765986513467
+http://nashe1.hostingradio.ru/nashe-128.mp3
+#EXTINF:-1 group-title="Музыкальные",Rock HD
+http://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Retro Music TV
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:-1 group-title="Музыкальные",RadioAurora.am (mp3)
-http://172.16.0.252/channel/36559be8/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-724" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/num/1music_channel_hu.png",1 Music Channel
-http://172.16.0.252/channel/n7d3f2fc0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-301" tvg-logo="http://172.16.0.252/logos/muz.png",МУЗ ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.28.2
-http://172.16.0.252/channel/2691cffd/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-100043" tvg-logo="http://172.16.0.252/logos/govorit-moskva.png",Говорит Москва
-http://172.16.0.252/channel/n46d70e34/index.m3u8?q=1765986513467
+http://stream.radioaurora.am:8050/al.mp3
+#EXTINF:-1 group-title="Музыкальные",1 Music Channel
+http://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",МУЗ ТВ
+http://s91412.cdn.ngenix.net/mdrm/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Музыкальные",Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Радио КП Москва (mp3)
-http://172.16.0.252/channel/n29398fd6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-10239" tvg-logo="http://172.16.0.252/logos/kronehit.png",Kronehit HD
-http://172.16.0.252/channel/1f50e1ad/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-51157" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/oo/ocko_cz_expres.png",Ocko Expres
-http://172.16.0.252/channel/d945003/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-51158" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/oo/ocko-star-cz.png",Ocko Gold
-http://172.16.0.252/channel/665d803/index.m3u8?q=1765986513467
+http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+#EXTINF:-1 group-title="Музыкальные",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",MUZZIK HIP-HOP
-http://172.16.0.252/channel/3e69caa6/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Muzzik Cafe&Club Serbia
-http://172.16.0.252/channel/n13fc5a00/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-662" tvg-logo="https://dl.dropboxusercontent.com/s/z8gxq16r5rz26vo/radio-kids.gif",Kids FM
-http://172.16.0.252/channel/2c442f6d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-21" tvg-logo="http://172.16.0.252/logos/9-volna.png",9 Волна
-http://172.16.0.252/channel/2a6b95d3/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-54335" tvg-logo="https://dl.dropboxusercontent.com/s/x3b6hbb70m5z4zj/88.png",88 Stereo
-http://172.16.0.252/channel/1f57a7a9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sat.kharkiv.ua/images/Strani/evropa/north%20macedonia/sky%20folk%20tv.jpg" tvg-id="hlsproxy-20586",SKY Folk TV
-http://172.16.0.252/channel/6ec6d337/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-120_00000.png" tvg-id="hlsproxy-53648",Banovina TV
-http://172.16.0.252/channel/3e8968ca/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",9 Волна
+http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",88 Stereo
+http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sat.kharkiv.ua/images/Strani/evropa/north%20macedonia/sky%20folk%20tv.jpg",SKY Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-120_00000.png",Banovina TV
+http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/JzrfFnQw/2024-02-24-182647787.png",OF-TV
-http://172.16.0.252/channel/631059b5/index.m3u8?q=1765986513467
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",AFN Music
-http://172.16.0.252/channel/ndb13e4f/index.m3u8?q=1765986513467
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
-http://172.16.0.252/channel/n47eef65f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img/5606.png" tvg-id="hlsproxy-58",Fresh HD AM
-http://172.16.0.252/channel/7312cf1b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png" tvg-id="hlsproxy-1777",Euro Indie Music Chart TV
-http://172.16.0.252/channel/2034cacb/index.m3u8?q=1765986513467
+https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Qello Concerts by Stingray
-http://172.16.0.252/channel/245b6eea/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-100681" tvg-logo="http://172.16.0.252/logos/stingray-classic-rock.png",Stingray Classic Rock
-http://172.16.0.252/channel/5bd97604/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-54849" tvg-logo="http://172.16.0.252/logos/stingray-classica.png",Stingray Classica
-http://172.16.0.252/channel/381d9a40/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-46" tvg-logo="http://172.16.0.252/logos/c-music.png",Stingray CMusic
-http://172.16.0.252/channel/2adfdbf3/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-3078" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/ss/stingray_ca_djazz.png",Stingray DJAZZ
-http://172.16.0.252/channel/32fa668a/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Easy Listening
-http://172.16.0.252/channel/2721056e/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Flashback 70s
-http://172.16.0.252/channel/n4176afa0/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Hit List
-http://172.16.0.252/channel/n43667aa4/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Holiday Hits
-http://172.16.0.252/channel/5d9dd1d9/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Hot Country
-http://172.16.0.252/channel/755f08d2/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Karaoke
-http://172.16.0.252/channel/n5c3f46d/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Nothin' But 90s
-http://172.16.0.252/channel/7168d319/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Pop Adult
-http://172.16.0.252/channel/13cb7cfa/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Remember the 80s
-http://172.16.0.252/channel/n7ef6d716/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Rock Alternative
-http://172.16.0.252/channel/n434af57d/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Romance Latino
-http://172.16.0.252/channel/3cd9059d/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Smooth Jazz
-http://172.16.0.252/channel/2b277c38/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Soul Storm
-http://172.16.0.252/channel/n3afff7b3/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray The Spa
-http://172.16.0.252/channel/n1e8f18fc/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Today's KPOP
-http://172.16.0.252/channel/nb6a4636/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Today's Latin Pop
-http://172.16.0.252/channel/n5f12a4f/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Urban Beat
-http://172.16.0.252/channel/nf06392b/index.m3u8?q=1765986513467
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" tvg-name="USBB320000647",XITE 80s Flashback
-http://172.16.0.252/channel/1431281b/index.m3u8?q=1765986513467
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" tvg-name="USBB3200007AK",XITE 90s Throwback
-http://172.16.0.252/channel/n41c46e10/index.m3u8?q=1765986513467
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" tvg-name="USBD350003932",XITE Celebrates
-http://172.16.0.252/channel/23c74a36/index.m3u8?q=1765986513467
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" tvg-name="USBD3300011UT",XITE Classic Country
-http://172.16.0.252/channel/5bede6af/index.m3u8?q=1765986513467
+https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300011UT
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" tvg-name="USBD3300006O3",XITE Country Today
-http://172.16.0.252/channel/4d24f45d/index.m3u8?q=1765986513467
+https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" tvg-name="USBD3300004RH",XITE Hits
-http://172.16.0.252/channel/n2abef882/index.m3u8?q=1765986513467
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240716T002645SQUARE.png" tvg-name="USBD3300005EX",XITE Icons
-http://172.16.0.252/channel/n11f2bd7/index.m3u8?q=1765986513467
+https://d13bxksjj2abuy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yxuum05f6hop9/XITE_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300005EX
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" tvg-name="USBB2300003JZ",XITE Just Chill
-http://172.16.0.252/channel/n267b5bec/index.m3u8?q=1765986513467
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png" tvg-name="USBD3300007PB",XITE Nuevo Latino
-http://172.16.0.252/channel/n2e6a7eda/index.m3u8?q=1765986513467
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20240716T002646SQUARE.png" tvg-name="USBD3300008DG",XITE Only Love
-http://172.16.0.252/channel/46402664/index.m3u8?q=1765986513467
+https://d3a9vrmy2tps6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvkbtotxbhlwq/XITE_Only_Love.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300008DG
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" tvg-name="USBD330000948",XITE R&B Classic Jams
-http://172.16.0.252/channel/a8e1fa3/index.m3u8?q=1765986513467
+https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD330000948
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" tvg-name="USBB2300004KV",XITE Rock x Metal
-http://172.16.0.252/channel/nd4d3fe5/index.m3u8?q=1765986513467
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png" tvg-name="USBD3300010L9",XITE Siempre Latino
-http://172.16.0.252/channel/n5596106b/index.m3u8?q=1765986513467
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240910T003711SQUARE.png" tvg-name="USBD120002431",Vevo 2010s
-http://172.16.0.252/channel/n7a82bbdc/index.m3u8?q=1765986513467
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240910T003709SQUARE.png" tvg-name="USBB4400015F5",Vevo 2K
-http://172.16.0.252/channel/412ffd08/index.m3u8?q=1765986513467
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20240910T003714SQUARE.png" tvg-name="USBC3600001RQ",Vevo Country
-http://172.16.0.252/channel/34e3986f/index.m3u8?q=1765986513467
+https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600001RQ
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240910T003717SQUARE.png" tvg-name="USBC3600002EK",Vevo Hip-Hop
-http://172.16.0.252/channel/n3369b66b/index.m3u8?q=1765986513467
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600002EK
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241105T024425SQUARE.png" tvg-name="USBD1200008GL",Vevo Holiday
-http://172.16.0.252/channel/2d80cb0c/index.m3u8?q=1765986513467
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240910T003719SQUARE.png" tvg-name="USBC3600015GF",Vevo Latino
-http://172.16.0.252/channel/n553834e0/index.m3u8?q=1765986513467
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600015GF
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240924T011028SQUARE.png" tvg-name="USBC3600008WY",Vevo Pop
-http://172.16.0.252/channel/727576f9/index.m3u8?q=1765986513467
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20240924T011030SQUARE.png" tvg-name="USBC3900009K5",Vevo R&B
-http://172.16.0.252/channel/n2c484016/index.m3u8?q=1765986513467
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png" tvg-name="USBD3000145P",Vevo Retro Rock
-http://172.16.0.252/channel/52576ed2/index.m3u8?q=1765986513467
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png" tvg-name="USAJ3000013FJ",NEW KPOP
-http://172.16.0.252/channel/n3286a061/index.m3u8?q=1765986513467
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png" tvg-name="US39000038W",K-POP by CJ ENM
-http://172.16.0.252/channel/3e6895ba/index.m3u8?q=1765986513467
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240910T003722SQUARE.png" tvg-name="USBD300011KQ",Vevo '70s
-http://172.16.0.252/channel/n1462af6/index.m3u8?q=1765986513467
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240910T003724SQUARE.png" tvg-name="USBD300012YC",Vevo '80s
-http://172.16.0.252/channel/n2d2fe1fd/index.m3u8?q=1765986513467
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240910T003727SQUARE.png" tvg-name="USBD3000133M",Vevo '90s
-http://172.16.0.252/channel/n762a986b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png" tvg-id="hlsproxy-2425",Now 70's
-http://172.16.0.252/channel/n743c6a2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://e7.pngegg.com/pngimages/675/222/png-clipart-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-thumbnail.png" tvg-id="hlsproxy-1559",Now 80's
-http://172.16.0.252/channel/n7435243/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/I/61--8gptnIL.jpg" tvg-id="hlsproxy-2426",Now 90's
-http://172.16.0.252/channel/n742dde4/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/ima50357087515.jpg" tvg-id="hlsproxy-54335",88 STEREO TV
-http://172.16.0.252/channel/n4595c4ed/index.m3u8?q=1765986513467
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://e7.pngegg.com/pngimages/675/222/png-clipart-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-thumbnail.png",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/I/61--8gptnIL.jpg",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/ima50357087515.jpg",88 STEREO TV
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo320.png",Radio Love FM
-http://172.16.0.252/channel/1099aab/index.m3u8?q=1765986513467
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png",Radio Ibiza TV
-http://172.16.0.252/channel/33e80d31/index.m3u8?q=1765986513467
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg",Vuemme TV
-http://172.16.0.252/channel/77201844/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/htkDhkfS/image.jpg" tvg-id="hlsproxy-54419",Super Six
-http://172.16.0.252/channel/nd4793e2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/6116.png" tvg-id="hlsproxy-53598",Kiss Kiss TV HD
-http://172.16.0.252/channel/2eee3e75/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/6117.png" tvg-id="hlsproxy-53598",Kiss Kiss Italia HD
-http://172.16.0.252/channel/n3253f192/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/6118.png" tvg-id="hlsproxy-53598",Kiss Kiss Napoli HD
-http://172.16.0.252/channel/n1dbe9d53/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img/681.png" tvg-id="hlsproxy-71",Европа Плюс ТВ
-http://172.16.0.252/channel/6404d979/index.m3u8?q=1765986513467
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/htkDhkfS/image.jpg",Super Six
+https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/6116.png",Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/6117.png",Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/6118.png",Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img/681.png",Европа Плюс ТВ
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://pbs.twimg.com/profile_images/934720615298236416/G_VUWXnh_400x400.jpg",Afrobeats TV
-http://172.16.0.252/channel/49c1fe3c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/d0TTSH94/ewewe.jpg" tvg-id="hlsproxy-51157",Ocko Expres
-http://172.16.0.252/channel/d945003/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/c44h5Wth/cz-ocko-star-6827.jpg" tvg-id="hlsproxy-51158",Ocko Star
-http://172.16.0.252/channel/n4cf29f0e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/7LdPjqL2/914-ocko-hity.jpg" tvg-id="hlsproxy-6048",ÓČKO HITY
-http://172.16.0.252/channel/n196ae27f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-53144" tvg-logo="https://dl.dropboxusercontent.com/s/nc05oz8p7e5qb6v/company.png",Company TV
-http://172.16.0.252/channel/n36a354b9/index.m3u8?q=1765986513467
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/d0TTSH94/ewewe.jpg",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/c44h5Wth/cz-ocko-star-6827.jpg",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/7LdPjqL2/914-ocko-hity.jpg",ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image24561560526.jpg",Zerouno TV
-http://172.16.0.252/channel/4d4e37af/index.m3u8?q=1765986513467
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://barazaradio.com/wp-content/uploads/2022/12/logo-300x300.png",Baraza TV Hits
-http://172.16.0.252/channel/n958443d/index.m3u8?q=1765986513467
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",Music Reload TV HD
-http://172.16.0.252/channel/7e8f2668/index.m3u8?q=1765986513467
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Reload Radio Music Power HD
-http://172.16.0.252/channel/a3e8404/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://dvb.by/sources/logos/1607s.png" tvg-id="hlsproxy-53000",Trace Urban HD
-http://172.16.0.252/channel/55aa716c/index.m3u8?q=1765986513467
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://dvb.by/sources/logos/1607s.png",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i2.wp.com/www.afghanlive.tv/wp-content/uploads/2015/04/kayhant-tv-live.jpg",Kayhan Afghan
-http://172.16.0.252/channel/db3a182/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-8329" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bulgaria_on_air_tv.png",On Air TV
-http://172.16.0.252/channel/508b273f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/Persiana-Nostalgia.png" tvg-id="hlsproxy-100182",Persiana Nostalgia
-http://172.16.0.252/channel/2d947d18/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" tvg-id="hlsproxy-53842",Persiana Music
-http://172.16.0.252/channel/n1d732ec2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image63665874675.jpg" tvg-id="hlsproxy-53842",PERSIANA SONNATI TV
-http://172.16.0.252/channel/36197282/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" tvg-id="hlsproxy-8009",4 Kurd
-http://172.16.0.252/channel/47adbe65/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png" tvg-id="hlsproxy-5103",Power TV
-http://172.16.0.252/channel/73c9b3d7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_35.png" tvg-id="hlsproxy-52269",PowerTürk TV
-http://172.16.0.252/channel/2cbbda56/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" tvg-id="hlsproxy-5103",Power Dance
-http://172.16.0.252/channel/n6dbe791b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png" tvg-id="hlsproxy-5103",Power Love
-http://172.16.0.252/channel/nbc87e00/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png" tvg-id="hlsproxy-52269",PowerTürk Slow
-http://172.16.0.252/channel/39a452ce/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" tvg-id="hlsproxy-52269",PowerTürk Taptaze
-http://172.16.0.252/channel/n450cb72/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png" tvg-id="hlsproxy-52269",PowerTürk Akustik
-http://172.16.0.252/channel/1fef8b61/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da86c21d6a79912e3f698bff6234a2d.webp" tvg-id="hlsproxy-51623",Vibee TV
-http://172.16.0.252/channel/7616150e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png" tvg-id="hlsproxy-626",Spirit TV
-http://172.16.0.252/channel/d328eda/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-728" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/pp/persian_music.png",PMC Royale
-http://172.16.0.252/channel/56170827/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://img15.lostpic.net/2019/08/31/21d2b07e6372b09404d0f4abcd1ae56e.png" tvg-id="hlsproxy-10239",Kronehit TV
-http://172.16.0.252/channel/1f50e333/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://www.1muz.com/images/LOGORUS.png" tvg-id="hlsproxy-8136",Первый музыкальный
-http://172.16.0.252/channel/n1a11ccf/index.m3u8?q=1765986513467
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
+#EXTINF:-1 group-title="Музыкальные",On Air TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/Persiana-Nostalgia.png",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image63665874675.jpg",PERSIANA SONNATI TV
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_35.png",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png",PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png",PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png",PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da86c21d6a79912e3f698bff6234a2d.webp",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные",PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://img15.lostpic.net/2019/08/31/21d2b07e6372b09404d0f4abcd1ae56e.png",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://www.1muz.com/images/LOGORUS.png",Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Rock&Roll
-http://172.16.0.252/channel/n4f6d5b67/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik OKK
-http://172.16.0.252/channel/n20484a96/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Vision HD
-http://172.16.0.252/channel/n1e9868b1/index.m3u8?q=1765986513467
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Jeka
-http://172.16.0.252/channel/173d17d6/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Worldwide
-http://172.16.0.252/channel/n4b6a7380/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik TV
-http://172.16.0.252/channel/1ffdaba7/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Sense
-http://172.16.0.252/channel/n2f1b3bb7/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Flashback
-http://172.16.0.252/channel/2d3d57f2/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Electro
-http://172.16.0.252/channel/5199b1e7/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik HipHop
-http://172.16.0.252/channel/39271cff/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Mediteraneo
-http://172.16.0.252/channel/665f8ad6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-20757" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/rr/retro_tv_east.png",Retro TV
-http://172.16.0.252/channel/nb3a8e99/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png" tvg-id="hlsproxy-4176",Rock TV
-http://172.16.0.252/channel/n17c6fd92/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg" tvg-id="hlsproxy-51623",V2Beat TV Live
-http://172.16.0.252/channel/n78e49069/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/4166360d/c900f3ee_sm.png" tvg-id="hlsproxy-1802",inRating TV
-http://172.16.0.252/channel/n7643664e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-51803" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_bg.png",Magic TV
-http://172.16.0.252/channel/n2f73e935/index.m3u8?q=1765986513467
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Retro TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg",V2Beat TV Live
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/4166360d/c900f3ee_sm.png",inRating TV
+https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",CVR
-http://172.16.0.252/channel/e54dc8c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://ritsatv.ru/files/poster/medium/700805.jpg" tvg-id="hlsproxy-54793",VIVA Russia
-http://172.16.0.252/channel/n1b023c96/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="hlsproxy-3026",Best of Dance TV
-http://172.16.0.252/channel/n428b0b33/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="hlsproxy-6025",DANCE TV TECHNO
-http://172.16.0.252/channel/65388d37/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="hlsproxy-54722",Techno Warehouse
-http://172.16.0.252/channel/n12ce60b5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="hlsproxy-54721",House Floor
-http://172.16.0.252/channel/n1c887265/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="hlsproxy-54720",EDM Mainstage
-http://172.16.0.252/channel/11cc0837/index.m3u8?q=1765986513467
+https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://ritsatv.ru/files/poster/medium/700805.jpg",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",DANCE TV TECHNO
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Downtempo
-http://172.16.0.252/channel/334131d/index.m3u8?q=1765986513467
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Melodic Tech
-http://172.16.0.252/channel/n6d93cab1/index.m3u8?q=1765986513467
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
-http://172.16.0.252/channel/n3978bf02/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" tvg-id="hlsproxy-53111",QMUSIC
-http://172.16.0.252/channel/n55bf903d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" tvg-id="hlsproxy-55243",NRG 91 Music HD
-http://172.16.0.252/channel/n264ce2a1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hlsproxy-153" tvg-logo="http://172.16.0.252/logos/ru-tv.png",RU.TV
-http://172.16.0.252/channel/n6eae0c98/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" tvg-id="hlsproxy-51167",Радио Шансон
-http://172.16.0.252/channel/fbdfd1e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.shanson.tv/i/logo_191112.png" tvg-id="hlsproxy-471",Шансон ТВ
-http://172.16.0.252/channel/3fd89cdb/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://matur-tv.ru/images/logo.png" tvg-id="hlsproxy-54465",Матур ТВ
-http://172.16.0.252/channel/n70721f9a/index.m3u8?q=1765986513467
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",QMUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",NRG 91 Music HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.shanson.tv/i/logo_191112.png",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://matur-tv.ru/images/logo.png",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные",Meidan TV HD
-http://172.16.0.252/channel/719f2559/index.m3u8?q=1765986513467
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png",TRANCE IS STAR RADIO
-http://172.16.0.252/channel/7463664a/index.m3u8?q=1765986513467
+https://myradio24.org/tisradio_video.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg",30A MUSIC TV
-http://172.16.0.252/channel/n49dfc12b/index.m3u8?q=1765986513467
+https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/18060.v7.png",Radio Kemonia
-http://172.16.0.252/channel/22d5ec5d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg" tvg-id="hlsproxy-53144",COMPANY TV HD
-http://172.16.0.252/channel/n7868f30a/index.m3u8?q=1765986513467
+https://skyradiostream.com/1935/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg",COMPANY TV HD
+https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/ima35817922978.jpg",RADIO PADOVA TV
-http://172.16.0.252/channel/n60f4d70b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image65240141377.jpg" tvg-id="hlsproxy-54461",RADIO ZETA HD TV
-http://172.16.0.252/channel/n31319460/index.m3u8?q=1765986513467
+https://58d921499d3d3.streamlock.net/RadioPadova/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image65240141377.jpg",RADIO ZETA HD TV
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image19985124794.jpg",RB24 TV RADIO BUSSOLA 24
-http://172.16.0.252/channel/2a556f12/index.m3u8?q=1765986513467
+https://tv.radiobussola.it/hls/stream/stream1200.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image70939143654.jpg",RADIO STUDIO ONE VISUAL TV
-http://172.16.0.252/channel/35a40fa1/index.m3u8?q=1765986513467
+https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image72612344614.webp",RADIO MILAZZO TV
-http://172.16.0.252/channel/n27d8c155/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-name="fashion-tv" tvg-id="hlsproxy-78" tvg-logo="http://172.16.0.252/logos/fashion-tv-hd.png",Fashion TV HD
-http://172.16.0.252/channel/2e4a0187/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-name="world-fashion-channel" tvg-id="hlsproxy-200" tvg-logo="http://172.16.0.252/logos/world-fashion.png",World Fashion
-http://172.16.0.252/channel/30c3221e/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-name="fashion-one-hd" tvg-id="hlsproxy-76" tvg-logo="http://172.16.0.252/logos/fashion-one-hd.png",Fashion One HD
-http://172.16.0.252/channel/1f3b23d9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashionbox-hd.png" tvg-name="fashionbox-hd" tvg-id="hlsproxy-571",FashionBox HD
-http://172.16.0.252/channel/1e9d150/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg" tvg-id="hlsproxy-54524",Fashion Czech & Slovak
-http://172.16.0.252/channel/n30ac6f9c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg" tvg-id="no_epg",FTV Midnite Secrets HD
-http://172.16.0.252/channel/1bd5c7b5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel-en.png" tvg-name="world-fashion-channel-en" tvg-id="world-fashion-channel-en",World Fashion Channel En
-http://172.16.0.252/channel/33fbde82/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel.png" tvg-name="world-fashion-channel" tvg-id="hlsproxy-200",World Fashion Channel
-http://172.16.0.252/channel/n4e2beb5f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg" tvg-id="no_epg",Fashion TV Africa
-http://172.16.0.252/channel/n6ba4777b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-55" tvg-logo="http://172.16.0.252/logos/krym.png",Крым 1
-http://172.16.0.252/channel/1e539c63/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-514" tvg-logo="http://172.16.0.252/logos/krym24.png",Крым 24
-http://172.16.0.252/channel/n53e00fb0/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-355" tvg-logo="https://dl.dropboxusercontent.com/s/pe3gzbjrkondck5/nts.jpg",НТС HD
-http://172.16.0.252/channel/nd1e9cb6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-54758" tvg-logo="https://dl.dropboxusercontent.com/s/8f9y5gwvspwq3l7/stv24.png",СТВ 24 HD
-http://172.16.0.252/channel/n742acf9d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-9230" tvg-logo="http://172.16.0.252/logos/stv-by.png",СТВ HD
-http://172.16.0.252/channel/n50f80f2d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Крым" tvg-id="hlsproxy-53478" tvg-logo="https://dl.dropboxusercontent.com/s/sy1ponq31n4nthr/evp.jpg",Евпатория 24
-http://172.16.0.252/channel/n52dd530/index.m3u8?q=1765986513467
+https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-name="fashion-tv",Fashion TV HD
+http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-name="world-fashion-channel",World Fashion
+https://ipv4.bozztv.com/dvrfl07/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-name="fashion-one-hd",Fashion One HD
+http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashionbox-hd.png" tvg-name="fashionbox-hd",FashionBox HD
+http://camera.global-x.ru/FashionBox/index.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg",Fashion Czech & Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg",FTV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel-en.png" tvg-name="world-fashion-channel-en",World Fashion Channel En
+http://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel.png" tvg-name="world-fashion-channel",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg",Fashion TV Africa
+http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1 group-title="Крым",Крым 1
+http://tv.ttk.mx:9020
+#EXTINF:-1 group-title="Крым",Крым 24
+http://tv.ttk.mx:9024
+#EXTINF:-1 group-title="Крым",НТС HD
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 group-title="Крым",СТВ 24 HD
+https://vkvsd217.mycdn.me/hls/3412423740022.m3u8/sig/e-KH4JAoFtA/srcIp/2.56.25.171/urls/45.136.21.62/expires/1713289417544/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/4525000698742/id/3412423740022/3412423740022_fullhd/index.m3u8
+#EXTINF:-1 group-title="Крым",СТВ HD
+https://vkvsd61.mycdn.me/hls/3564819253871_1791.m3u8/sig/8kjLVYmf_gg/srcIp/2.56.24.245/urls/45.136.21.84/expires/1713146941607/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/4909423274863/id/3564819253871/3564819253871_fullhd/index.m3u8
+#EXTINF:-1 group-title="Крым",Евпатория 24
+http://tv.ttk.mx:9177
 #EXTINF:-1 group-title="Крым",Симферополь 24
-http://172.16.0.252/channel/2f7434ea/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-217" tvg-logo="http://172.16.0.252/logos/belarus1.png",Беларусь 1
-http://172.16.0.252/channel/235e91e6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-218" tvg-logo="http://172.16.0.252/logos/belarus2.png",Беларусь 2
-http://172.16.0.252/channel/235e91e7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-220" tvg-logo="http://172.16.0.252/logos/belarus3.png",Беларусь 3
-http://172.16.0.252/channel/235e91e8/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-220" tvg-logo="http://172.16.0.252/logos/belarus3.png",Беларусь 3
-http://172.16.0.252/channel/4ed43a31/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-219" tvg-logo="http://172.16.0.252/logos/belarus24.png",Беларусь 24
-http://172.16.0.252/channel/n744cf3fc/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-9230" tvg-logo="http://172.16.0.252/logos/stv-by.png",СТВ
-http://172.16.0.252/channel/n6a4081d5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-362" tvg-logo="http://172.16.0.252/logos/perviy.png",Первый информационный HD
-http://172.16.0.252/channel/fc86c9b/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-352" tvg-logo="https://dl.dropboxusercontent.com/s/o0vaqw3wh7wa3tm/ont.jpg",ОНТ Беларусь
-http://172.16.0.252/channel/n3222b6b7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-320" tvg-logo="https://dl.dropboxusercontent.com/s/uf8mx1l9d6ghoql/ntv-bel.png",НТВ Беларусь
-http://172.16.0.252/channel/6a0c0fbf/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-386" tvg-logo="https://dl.dropboxusercontent.com/s/hzssidwxrn9oapl/rtr_bel.png",РТР Беларусь
-http://172.16.0.252/channel/n22dad072/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Религиозные" tvg-id="hlsproxy-418" tvg-logo="http://172.16.0.252/logos/souz.png",Союз
+https://simf.1tvcrimea.ru/simferopol24sd.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",ОНТ Беларусь
+http://93.189.224.246:52900/play/a009/index.m3u8
+#EXTINF:-1 group-title="Беларусь",НТВ Беларусь
+http://93.189.224.246:52900/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Беларусь",РТР Беларусь
+http://93.189.224.246:52900/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Религиозные",Союз
 http://172.16.0.252/channel/6d5d22a2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Религиозные" tvg-id="hlsproxy-547" tvg-logo="http://172.16.0.252/logos/muzsouz.png",МузСоюз
+#EXTINF:-1 group-title="Религиозные",МузСоюз
 http://172.16.0.252/channel/n37f35166/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Религиозные" tvg-id="hlsproxy-419" tvg-logo="http://172.16.0.252/logos/spas.png",Спас
-http://172.16.0.252/channel/n3a8771fd/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Религиозные" tvg-id="hlsproxy-388" tvg-logo="http://172.16.0.252/logos/radost-moya.png",Радость Моя
+#EXTINF:-1 group-title="Религиозные",Спас
+http://172.16.0.252/channel/n2ca046b5/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Религиозные",Радость Моя
 http://172.16.0.252/channel/nb77c30d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Религиозные" tvg-id="hlsproxy-50249" tvg-logo="http://172.16.0.252/logos/tri-angela.png",Три Ангела HD
+#EXTINF:-1 group-title="Религиозные",Три Ангела HD
 http://172.16.0.252/channel/n7932597/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100142" tvg-logo="https://dl.dropboxusercontent.com/s/sijrqzt6w7cy370/auto-r.png",Авторадио
-http://172.16.0.252/channel/38050911/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100153" tvg-logo="https://dl.dropboxusercontent.com/s/926l2k323x9mybd/radioroddor.png",Радио Родных Дорог
-http://172.16.0.252/channel/n35d87f5f/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Радиостанции",Авторадио
+http://stream-msk-03.ott.tricolor.tv/dtv/id766_MSKSG-PVR-1--Avtoradio/01/plst.m3u8
+#EXTINF:-1 group-title="Радиостанции",Радио Родных Дорог
+https://stream1.radiord.ru:8000/live128.mp3
 #EXTINF:-1 group-title="Радиостанции",Дорожное радио
-http://172.16.0.252/channel/45cdba16/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-51167" tvg-logo="http://172.16.0.252/logos/radio-shanson.png",Радио "Шансон"
-http://172.16.0.252/channel/n432005aa/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-8110" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/rr/relax_tv_cz.png",Relax FM
-http://172.16.0.252/channel/n2c4cbc5a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100160" tvg-logo="https://dl.dropboxusercontent.com/s/lxhv83ui8c5ghku/marusafm.png",Маруся FM
-http://172.16.0.252/channel/6d93ee67/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100150" tvg-logo="https://dl.dropboxusercontent.com/s/x7agtzxf5cpawkg/radiomonte.png",Радио "Монте-Карло"
-http://172.16.0.252/channel/ne2db2d1/index.m3u8?q=1765986513467
+https://dorognoe.hostingradio.ru/dorognoe
+#EXTINF:-1 group-title="Радиостанции",Радио «Шансон»
+https://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1 group-title="Радиостанции",Relax FM
+https://pub0302.101.ru:8000/stream/air/mp3/256/200?256
+#EXTINF:-1 group-title="Радиостанции",Маруся FM
+https://radio-holding.ru:9433/marusya_default
+#EXTINF:-1 group-title="Радиостанции",Радио «Монте-Карло»
+https://montecarlo.hostingradio.ru/montecarlo128.mp3?128
 #EXTINF:-1 group-title="Радиостанции",Радио Record
-http://172.16.0.252/channel/n54412cab/index.m3u8?q=1765986513467
+https://hls-01-radiorecord.hostingradio.ru/record/112/playlist.m3u8
 #EXTINF:-1 group-title="Радиостанции",Радио Record-80
-http://172.16.0.252/channel/3393a070/index.m3u8?q=1765986513467
+https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
 #EXTINF:-1 group-title="Радиостанции",Радио Дача
-http://172.16.0.252/channel/n60836ed5/index.m3u8?q=1765986513467
+https://listen8.vdfm.ru:8000/dacha?type=.mp3
 #EXTINF:-1 group-title="Радиостанции",Европа Plus
-http://172.16.0.252/channel/n5971dd85/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-617" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/radio/mm/maximum-1037-fm-ru.png",MAXIMUM
-http://172.16.0.252/channel/n161af0db/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-616" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/radio/rr/russkoe_radio_ru.png",Русское радио
-http://172.16.0.252/channel/n26a3d028/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100162" tvg-logo="https://dl.dropboxusercontent.com/s/ryg52n4bdx8g8ql/umorfm.png",Юмор FM
-http://172.16.0.252/channel/d29e7c8/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100156" tvg-logo="https://dl.dropboxusercontent.com/s/o8zguozwpz515i9/radiovanya.png",Радио Ваня
-http://172.16.0.252/channel/57e84891/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100143" tvg-logo="https://dl.dropboxusercontent.com/s/tfe70g1wvu7z28d/comedy-r.png",Comedy Radio
-http://172.16.0.252/channel/3e3603a6/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-2060" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/dd/deutsches_musik_fernsehen.png",DFM
-http://172.16.0.252/channel/n1d980206/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-618" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/radio/hh/hit_fm_ru.png",Хит FM
-http://172.16.0.252/channel/n59e53757/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100161" tvg-logo="https://dl.dropboxusercontent.com/s/2jqe5ubtdnb5z8m/retrofm.png",Ретро FM
-http://172.16.0.252/channel/n32726237/index.m3u8?q=1765986513467
+https://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 group-title="Радиостанции",MAXIMUM
+http://stream-msk-10.ott.tricolor.tv/dtv/id763_MSKSG-PVR-1--Maximum/01/plst.m3u8
+#EXTINF:-1 group-title="Радиостанции",Русское радио
+https://rusradio.hostingradio.ru/rusradio128.mp3?128
+#EXTINF:-1 group-title="Радиостанции",Юмор FM
+https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_6
+#EXTINF:-1 group-title="Радиостанции",Радио Ваня
+https://icecast-radiovanya.cdnvideo.ru/radiovanya
+#EXTINF:-1 group-title="Радиостанции",Comedy Radio
+https://ic4.101.ru:8000/s60
+#EXTINF:-1 group-title="Радиостанции",DFM
+https://montecarlo.hostingradio.ru/dfm128.mp3?128
+#EXTINF:-1 group-title="Радиостанции",Хит FM
+https://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="Радиостанции",Ретро FM
+https://retro.hostingradio.ru:8014/retro320.mp3?320
 #EXTINF:-1 group-title="Радиостанции",Радио 7 на семи холмах
-http://172.16.0.252/channel/ne55999f/index.m3u8?q=1765986513467
+https://radio7.hostingradio.ru:8040/radio7128.mp3
 #EXTINF:-1 group-title="Радиостанции",Воскресение
-http://172.16.0.252/channel/n4268d3ef/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100157" tvg-logo="https://dl.dropboxusercontent.com/s/kcdryph3oxe3h7e/radiozv.png",Радио ЗВЕЗДА
-http://172.16.0.252/channel/n196ab5bb/index.m3u8?q=1765986513467
+http://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8
+#EXTINF:-1 group-title="Радиостанции",Радио ЗВЕЗДА
+https://zvezdafm.hostingradio.ru/zvezdafm128.mp3
 #EXTINF:-1 group-title="Радиостанции",Радио Комсомольская правда
-http://172.16.0.252/channel/724f914a/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100147" tvg-logo="https://dl.dropboxusercontent.com/s/ofdqixihkpwqjiy/radionrg.png",Радио ENERGY
-http://172.16.0.252/channel/n7c8aa913/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100155" tvg-logo="https://dl.dropboxusercontent.com/s/192yir1d6vhsuiq/romantika.png",Радио Romantika
-http://172.16.0.252/channel/3f347763/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100146" tvg-logo="https://dl.dropboxusercontent.com/s/gzvv7dzrepbudxv/radiodlya2.png",Радио для Двоих
-http://172.16.0.252/channel/351f28a4/index.m3u8?q=1765986513467
+https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+#EXTINF:-1 group-title="Радиостанции",Радио ENERGY
+https://pub0101.101.ru:8000/stream/air/mp3/256/99?256
+#EXTINF:-1 group-title="Радиостанции",Радио Romantika
+https://pub0201.101.ru:8000/stream/air/mp3/256/101?256
+#EXTINF:-1 group-title="Радиостанции",Радио для Двоих
+http://stream-msk-08.ott.tricolor.tv/dtv/id756_MSKSG-PVR-1--Radio_dlya_Dvoikh/01/plst.m3u8
 #EXTINF:-1 group-title="Радиостанции",Радио 107 (Краснодар)
-http://172.16.0.252/channel/26a521ac/index.m3u8?q=1765986513467
+http://stream-msk-09.ott.tricolor.tv/dtv/id781_MSKSG-PVR-1--Radio_107_Krasnodar/01/plst.m3u8
 #EXTINF:-1 group-title="Радиостанции",Детское радио
-http://172.16.0.252/channel/4a9e8ba0/index.m3u8?q=1765986513467
+http://stream-msk-04.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/plst.m3u8
 #EXTINF:-1 group-title="Радиостанции",Радио ТВ
-http://172.16.0.252/channel/79ab5b61/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-9178" tvg-logo="https://dl.dropboxusercontent.com/s/93lz3gggoa59kqt/grad.jpg",Град Петров
-http://172.16.0.252/channel/n68a5da44/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-6025" tvg-logo="http://172.16.0.252/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dance_channel_jp.png",Dance Wave! Flac
-http://172.16.0.252/channel/3396e8bd/index.m3u8?q=1765986513467
+http://stream-msk-06.ott.tricolor.tv/dtv/id764_MSKSG-PVR-1--Radio_TV/01/plst.m3u8
+#EXTINF:-1 group-title="Радиостанции",Град Петров
+http://stream-msk-10.ott.tricolor.tv/dtv/id851_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8
+#EXTINF:-1 group-title="Радиостанции",Dance Wave! Flac
+https://dancewave.online/dance.flac.ogg
 #EXTINF:-1 group-title="Радиостанции",Dance Wave Retro! Flac
-http://172.16.0.252/channel/n14e39bc7/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-54191" tvg-logo="https://dl.dropboxusercontent.com/s/fprqfze1ph23dwa/newradio.png",Новое Радио
-http://172.16.0.252/channel/n2c032f49/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100100" tvg-logo="https://dl.dropboxusercontent.com/s/nam1umz9x4ty232/kamchatka.png",Камчатка Лайф Dance
-http://172.16.0.252/channel/n6d90510c/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100100" tvg-logo="https://dl.dropboxusercontent.com/s/nam1umz9x4ty232/kamchatka.png",Камчатка Лайф Relax
-http://172.16.0.252/channel/n6cc93e2f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Радиостанции" tvg-id="hlsproxy-100100" tvg-logo="https://dl.dropboxusercontent.com/s/nam1umz9x4ty232/kamchatka.png",Камчатка Лайф Rock
-http://172.16.0.252/channel/n3d50abfc/index.m3u8?q=1765986513467
-
+https://retro.dancewave.online/retrodance.flac.ogg
+#EXTINF:-1 group-title="Радиостанции",Новое Радио
+http://stream-msk-02.ott.tricolor.tv/dtv/id853_MSKSG-PVR-1--Novoye_Radio/01/plst.m3u8
+#EXTINF:-1 group-title="Радиостанции",Камчатка Лайф Dance
+http://radio.kamchatkalive.ru:8103/dance
+#EXTINF:-1 group-title="Радиостанции",Камчатка Лайф Relax
+http://radio.kamchatkalive.ru:8103/chillout
+#EXTINF:-1 group-title="Радиостанции",Камчатка Лайф Rock
+http://radio.kamchatkalive.ru:8103/rock

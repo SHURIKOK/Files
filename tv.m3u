@@ -74,7 +74,7 @@ http://172.16.0.252/channel/n4d2332af/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Оплот Горловка
 http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 group-title="Россия",Луганск 24
-https://edge-ekat1.teletarget.ru/stream/lnr/lugansk24/index.m3u8
+http://172.16.0.252/channel/n40b5857/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",ПРНК
 http://172.16.0.252/channel/3e8d40e6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",БелРос
@@ -374,7 +374,7 @@ http://172.16.0.252/channel/n53b7ab12/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Новое Телевидение
 http://172.16.0.252/channel/na5c70fa/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",CGTN-Русский
-https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+http://172.16.0.252/channel/n7c27f9f3/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",ЛДПР ТВ
 http://172.16.0.252/channel/n65b570c0/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",РЖД ТВ
@@ -584,9 +584,9 @@ http://172.16.0.252/channel/n15861412/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",НТМ HD
 http://172.16.0.252/channel/667d6fd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",СТРК Сочи
-http://sochinskayatrk.ru:2015/STRK/mpegts
+http://172.16.0.252/channel/35b8b206/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",СТРК 43 Туапсе
-http://sochinskayatrk.ru:2015/43Kanal/mpegts
+http://172.16.0.252/channel/n1d703c1f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",FilmBox Russia
 http://172.16.0.252/channel/4425a7aa/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Filmbox Arthouse

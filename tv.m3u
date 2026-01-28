@@ -1,4 +1,4 @@
-#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG_LITE.gz"
+#EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 group-title="Россия",Первый канал
 http://172.16.0.252/channel/2cc0125f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Россия 1
@@ -420,9 +420,9 @@ http://172.16.0.252/channel/55e66bc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",VHS-сериал HD
 http://172.16.0.252/channel/43e19ed8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",VHS-ка
-http://172.16.0.252/channel/n67dacc9d/index.m3u8?q=1765986513467
+http://172.16.0.252/channel/77c25d38/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",4K Русское Кино
-http://172.16.0.252/channel/4447ea99/index.m3u8?q=1766064125688
+http://172.16.0.252/channel/n566d73bc/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Kino 24
 http://172.16.0.252/channel/6187a5f8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Про100ТВ
@@ -1105,4 +1105,3 @@ http://radio.kamchatkalive.ru:8103/dance
 http://radio.kamchatkalive.ru:8103/chillout
 #EXTINF:-1 group-title="Радиостанции",Камчатка Лайф Rock
 http://radio.kamchatkalive.ru:8103/rock
-

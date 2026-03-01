@@ -438,19 +438,11 @@ http://72.76.0.150/channel/22493aa7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",viju TV1000 Romantica
 http://72.76.0.150/channel/2acb82b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
-http://72.76.0.150/channel/21e721c2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Comedy
-http://72.76.0.150/channel/21e721c2/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
-http://72.76.0.150/channel/n752ce072/index.m3u8?q=1765986513467
+http://72.76.0.150/channel/n77612cb4/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Megahit
 http://72.76.0.150/channel/n752ce072/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
 http://72.76.0.150/channel/n4bdad694/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Premiere
-http://72.76.0.150/channel/n4bdad694/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
-http://72.76.0.150/channel/3caa151d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Viju+ Serial
 http://72.76.0.150/channel/3caa151d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",.Sci-Fi
@@ -917,15 +909,29 @@ http://72.76.0.150/channel/2c442f6d/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/ndb13e4f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
 http://72.76.0.150/channel/n47eef65f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" tvg-name="USBD350003932",XITE Celebrates
+#EXTINF:-1 group-title="Музыкальные" tvg-
+
+logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" tvg-
+
+name="USBD350003932",XITE Celebrates
 http://72.76.0.150/channel/23c74a36/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" tvg-name="USBD3300004RH",XITE Hits
+#EXTINF:-1 group-title="Музыкальные" tvg-
+
+logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" tvg-
+
+name="USBD3300004RH",XITE Hits
 http://72.76.0.150/channel/n2abef882/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" tvg-name="USBB2300003JZ",XITE Just Chill
+#EXTINF:-1 group-title="Музыкальные" tvg-
+
+logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" tvg-
+
+name="USBB2300003JZ",XITE Just Chill
 http://72.76.0.150/channel/n267b5bec/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные",Company TV
 http://72.76.0.150/channel/n36a354b9/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i2.wp.com/www.afghanlive.tv/wp-content/uploads/2015/04/kayhant-tv-live.jpg",Kayhan Afghan
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i2.wp.com/www.afghanlive.tv/wp-content/uploads/2015/04/kayhant-tv-live.jpg",Kayhan 
+
+Afghan
 http://72.76.0.150/channel/db3a182/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png",Power TV
 http://72.76.0.150/channel/73c9b3d7/index.m3u8?q=1765986513467
@@ -935,11 +941,17 @@ http://72.76.0.150/channel/2cbbda56/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n6dbe791b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
 http://72.76.0.150/channel/nbc87e00/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png",PowerTürk Slow
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png",PowerTürk 
+
+Slow
 http://72.76.0.150/channel/39a452ce/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png",PowerTürk Taptaze
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png",PowerTürk 
+
+Taptaze
 http://72.76.0.150/channel/n450cb72/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png",PowerTürk Akustik
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png",PowerTürk 
+
+Akustik
 http://72.76.0.150/channel/1fef8b61/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da86c21d6a79912e3f698bff6234a2d.webp",Vibee TV
 http://72.76.0.150/channel/7616150e/index.m3u8?q=1765986513467
@@ -979,9 +991,13 @@ http://72.76.0.150/channel/1e9d150/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n30ac6f9c/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg",FTV Midnite Secrets HD
 http://72.76.0.150/channel/1bd5c7b5/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel-en.png" tvg-name="world-fashion-channel-en",World Fashion Channel En
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel-en.png" tvg-name="world-fashion-channel-en",World Fashion 
+
+Channel En
 http://72.76.0.150/channel/33fbde82/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel.png" tvg-name="world-fashion-channel",World Fashion Channel
+#EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/world-fashion-channel.png" tvg-name="world-fashion-channel",World Fashion 
+
+Channel
 http://72.76.0.150/channel/n4e2beb5f/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="МОДА" tvg-logo="https://epgx.site/p/fashion-tv.png" tvg-name="no_epg",Fashion TV Africa
 http://72.76.0.150/channel/n6ba4777b/index.m3u8?q=1765986513467

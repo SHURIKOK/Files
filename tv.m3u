@@ -75,6 +75,8 @@ http://72.76.0.150/channel/n4d2332af/index.m3u8?q=1765986513467
 http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 group-title="Россия",Луганск 24
 http://72.76.0.150/channel/n40b5857/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Новости",Соловьев.Live
+http://72.76.0.150/channel/n61733f92/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",ПРНК
 http://72.76.0.150/channel/3e8d40e6/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",БелРос

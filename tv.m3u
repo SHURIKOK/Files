@@ -389,7 +389,7 @@ http://72.76.0.150/channel/6c944403/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n695c3c99/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
 http://72.76.0.150/channel/306532ad/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Советская киноклассика
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Советская киноклассика
 http://72.76.0.150/channel/n6b2a9a2f/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Фильмы и сериалы",Госфильмофонд. Машина времени
 http://72.76.0.150/channel/20b30ae5/index.m3u8?q=1781604153243
@@ -491,7 +491,7 @@ http://72.76.0.150/channel/35c51d18/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/573bb5bd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
 http://72.76.0.150/channel/n33a77f41/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Хит HD
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Хит HD
 http://72.76.0.150/channel/339fd62d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
 http://72.76.0.150/channel/n1fc19d48/index.m3u8?q=1765986513467
@@ -806,17 +806,17 @@ http://72.76.0.150/channel/42eaf263/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
 http://72.76.0.150/channel/n2001dfb/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер
-http://72.76.0.150/channel/n2d057889/index.m3u8?q=1766064125688
+http://72.76.0.150/channel/3974ba9e/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
-http://72.76.0.150/channel/2a0b081c/index.m3u8?q=1766064125688
+http://72.76.0.150/channel/5816ca26/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-http://tv.ttk.mx:9108
+http://72.76.0.150/channel/n569aecb5/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-http://tv.ttk.mx:9111
+http://72.76.0.150/channel/n569a7856/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-http://tv.ttk.mx:9112
+http://72.76.0.150/channel/n569a03f7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
-http://72.76.0.150/channel/n29006eac/index.m3u8?q=1766064125688
+http://72.76.0.150/channel/n849e7df/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
 http://72.76.0.150/channel/n28fffa4d/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Спортивные",Точка отрыва

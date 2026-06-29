@@ -389,7 +389,7 @@ http://72.76.0.150/channel/6c944403/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n695c3c99/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
 http://72.76.0.150/channel/306532ad/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Советская киноклассика
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Советская киноклассика
 http://72.76.0.150/channel/nd9718a2/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Фильмы и сериалы",Госфильмофонд. Машина времени
 http://72.76.0.150/channel/n699ddf48/index.m3u8?q=1781604153243
@@ -400,7 +400,7 @@ http://72.76.0.150/channel/c6591a7/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Честный детектив
 http://72.76.0.150/channel/n690432a9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Победа
-http://72.76.0.150/channel/n20c805a6/index.m3u8?q=1765986513467
+http://72.76.0.150/channel/n4c5f8711/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Фильмы и сериалы",День Победы
 http://72.76.0.150/channel/n51ef8a70/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Фильмы и сериалы",Патриот
@@ -491,7 +491,7 @@ http://72.76.0.150/channel/n3450eb78/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/1a85912d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
 http://72.76.0.150/channel/n1b66bfd1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Хит HD
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Хит HD
 http://72.76.0.150/channel/n427f1663/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
 http://72.76.0.150/channel/n2fea6eb8/index.m3u8?q=1765986513467

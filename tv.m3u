@@ -297,6 +297,8 @@ http://72.76.0.150/channel/n45df9347/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n467e20c8/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Советские мультфильмы
 http://72.76.0.150/channel/ncd538ea/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png",Смотрим 100% Детское
+http://72.76.0.150/channel/n6e9c76b/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Baby Time
 http://72.76.0.150/channel/37c47277/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Детские",Карусель
@@ -389,10 +391,12 @@ http://72.76.0.150/channel/n3b0cc3d/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n695c3c99/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
 http://72.76.0.150/channel/n7d35e513/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Советская киноклассика
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Советская киноклассика
 http://72.76.0.150/channel/61091d4c/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Фильмы и сериалы",Госфильмофонд. Машина времени
 http://72.76.0.150/channel/n5a9bfcf6/index.m3u8?q=1781604153243
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png",Смотрим 100% Классика
+http://72.76.0.150/channel/n4856d385/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Фильмы и сериалы",Классика Кино
 http://72.76.0.150/channel/n767af860/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Феникс+ Кино
@@ -489,9 +493,13 @@ http://72.76.0.150/channel/n4135a2ff/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n3450eb78/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Про любовь
 http://72.76.0.150/channel/1a85912d/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png",Смотрим 100% Любовь
+http://72.76.0.150/channel/786c3116/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png",Смотрим 100% Мужское
+http://72.76.0.150/channel/n487d2ebd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
 http://72.76.0.150/channel/n1b66bfd1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Хит HD
+#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Хит HD
 http://72.76.0.150/channel/n427f1663/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
 http://72.76.0.150/channel/n2fea6eb8/index.m3u8?q=1765986513467
@@ -579,6 +587,8 @@ http://72.76.0.150/channel/n69fe1bc9/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/4c1a46db/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Ретро",Красная линия
 http://72.76.0.150/channel/n5f6bfa41/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png",Смотрим 100% Факты
+http://72.76.0.150/channel/n2d389b45/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",TERRA
 http://72.76.0.150/channel/n46932966/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",МЫ
@@ -763,8 +773,8 @@ http://72.76.0.150/channel/7716941e/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n1ebeedf9/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Познавательные",Travelxp HD
 http://72.76.0.150/channel/n46f79136/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
-http://72.76.0.150/channel/n7155e436/index.m3u8?q=1766064125688
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png",Смотрим 100% Праздник
+http://72.76.0.150/channel/n39048c31/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://72.76.0.150/channel/223b4968/index.m3u8?q=1766064125688
 #EXTINF:-1 group-title="Развлекательные",Сарафан

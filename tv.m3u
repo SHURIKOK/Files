@@ -350,7 +350,7 @@ http://72.76.0.150/channel/n29a538c3/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Детские",В гостях у сказки
 http://72.76.0.150/channel/44659ef5/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Детские",СТС Kids HD
-http://72.76.0.150/channel/a8fe8ed/index.m3u8?q=1781604153243
+http://72.76.0.150/channel/n6378658e/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Новости",Россия 1 (Донецк)
 http://72.76.0.150/channel/1b76764d/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Россия 24 (Ростов)
@@ -391,7 +391,7 @@ http://72.76.0.150/channel/n3b0cc3d/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n695c3c99/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Советское Кино
 http://72.76.0.150/channel/n7d35e513/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Советская киноклассика
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Советская киноклассика
 http://72.76.0.150/channel/61091d4c/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Фильмы и сериалы",Госфильмофонд. Машина времени
 http://72.76.0.150/channel/n5a9bfcf6/index.m3u8?q=1781604153243
@@ -499,7 +499,7 @@ http://72.76.0.150/channel/786c3116/index.m3u8?q=1765986513467
 http://72.76.0.150/channel/n487d2ebd/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наше мужское
 http://72.76.0.150/channel/n1b66bfd1/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Фильмы и сериалы" tvg-shift="-3",Хит HD
+#EXTINF:-1 group-title="Фильмы и сериалы" offset="-3",Хит HD
 http://72.76.0.150/channel/n427f1663/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Фильмы и сериалы",Наш кинопоказ
 http://72.76.0.150/channel/n2fea6eb8/index.m3u8?q=1765986513467

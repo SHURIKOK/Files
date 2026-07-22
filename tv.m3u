@@ -1,8 +1,10 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG_LITE.gz"
 #EXTINF:-1 group-title="Россия",Первый канал
 http://72.76.0.150/channel/2cc0125f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Россия",Россия 1
+#EXTINF:-1 group-title="Россия",Россия 1 Донецк
 http://72.76.0.150/channel/1b76764d/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Россия",Россия 1
+http://72.76.0.150/channel/n5ea0a823/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Россия 24
 http://72.76.0.150/channel/n75745bea/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Звезда

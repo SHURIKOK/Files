@@ -1,8 +1,8 @@
 #EXTM3U m3uautoload=1 url-tvg="https://iptvx.one/EPG_LITE.gz"
 #EXTINF:-1 group-title="Россия",Первый канал
 http://72.76.0.150/channel/2cc0125f/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Россия",Россия 1 Донецк
-http://72.76.0.150/channel/1b76764d/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Россия",Россия 1 HD
+http://72.76.0.150/channel/20c159a1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Россия 1
 http://72.76.0.150/channel/n5ea0a823/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Россия",Россия 24
@@ -353,12 +353,10 @@ http://72.76.0.150/channel/3087f3b5/index.m3u8?q=1781604153243
 http://72.76.0.150/channel/n268d3815/index.m3u8?q=1781604153243
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 http://72.76.0.150/channel/n6378658e/index.m3u8?q=1781604153243
-#EXTINF:-1 group-title="Новости",Россия 1 (Донецк)
-http://72.76.0.150/channel/1b76764d/index.m3u8?q=1765986513467
-#EXTINF:-1 group-title="Новости",Россия 24 (Ростов)
-http://72.76.0.150/channel/535853a6/index.m3u8?q=1765986513467
+#EXTINF:-1 group-title="Новости",Россия 1 HD
+http://72.76.0.150/channel/20c159a1/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Россия 24 HD
-http://72.76.0.150/channel/nc513c4a/index.m3u8?q=1765986513467
+http://72.76.0.150/channel/35f1cc2a/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",Известия
 http://72.76.0.150/channel/n5ee6f695/index.m3u8?q=1765986513467
 #EXTINF:-1 group-title="Новости",360°
